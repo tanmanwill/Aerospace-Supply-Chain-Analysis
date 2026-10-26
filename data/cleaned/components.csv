@@ -1,0 +1,501 @@
+ComponentID,ComponentName,Category,UnitCost,SafetyStock,LeadTimeDays,SupplierID,CurrentStock
+CMP0001,Power Systems Component 0001,Power Systems,2586.72,53,18,SUP012,1055
+CMP0002,Propulsion Component 0002,Propulsion,1355.45,21,34,SUP020,1715
+CMP0003,Communications Component 0003,Communications,1380.52,92,43,SUP025,1870
+CMP0004,Propulsion Component 0004,Propulsion,4738.48,76,20,SUP020,2211
+CMP0005,Propulsion Component 0005,Propulsion,6487.68,69,44,SUP020,1385
+CMP0006,Electronics Component 0006,Electronics,1444.75,29,42,SUP019,2272
+CMP0007,Sensors Component 0007,Sensors,1476.18,81,15,SUP032,1144
+CMP0008,Thermal Control Component 0008,Thermal Control,1880.04,78,16,SUP010,2442
+CMP0009,Electronics Component 0009,Electronics,1358.77,30,33,SUP003,2083
+CMP0010,Propulsion Component 0010,Propulsion,6002.59,44,12,SUP026,1324
+CMP0011,Sensors Component 0011,Sensors,3840.89,59,32,SUP034,1062
+CMP0012,Sensors Component 0012,Sensors,3003.67,70,31,SUP014,2389
+CMP0013,Communications Component 0013,Communications,3085.91,83,12,SUP007,1027
+CMP0014,Sensors Component 0014,Sensors,893.72,46,9,SUP009,1000
+CMP0015,Propulsion Component 0015,Propulsion,2120.63,44,45,SUP026,1660
+CMP0016,Communications Component 0016,Communications,4259.13,48,5,SUP025,2021
+CMP0017,Propulsion Component 0017,Propulsion,5081.88,57,7,SUP036,1091
+CMP0018,Electronics Component 0018,Electronics,761.53,59,43,SUP005,1624
+CMP0019,Propulsion Component 0019,Propulsion,4998.15,85,44,SUP026,1553
+CMP0020,Structural Component 0020,Structural,1592.3,62,5,SUP024,1722
+CMP0021,Structural Component 0021,Structural,3146.95,63,17,SUP039,1663
+CMP0022,Sensors Component 0022,Sensors,3426.75,28,16,SUP014,1457
+CMP0023,Propulsion Component 0023,Propulsion,7406.45,96,18,SUP026,2033
+CMP0024,Electronics Component 0024,Electronics,383.81,94,6,SUP030,1372
+CMP0025,Electronics Component 0025,Electronics,587.84,45,23,SUP030,754
+CMP0026,Thermal Control Component 0026,Thermal Control,3818.66,45,16,SUP037,1613
+CMP0027,Communications Component 0027,Communications,2014.97,100,12,SUP028,1181
+CMP0028,Propulsion Component 0028,Propulsion,4633.42,23,45,SUP026,2094
+CMP0029,Propulsion Component 0029,Propulsion,7611.78,88,14,SUP036,1185
+CMP0030,Power Systems Component 0030,Power Systems,2066.59,62,36,SUP002,2820
+CMP0031,Structural Component 0031,Structural,1370.44,91,35,SUP024,2454
+CMP0032,Thermal Control Component 0032,Thermal Control,3756.73,41,14,SUP011,1904
+CMP0033,Electronics Component 0033,Electronics,1255.11,92,35,SUP003,1521
+CMP0034,Propulsion Component 0034,Propulsion,8808.34,68,13,SUP020,890
+CMP0035,Propulsion Component 0035,Propulsion,7885.35,45,25,SUP020,1225
+CMP0036,Sensors Component 0036,Sensors,266.89,31,14,SUP018,1574
+CMP0037,Propulsion Component 0037,Propulsion,6937.76,98,17,SUP015,729
+CMP0038,Sensors Component 0038,Sensors,2989.36,76,13,SUP040,1207
+CMP0039,Power Systems Component 0039,Power Systems,4363.59,26,38,SUP012,953
+CMP0040,Electronics Component 0040,Electronics,1394.97,30,21,SUP019,1863
+CMP0041,Power Systems Component 0041,Power Systems,3059.36,61,17,SUP002,1861
+CMP0042,Power Systems Component 0042,Power Systems,5567.65,43,6,SUP012,691
+CMP0043,Communications Component 0043,Communications,4547.63,88,34,SUP028,1058
+CMP0044,Electronics Component 0044,Electronics,1451.04,53,29,SUP035,837
+CMP0045,Propulsion Component 0045,Propulsion,8141.43,54,31,SUP036,1998
+CMP0046,Thermal Control Component 0046,Thermal Control,570.2,21,39,SUP027,1300
+CMP0047,Propulsion Component 0047,Propulsion,2710.09,47,36,SUP036,1979
+CMP0048,Communications Component 0048,Communications,4340.82,90,21,SUP033,1695
+CMP0049,Electronics Component 0049,Electronics,667.53,29,44,SUP019,1192
+CMP0050,Power Systems Component 0050,Power Systems,1675.08,56,14,SUP002,1335
+CMP0051,Power Systems Component 0051,Power Systems,4945.27,97,41,SUP012,809
+CMP0052,Electronics Component 0052,Electronics,261.95,68,38,SUP019,1246
+CMP0053,Structural Component 0053,Structural,589.16,94,29,SUP017,1896
+CMP0054,Propulsion Component 0054,Propulsion,1959.33,43,9,SUP015,1124
+CMP0055,Sensors Component 0055,Sensors,465.9,35,39,SUP008,1411
+CMP0056,Electronics Component 0056,Electronics,1037.04,67,21,SUP019,2008
+CMP0057,Thermal Control Component 0057,Thermal Control,2092.43,79,37,SUP010,1897
+CMP0058,Thermal Control Component 0058,Thermal Control,848.77,23,14,SUP013,1257
+CMP0059,Propulsion Component 0059,Propulsion,5926.71,96,16,SUP015,1663
+CMP0060,Electronics Component 0060,Electronics,809.44,50,9,SUP003,2100
+CMP0061,Electronics Component 0061,Electronics,125.34,52,33,SUP038,1051
+CMP0062,Electronics Component 0062,Electronics,1358.85,88,45,SUP038,1316
+CMP0063,Structural Component 0063,Structural,2750.22,70,30,SUP039,1971
+CMP0064,Thermal Control Component 0064,Thermal Control,2213.86,30,26,SUP023,763
+CMP0065,Power Systems Component 0065,Power Systems,2911.1,83,33,SUP012,1466
+CMP0066,Communications Component 0066,Communications,1236.45,41,24,SUP022,1579
+CMP0067,Propulsion Component 0067,Propulsion,2709.41,47,25,SUP020,706
+CMP0068,Structural Component 0068,Structural,1390.18,46,33,SUP024,2169
+CMP0069,Propulsion Component 0069,Propulsion,9514.15,74,40,SUP020,922
+CMP0070,Sensors Component 0070,Sensors,2770.09,46,39,SUP032,1079
+CMP0071,Sensors Component 0071,Sensors,4061.08,64,36,SUP029,987
+CMP0072,Communications Component 0072,Communications,5223.78,43,13,SUP007,850
+CMP0073,Communications Component 0073,Communications,6066.82,94,44,SUP031,1554
+CMP0074,Communications Component 0074,Communications,5162.29,27,8,SUP028,814
+CMP0075,Sensors Component 0075,Sensors,859.56,97,11,SUP040,1141
+CMP0076,Thermal Control Component 0076,Thermal Control,3163.1,68,37,SUP011,1867
+CMP0077,Power Systems Component 0077,Power Systems,1706.95,78,7,SUP012,1509
+CMP0078,Electronics Component 0078,Electronics,298.37,69,28,SUP030,622
+CMP0079,Electronics Component 0079,Electronics,725.68,75,34,SUP030,1011
+CMP0080,Thermal Control Component 0080,Thermal Control,2044.79,84,29,SUP037,1282
+CMP0081,Electronics Component 0081,Electronics,223.61,83,34,SUP038,1393
+CMP0082,Electronics Component 0082,Electronics,656.98,73,36,SUP019,1471
+CMP0083,Propulsion Component 0083,Propulsion,3669.56,79,38,SUP026,1368
+CMP0084,Thermal Control Component 0084,Thermal Control,1552.14,41,17,SUP016,967
+CMP0085,Structural Component 0085,Structural,602.46,26,27,SUP006,901
+CMP0086,Sensors Component 0086,Sensors,3702.49,51,27,SUP032,671
+CMP0087,Power Systems Component 0087,Power Systems,4736.73,69,10,SUP012,662
+CMP0088,Structural Component 0088,Structural,2540.38,99,43,SUP024,1617
+CMP0089,Structural Component 0089,Structural,2991.81,91,10,SUP006,1700
+CMP0090,Electronics Component 0090,Electronics,1044.84,67,5,SUP019,913
+CMP0091,Electronics Component 0091,Electronics,1246.83,54,44,SUP019,1715
+CMP0092,Sensors Component 0092,Sensors,1649.25,55,42,SUP014,1608
+CMP0093,Thermal Control Component 0093,Thermal Control,575.77,51,6,SUP027,1544
+CMP0094,Power Systems Component 0094,Power Systems,5062.16,42,9,SUP012,1490
+CMP0095,Communications Component 0095,Communications,4760.09,31,30,SUP033,1688
+CMP0096,Electronics Component 0096,Electronics,92.05,92,14,SUP035,961
+CMP0097,Sensors Component 0097,Sensors,3928.49,85,5,SUP009,992
+CMP0098,Power Systems Component 0098,Power Systems,457.94,73,5,SUP002,2643
+CMP0099,Propulsion Component 0099,Propulsion,6256.29,99,44,SUP015,1901
+CMP0100,Propulsion Component 0100,Propulsion,1043.7,88,37,SUP020,1267
+CMP0101,Power Systems Component 0101,Power Systems,4689.62,88,38,SUP012,1540
+CMP0102,Thermal Control Component 0102,Thermal Control,926.86,23,10,SUP013,1421
+CMP0103,Communications Component 0103,Communications,5292.76,64,8,SUP028,1778
+CMP0104,Thermal Control Component 0104,Thermal Control,2978.29,32,12,SUP013,1690
+CMP0105,Electronics Component 0105,Electronics,1079.36,62,35,SUP005,1918
+CMP0106,Communications Component 0106,Communications,4429.27,24,6,SUP028,725
+CMP0107,Propulsion Component 0107,Propulsion,7240.99,53,20,SUP036,1277
+CMP0108,Electronics Component 0108,Electronics,1471.04,34,23,SUP035,830
+CMP0109,Sensors Component 0109,Sensors,3254.76,90,23,SUP034,816
+CMP0110,Propulsion Component 0110,Propulsion,3362.76,96,28,SUP015,1135
+CMP0111,Sensors Component 0111,Sensors,3316.32,55,11,SUP032,1334
+CMP0112,Propulsion Component 0112,Propulsion,4338.33,61,24,SUP020,1468
+CMP0113,Electronics Component 0113,Electronics,244.44,96,8,SUP003,1923
+CMP0114,Structural Component 0114,Structural,2177.36,54,31,SUP024,1332
+CMP0115,Power Systems Component 0115,Power Systems,2600.5,88,43,SUP002,2464
+CMP0116,Communications Component 0116,Communications,541.6,45,22,SUP028,1387
+CMP0117,Sensors Component 0117,Sensors,1282.85,27,19,SUP021,1328
+CMP0118,Sensors Component 0118,Sensors,3310.15,76,31,SUP029,1328
+CMP0119,Communications Component 0119,Communications,5575.8,47,13,SUP022,1437
+CMP0120,Sensors Component 0120,Sensors,1931.16,70,26,SUP021,1328
+CMP0121,Thermal Control Component 0121,Thermal Control,3562.65,30,39,SUP023,1439
+CMP0122,Sensors Component 0122,Sensors,4039.38,62,17,SUP032,1312
+CMP0123,Sensors Component 0123,Sensors,2571.88,23,7,SUP034,2092
+CMP0124,Electronics Component 0124,Electronics,130.57,88,16,SUP038,1070
+CMP0125,Sensors Component 0125,Sensors,1030.37,79,7,SUP018,1077
+CMP0126,Thermal Control Component 0126,Thermal Control,3334.62,21,40,SUP037,1629
+CMP0127,Structural Component 0127,Structural,622.28,39,32,SUP017,928
+CMP0128,Electronics Component 0128,Electronics,1439.72,49,45,SUP030,1043
+CMP0129,Sensors Component 0129,Sensors,1692.62,82,10,SUP032,1512
+CMP0130,Communications Component 0130,Communications,4593.95,51,5,SUP031,700
+CMP0131,Communications Component 0131,Communications,3818.09,57,34,SUP022,1744
+CMP0132,Propulsion Component 0132,Propulsion,9896.76,87,27,SUP020,1799
+CMP0133,Propulsion Component 0133,Propulsion,9908.06,72,25,SUP036,1151
+CMP0134,Sensors Component 0134,Sensors,584.24,51,35,SUP034,2414
+CMP0135,Electronics Component 0135,Electronics,730.52,94,17,SUP019,1221
+CMP0136,Propulsion Component 0136,Propulsion,924.17,93,14,SUP015,1138
+CMP0137,Propulsion Component 0137,Propulsion,5156.88,100,34,SUP020,856
+CMP0138,Sensors Component 0138,Sensors,1369.6,26,39,SUP008,1967
+CMP0139,Thermal Control Component 0139,Thermal Control,2649.22,52,37,SUP016,1169
+CMP0140,Thermal Control Component 0140,Thermal Control,1561.44,24,27,SUP016,661
+CMP0141,Power Systems Component 0141,Power Systems,5105.75,46,26,SUP002,2238
+CMP0142,Thermal Control Component 0142,Thermal Control,2093.45,89,42,SUP023,1449
+CMP0143,Structural Component 0143,Structural,2990.93,51,28,SUP024,2474
+CMP0144,Sensors Component 0144,Sensors,703.9,63,21,SUP034,1435
+CMP0145,Power Systems Component 0145,Power Systems,3877.29,51,5,SUP012,930
+CMP0146,Structural Component 0146,Structural,184.4,35,43,SUP017,719
+CMP0147,Communications Component 0147,Communications,2360.48,31,28,SUP025,2292
+CMP0148,Electronics Component 0148,Electronics,1069.4,42,30,SUP019,1515
+CMP0149,Communications Component 0149,Communications,4456.4,91,45,SUP033,1249
+CMP0150,Thermal Control Component 0150,Thermal Control,2924.68,93,44,SUP016,1204
+CMP0151,Communications Component 0151,Communications,6107.57,26,25,SUP031,2369
+CMP0152,Thermal Control Component 0152,Thermal Control,2279.45,55,31,SUP027,1631
+CMP0153,Structural Component 0153,Structural,3447.57,32,38,SUP039,783
+CMP0154,Thermal Control Component 0154,Thermal Control,1484.0,80,10,SUP037,1390
+CMP0155,Structural Component 0155,Structural,2742.97,98,40,SUP006,895
+CMP0156,Power Systems Component 0156,Power Systems,5873.02,57,21,SUP012,499
+CMP0157,Electronics Component 0157,Electronics,172.99,37,27,SUP035,1032
+CMP0158,Thermal Control Component 0158,Thermal Control,3316.94,94,6,SUP010,1791
+CMP0159,Electronics Component 0159,Electronics,120.61,49,43,SUP019,879
+CMP0160,Communications Component 0160,Communications,5483.93,77,40,SUP031,2254
+CMP0161,Thermal Control Component 0161,Thermal Control,3233.36,50,42,SUP023,1555
+CMP0162,Propulsion Component 0162,Propulsion,8652.19,70,5,SUP015,1567
+CMP0163,Power Systems Component 0163,Power Systems,4144.4,62,36,SUP012,852
+CMP0164,Structural Component 0164,Structural,2383.48,92,14,SUP024,2146
+CMP0165,Structural Component 0165,Structural,1283.31,83,42,SUP039,1089
+CMP0166,Structural Component 0166,Structural,1449.6,67,16,SUP024,1398
+CMP0167,Sensors Component 0167,Sensors,1100.45,75,32,SUP034,1647
+CMP0168,Structural Component 0168,Structural,2845.27,78,45,SUP017,1486
+CMP0169,Communications Component 0169,Communications,3033.21,63,9,SUP022,1386
+CMP0170,Communications Component 0170,Communications,4995.9,100,29,SUP022,1058
+CMP0171,Electronics Component 0171,Electronics,1377.18,37,19,SUP019,1579
+CMP0172,Electronics Component 0172,Electronics,147.39,49,13,SUP003,2227
+CMP0173,Sensors Component 0173,Sensors,2375.74,98,41,SUP008,1414
+CMP0174,Structural Component 0174,Structural,3361.31,54,35,SUP017,922
+CMP0175,Sensors Component 0175,Sensors,1565.8,48,20,SUP021,1658
+CMP0176,Propulsion Component 0176,Propulsion,9136.12,46,26,SUP026,1730
+CMP0177,Power Systems Component 0177,Power Systems,3646.78,70,6,SUP012,1189
+CMP0178,Structural Component 0178,Structural,1196.47,39,11,SUP039,2230
+CMP0179,Structural Component 0179,Structural,1063.04,24,15,SUP039,2150
+CMP0180,Thermal Control Component 0180,Thermal Control,1837.79,83,24,SUP016,1743
+CMP0181,Power Systems Component 0181,Power Systems,4128.94,40,32,SUP012,1012
+CMP0182,Power Systems Component 0182,Power Systems,1314.78,83,28,SUP002,2132
+CMP0183,Structural Component 0183,Structural,2319.94,45,36,SUP006,1408
+CMP0184,Sensors Component 0184,Sensors,372.05,55,44,SUP040,912
+CMP0185,Thermal Control Component 0185,Thermal Control,308.15,24,28,SUP001,1104
+CMP0186,Electronics Component 0186,Electronics,798.33,56,17,SUP038,1292
+CMP0187,Electronics Component 0187,Electronics,211.82,71,36,SUP003,1627
+CMP0188,Electronics Component 0188,Electronics,350.18,76,17,SUP038,742
+CMP0189,Sensors Component 0189,Sensors,2199.73,32,16,SUP018,2200
+CMP0190,Electronics Component 0190,Electronics,51.79,89,25,SUP019,397
+CMP0191,Propulsion Component 0191,Propulsion,3664.39,53,27,SUP020,1278
+CMP0192,Thermal Control Component 0192,Thermal Control,1152.34,88,18,SUP013,1453
+CMP0193,Communications Component 0193,Communications,3515.08,89,18,SUP022,1433
+CMP0194,Propulsion Component 0194,Propulsion,9338.65,46,6,SUP026,1689
+CMP0195,Sensors Component 0195,Sensors,3615.48,35,29,SUP021,736
+CMP0196,Electronics Component 0196,Electronics,1382.29,31,5,SUP005,1067
+CMP0197,Power Systems Component 0197,Power Systems,429.88,32,33,SUP002,1879
+CMP0198,Communications Component 0198,Communications,4113.72,39,29,SUP025,1300
+CMP0199,Communications Component 0199,Communications,331.77,42,26,SUP033,1227
+CMP0200,Communications Component 0200,Communications,5478.68,33,40,SUP025,1304
+CMP0201,Structural Component 0201,Structural,3223.9,65,44,SUP017,1416
+CMP0202,Communications Component 0202,Communications,2722.29,99,38,SUP033,1602
+CMP0203,Propulsion Component 0203,Propulsion,8092.53,29,17,SUP020,1470
+CMP0204,Propulsion Component 0204,Propulsion,3517.54,53,8,SUP026,1791
+CMP0205,Power Systems Component 0205,Power Systems,2242.25,51,33,SUP002,2497
+CMP0206,Propulsion Component 0206,Propulsion,7226.87,78,35,SUP026,1800
+CMP0207,Thermal Control Component 0207,Thermal Control,3576.57,31,14,SUP010,1799
+CMP0208,Electronics Component 0208,Electronics,1054.99,31,12,SUP035,935
+CMP0209,Thermal Control Component 0209,Thermal Control,3968.33,41,42,SUP013,1467
+CMP0210,Electronics Component 0210,Electronics,897.73,100,10,SUP030,1642
+CMP0211,Communications Component 0211,Communications,6198.55,53,11,SUP033,1494
+CMP0212,Communications Component 0212,Communications,638.48,42,29,SUP022,1135
+CMP0213,Electronics Component 0213,Electronics,1012.25,99,12,SUP005,2416
+CMP0214,Electronics Component 0214,Electronics,385.36,68,40,SUP003,1680
+CMP0215,Thermal Control Component 0215,Thermal Control,2501.47,35,26,SUP010,1488
+CMP0216,Structural Component 0216,Structural,2567.62,74,28,SUP039,1498
+CMP0217,Propulsion Component 0217,Propulsion,9842.46,32,42,SUP036,1253
+CMP0218,Sensors Component 0218,Sensors,4020.94,21,26,SUP040,1252
+CMP0219,Structural Component 0219,Structural,419.84,82,31,SUP017,828
+CMP0220,Structural Component 0220,Structural,607.87,75,44,SUP006,1467
+CMP0221,Propulsion Component 0221,Propulsion,2395.65,94,45,SUP015,1714
+CMP0222,Power Systems Component 0222,Power Systems,2951.36,37,35,SUP002,1746
+CMP0223,Communications Component 0223,Communications,2839.65,53,8,SUP033,1159
+CMP0224,Thermal Control Component 0224,Thermal Control,3164.4,79,28,SUP016,646
+CMP0225,Sensors Component 0225,Sensors,4539.07,76,40,SUP008,1758
+CMP0226,Thermal Control Component 0226,Thermal Control,936.93,28,35,SUP013,2011
+CMP0227,Sensors Component 0227,Sensors,4900.28,100,38,SUP008,1268
+CMP0228,Thermal Control Component 0228,Thermal Control,1669.33,91,18,SUP037,1841
+CMP0229,Structural Component 0229,Structural,2075.36,51,5,SUP024,1183
+CMP0230,Communications Component 0230,Communications,3433.19,95,13,SUP028,1066
+CMP0231,Structural Component 0231,Structural,1439.96,82,18,SUP017,1176
+CMP0232,Propulsion Component 0232,Propulsion,3725.04,75,44,SUP020,1102
+CMP0233,Thermal Control Component 0233,Thermal Control,530.86,58,28,SUP010,1410
+CMP0234,Power Systems Component 0234,Power Systems,1412.01,42,12,SUP002,1330
+CMP0235,Sensors Component 0235,Sensors,2448.4,56,10,SUP021,1292
+CMP0236,Electronics Component 0236,Electronics,1441.03,59,31,SUP003,1199
+CMP0237,Communications Component 0237,Communications,1041.64,38,10,SUP025,2640
+CMP0238,Structural Component 0238,Structural,3080.82,81,41,SUP017,1353
+CMP0239,Electronics Component 0239,Electronics,1474.43,48,29,SUP038,997
+CMP0240,Electronics Component 0240,Electronics,491.48,31,27,SUP019,896
+CMP0241,Structural Component 0241,Structural,2975.71,80,21,SUP006,814
+CMP0242,Sensors Component 0242,Sensors,1415.63,33,11,SUP021,1458
+CMP0243,Electronics Component 0243,Electronics,897.13,62,35,SUP038,756
+CMP0244,Structural Component 0244,Structural,1476.51,50,36,SUP039,1416
+CMP0245,Electronics Component 0245,Electronics,349.88,68,21,SUP035,1522
+CMP0246,Electronics Component 0246,Electronics,195.57,92,15,SUP005,1801
+CMP0247,Propulsion Component 0247,Propulsion,2205.17,72,7,SUP036,1950
+CMP0248,Sensors Component 0248,Sensors,3609.18,39,39,SUP009,1094
+CMP0249,Communications Component 0249,Communications,2573.46,63,34,SUP033,1600
+CMP0250,Propulsion Component 0250,Propulsion,2031.91,39,43,SUP020,1674
+CMP0251,Electronics Component 0251,Electronics,1177.17,46,16,SUP038,874
+CMP0252,Sensors Component 0252,Sensors,2775.53,62,22,SUP021,1534
+CMP0253,Structural Component 0253,Structural,527.26,34,8,SUP006,1106
+CMP0254,Sensors Component 0254,Sensors,985.17,97,27,SUP034,3123
+CMP0255,Power Systems Component 0255,Power Systems,1705.81,90,20,SUP002,1210
+CMP0256,Electronics Component 0256,Electronics,516.22,94,29,SUP003,2221
+CMP0257,Electronics Component 0257,Electronics,630.65,62,32,SUP019,877
+CMP0258,Propulsion Component 0258,Propulsion,8273.92,100,35,SUP036,1685
+CMP0259,Structural Component 0259,Structural,619.78,87,32,SUP017,1272
+CMP0260,Structural Component 0260,Structural,1264.17,24,37,SUP024,2043
+CMP0261,Communications Component 0261,Communications,5330.62,71,38,SUP028,1721
+CMP0262,Propulsion Component 0262,Propulsion,4660.9,94,31,SUP015,1057
+CMP0263,Thermal Control Component 0263,Thermal Control,3974.47,42,41,SUP001,1389
+CMP0264,Electronics Component 0264,Electronics,237.09,57,11,SUP019,1837
+CMP0265,Thermal Control Component 0265,Thermal Control,1662.77,32,31,SUP016,1233
+CMP0266,Structural Component 0266,Structural,1667.74,78,32,SUP017,1796
+CMP0267,Communications Component 0267,Communications,3467.65,69,26,SUP028,1189
+CMP0268,Structural Component 0268,Structural,2405.52,34,39,SUP024,1682
+CMP0269,Communications Component 0269,Communications,3312.54,43,35,SUP007,1528
+CMP0270,Thermal Control Component 0270,Thermal Control,2195.94,100,32,SUP010,1837
+CMP0271,Propulsion Component 0271,Propulsion,9501.59,77,35,SUP020,1016
+CMP0272,Thermal Control Component 0272,Thermal Control,2313.0,52,34,SUP011,2249
+CMP0273,Communications Component 0273,Communications,6377.48,46,12,SUP028,1262
+CMP0274,Communications Component 0274,Communications,3034.65,47,23,SUP025,2432
+CMP0275,Propulsion Component 0275,Propulsion,1371.37,46,10,SUP015,1269
+CMP0276,Communications Component 0276,Communications,432.44,73,18,SUP031,1732
+CMP0277,Thermal Control Component 0277,Thermal Control,3145.88,96,35,SUP004,1087
+CMP0278,Propulsion Component 0278,Propulsion,1728.95,74,16,SUP036,1263
+CMP0279,Thermal Control Component 0279,Thermal Control,1241.55,42,42,SUP004,1143
+CMP0280,Power Systems Component 0280,Power Systems,3366.95,36,33,SUP012,724
+CMP0281,Thermal Control Component 0281,Thermal Control,2498.73,80,17,SUP037,1821
+CMP0282,Communications Component 0282,Communications,6840.06,45,21,SUP007,1111
+CMP0283,Sensors Component 0283,Sensors,311.49,63,33,SUP032,1411
+CMP0284,Power Systems Component 0284,Power Systems,2802.67,69,43,SUP012,1057
+CMP0285,Thermal Control Component 0285,Thermal Control,1390.53,89,33,SUP027,1483
+CMP0286,Sensors Component 0286,Sensors,1803.73,71,15,SUP018,600
+CMP0287,Structural Component 0287,Structural,3241.17,45,43,SUP039,3006
+CMP0288,Power Systems Component 0288,Power Systems,4646.84,80,36,SUP002,1205
+CMP0289,Electronics Component 0289,Electronics,711.86,76,29,SUP019,577
+CMP0290,Communications Component 0290,Communications,2027.32,43,29,SUP028,711
+CMP0291,Structural Component 0291,Structural,844.11,73,16,SUP017,1768
+CMP0292,Power Systems Component 0292,Power Systems,293.17,33,18,SUP012,695
+CMP0293,Sensors Component 0293,Sensors,4228.03,38,33,SUP034,2141
+CMP0294,Thermal Control Component 0294,Thermal Control,1651.74,29,45,SUP016,653
+CMP0295,Structural Component 0295,Structural,623.48,22,21,SUP006,1236
+CMP0296,Communications Component 0296,Communications,6871.5,95,7,SUP033,1343
+CMP0297,Power Systems Component 0297,Power Systems,4796.74,40,24,SUP002,1353
+CMP0298,Power Systems Component 0298,Power Systems,893.11,73,39,SUP002,1916
+CMP0299,Communications Component 0299,Communications,3137.42,61,14,SUP022,1029
+CMP0300,Sensors Component 0300,Sensors,3332.9,75,45,SUP014,1915
+CMP0301,Electronics Component 0301,Electronics,798.87,28,33,SUP038,1795
+CMP0302,Thermal Control Component 0302,Thermal Control,1375.56,99,23,SUP004,1207
+CMP0303,Propulsion Component 0303,Propulsion,988.48,49,36,SUP020,1352
+CMP0304,Structural Component 0304,Structural,2929.21,83,38,SUP017,2075
+CMP0305,Power Systems Component 0305,Power Systems,2098.89,39,34,SUP002,1770
+CMP0306,Thermal Control Component 0306,Thermal Control,3588.17,59,10,SUP004,1116
+CMP0307,Sensors Component 0307,Sensors,661.26,46,17,SUP034,2012
+CMP0308,Sensors Component 0308,Sensors,453.47,25,5,SUP014,1592
+CMP0309,Electronics Component 0309,Electronics,1173.2,28,18,SUP019,853
+CMP0310,Communications Component 0310,Communications,1425.61,86,11,SUP031,1701
+CMP0311,Electronics Component 0311,Electronics,1243.53,64,23,SUP038,973
+CMP0312,Thermal Control Component 0312,Thermal Control,1668.75,27,35,SUP001,1498
+CMP0313,Communications Component 0313,Communications,5340.6,36,27,SUP022,1450
+CMP0314,Thermal Control Component 0314,Thermal Control,1566.43,57,13,SUP023,985
+CMP0315,Communications Component 0315,Communications,5334.99,97,36,SUP022,752
+CMP0316,Electronics Component 0316,Electronics,304.25,34,38,SUP019,963
+CMP0317,Electronics Component 0317,Electronics,1486.06,89,45,SUP019,1436
+CMP0318,Communications Component 0318,Communications,2932.55,56,40,SUP022,1553
+CMP0319,Power Systems Component 0319,Power Systems,5268.94,56,30,SUP012,1224
+CMP0320,Propulsion Component 0320,Propulsion,3246.29,73,35,SUP020,759
+CMP0321,Electronics Component 0321,Electronics,848.82,51,20,SUP030,1619
+CMP0322,Communications Component 0322,Communications,631.38,22,29,SUP025,1775
+CMP0323,Structural Component 0323,Structural,984.63,43,15,SUP017,1274
+CMP0324,Thermal Control Component 0324,Thermal Control,2310.71,86,20,SUP001,1214
+CMP0325,Thermal Control Component 0325,Thermal Control,2159.39,33,23,SUP010,1391
+CMP0326,Sensors Component 0326,Sensors,517.18,74,5,SUP029,1376
+CMP0327,Electronics Component 0327,Electronics,1347.04,82,36,SUP005,1645
+CMP0328,Propulsion Component 0328,Propulsion,4964.58,92,24,SUP036,1376
+CMP0329,Thermal Control Component 0329,Thermal Control,379.02,47,24,SUP037,1137
+CMP0330,Communications Component 0330,Communications,4852.83,35,13,SUP025,1925
+CMP0331,Power Systems Component 0331,Power Systems,1440.16,28,26,SUP002,1759
+CMP0332,Propulsion Component 0332,Propulsion,8672.68,30,18,SUP015,1283
+CMP0333,Structural Component 0333,Structural,287.92,62,19,SUP017,1062
+CMP0334,Propulsion Component 0334,Propulsion,2451.21,69,41,SUP036,1459
+CMP0335,Electronics Component 0335,Electronics,194.76,81,7,SUP038,795
+CMP0336,Electronics Component 0336,Electronics,226.85,70,39,SUP019,1791
+CMP0337,Power Systems Component 0337,Power Systems,4963.9,76,10,SUP012,554
+CMP0338,Power Systems Component 0338,Power Systems,2557.27,23,18,SUP002,2898
+CMP0339,Sensors Component 0339,Sensors,2968.93,94,42,SUP040,913
+CMP0340,Propulsion Component 0340,Propulsion,5237.08,99,25,SUP036,1700
+CMP0341,Structural Component 0341,Structural,1394.49,85,37,SUP039,2330
+CMP0342,Communications Component 0342,Communications,2451.27,30,12,SUP025,2525
+CMP0343,Power Systems Component 0343,Power Systems,5230.33,22,28,SUP002,1400
+CMP0344,Structural Component 0344,Structural,1567.16,53,30,SUP024,2014
+CMP0345,Structural Component 0345,Structural,3271.45,79,36,SUP039,2099
+CMP0346,Structural Component 0346,Structural,2030.98,56,23,SUP017,1777
+CMP0347,Structural Component 0347,Structural,1984.96,49,44,SUP024,1742
+CMP0348,Structural Component 0348,Structural,421.78,50,11,SUP006,1436
+CMP0349,Sensors Component 0349,Sensors,2067.66,89,37,SUP032,766
+CMP0350,Sensors Component 0350,Sensors,1435.63,81,38,SUP032,589
+CMP0351,Power Systems Component 0351,Power Systems,3685.02,28,45,SUP012,928
+CMP0352,Electronics Component 0352,Electronics,619.1,96,42,SUP030,1044
+CMP0353,Power Systems Component 0353,Power Systems,276.56,69,43,SUP012,776
+CMP0354,Communications Component 0354,Communications,477.77,65,35,SUP033,1392
+CMP0355,Propulsion Component 0355,Propulsion,5215.97,36,23,SUP036,1412
+CMP0356,Electronics Component 0356,Electronics,529.54,83,41,SUP030,832
+CMP0357,Power Systems Component 0357,Power Systems,3499.2,24,32,SUP002,1326
+CMP0358,Propulsion Component 0358,Propulsion,5217.61,82,26,SUP020,1220
+CMP0359,Propulsion Component 0359,Propulsion,9654.01,84,39,SUP036,2019
+CMP0360,Propulsion Component 0360,Propulsion,8842.4,68,20,SUP036,1873
+CMP0361,Electronics Component 0361,Electronics,1225.9,60,15,SUP003,2882
+CMP0362,Sensors Component 0362,Sensors,3114.61,99,22,SUP029,1089
+CMP0363,Power Systems Component 0363,Power Systems,2651.31,30,41,SUP002,2013
+CMP0364,Thermal Control Component 0364,Thermal Control,1244.93,87,17,SUP004,872
+CMP0365,Thermal Control Component 0365,Thermal Control,242.29,96,25,SUP027,1277
+CMP0366,Sensors Component 0366,Sensors,984.28,75,32,SUP018,1320
+CMP0367,Electronics Component 0367,Electronics,947.14,31,28,SUP019,1568
+CMP0368,Sensors Component 0368,Sensors,1228.77,62,10,SUP040,1437
+CMP0369,Communications Component 0369,Communications,2605.75,35,25,SUP022,1395
+CMP0370,Power Systems Component 0370,Power Systems,4901.58,52,44,SUP002,2119
+CMP0371,Propulsion Component 0371,Propulsion,6690.86,100,41,SUP015,1152
+CMP0372,Communications Component 0372,Communications,3188.21,54,6,SUP025,1467
+CMP0373,Propulsion Component 0373,Propulsion,9938.66,58,32,SUP026,1617
+CMP0374,Electronics Component 0374,Electronics,487.56,77,42,SUP005,2306
+CMP0375,Structural Component 0375,Structural,3281.97,81,42,SUP006,1472
+CMP0376,Electronics Component 0376,Electronics,1260.33,24,11,SUP005,2400
+CMP0377,Thermal Control Component 0377,Thermal Control,3675.62,90,34,SUP013,1864
+CMP0378,Structural Component 0378,Structural,314.6,56,44,SUP039,1941
+CMP0379,Structural Component 0379,Structural,743.84,61,13,SUP017,1901
+CMP0380,Power Systems Component 0380,Power Systems,5236.99,27,34,SUP002,2171
+CMP0381,Sensors Component 0381,Sensors,4884.31,70,19,SUP034,2762
+CMP0382,Power Systems Component 0382,Power Systems,4825.78,30,27,SUP012,777
+CMP0383,Structural Component 0383,Structural,3156.33,37,22,SUP024,599
+CMP0384,Communications Component 0384,Communications,3357.91,59,20,SUP031,1315
+CMP0385,Propulsion Component 0385,Propulsion,4219.31,29,34,SUP020,348
+CMP0386,Electronics Component 0386,Electronics,696.81,83,43,SUP030,1381
+CMP0387,Thermal Control Component 0387,Thermal Control,285.43,45,40,SUP016,1236
+CMP0388,Propulsion Component 0388,Propulsion,2577.69,99,26,SUP020,730
+CMP0389,Communications Component 0389,Communications,6847.19,23,28,SUP033,1785
+CMP0390,Electronics Component 0390,Electronics,141.83,32,13,SUP019,1178
+CMP0391,Propulsion Component 0391,Propulsion,9168.26,41,32,SUP026,2124
+CMP0392,Communications Component 0392,Communications,5663.91,36,30,SUP031,2135
+CMP0393,Communications Component 0393,Communications,6657.25,30,9,SUP033,1553
+CMP0394,Electronics Component 0394,Electronics,684.87,38,43,SUP019,1451
+CMP0395,Thermal Control Component 0395,Thermal Control,3117.48,30,22,SUP011,2194
+CMP0396,Propulsion Component 0396,Propulsion,6705.32,45,32,SUP026,2205
+CMP0397,Propulsion Component 0397,Propulsion,2672.13,82,42,SUP020,1873
+CMP0398,Propulsion Component 0398,Propulsion,2285.08,95,9,SUP026,1401
+CMP0399,Communications Component 0399,Communications,3780.98,22,43,SUP025,1722
+CMP0400,Sensors Component 0400,Sensors,2534.15,100,24,SUP014,2282
+CMP0401,Power Systems Component 0401,Power Systems,634.25,79,14,SUP002,1590
+CMP0402,Propulsion Component 0402,Propulsion,982.92,71,45,SUP026,1178
+CMP0403,Electronics Component 0403,Electronics,1350.3,42,34,SUP019,1109
+CMP0404,Electronics Component 0404,Electronics,989.87,86,37,SUP035,1236
+CMP0405,Power Systems Component 0405,Power Systems,3918.14,35,36,SUP002,2448
+CMP0406,Communications Component 0406,Communications,4738.95,48,32,SUP022,1832
+CMP0407,Power Systems Component 0407,Power Systems,2382.75,68,30,SUP012,1042
+CMP0408,Thermal Control Component 0408,Thermal Control,2985.81,60,23,SUP011,2415
+CMP0409,Sensors Component 0409,Sensors,3776.98,48,20,SUP009,1091
+CMP0410,Propulsion Component 0410,Propulsion,7599.06,70,41,SUP020,1206
+CMP0411,Thermal Control Component 0411,Thermal Control,576.29,28,37,SUP010,2036
+CMP0412,Propulsion Component 0412,Propulsion,3267.63,36,26,SUP020,1477
+CMP0413,Propulsion Component 0413,Propulsion,7725.19,33,39,SUP036,1180
+CMP0414,Propulsion Component 0414,Propulsion,5044.85,48,11,SUP036,1380
+CMP0415,Structural Component 0415,Structural,1148.33,50,33,SUP017,1770
+CMP0416,Sensors Component 0416,Sensors,535.67,77,24,SUP034,1645
+CMP0417,Propulsion Component 0417,Propulsion,7605.91,28,13,SUP036,1444
+CMP0418,Sensors Component 0418,Sensors,1355.61,86,19,SUP018,1395
+CMP0419,Propulsion Component 0419,Propulsion,4941.1,47,34,SUP015,782
+CMP0420,Propulsion Component 0420,Propulsion,3481.54,80,16,SUP036,1237
+CMP0421,Structural Component 0421,Structural,1591.99,76,40,SUP006,1917
+CMP0422,Structural Component 0422,Structural,2694.73,39,43,SUP039,2867
+CMP0423,Structural Component 0423,Structural,2286.19,21,30,SUP017,1344
+CMP0424,Power Systems Component 0424,Power Systems,5366.23,69,42,SUP002,1286
+CMP0425,Sensors Component 0425,Sensors,2412.47,81,34,SUP034,1772
+CMP0426,Electronics Component 0426,Electronics,766.76,58,21,SUP030,1674
+CMP0427,Sensors Component 0427,Sensors,2850.38,72,45,SUP029,930
+CMP0428,Electronics Component 0428,Electronics,1199.86,38,39,SUP035,941
+CMP0429,Thermal Control Component 0429,Thermal Control,3510.71,29,11,SUP037,1394
+CMP0430,Structural Component 0430,Structural,1011.49,52,29,SUP006,1438
+CMP0431,Communications Component 0431,Communications,2609.09,100,30,SUP033,1298
+CMP0432,Structural Component 0432,Structural,763.63,33,7,SUP006,1903
+CMP0433,Communications Component 0433,Communications,2999.29,24,5,SUP033,948
+CMP0434,Communications Component 0434,Communications,1475.6,35,38,SUP031,1363
+CMP0435,Power Systems Component 0435,Power Systems,5501.39,82,17,SUP002,2415
+CMP0436,Communications Component 0436,Communications,1876.22,85,16,SUP033,1448
+CMP0437,Structural Component 0437,Structural,999.63,20,45,SUP039,1878
+CMP0438,Sensors Component 0438,Sensors,3923.8,40,36,SUP032,1025
+CMP0439,Communications Component 0439,Communications,5895.34,88,32,SUP025,1831
+CMP0440,Electronics Component 0440,Electronics,1491.41,66,6,SUP030,1232
+CMP0441,Propulsion Component 0441,Propulsion,5429.69,79,36,SUP015,807
+CMP0442,Electronics Component 0442,Electronics,1133.26,52,20,SUP003,995
+CMP0443,Propulsion Component 0443,Propulsion,2357.21,65,22,SUP015,1187
+CMP0444,Sensors Component 0444,Sensors,3282.81,89,33,SUP032,1862
+CMP0445,Electronics Component 0445,Electronics,647.17,72,14,SUP038,1339
+CMP0446,Power Systems Component 0446,Power Systems,4446.44,39,35,SUP002,1802
+CMP0447,Power Systems Component 0447,Power Systems,2942.33,30,12,SUP002,1053
+CMP0448,Propulsion Component 0448,Propulsion,3249.58,57,37,SUP020,1813
+CMP0449,Propulsion Component 0449,Propulsion,8125.85,71,29,SUP036,1097
+CMP0450,Propulsion Component 0450,Propulsion,1782.86,40,43,SUP015,1739
+CMP0451,Sensors Component 0451,Sensors,1278.51,52,30,SUP018,1623
+CMP0452,Structural Component 0452,Structural,650.6,22,31,SUP017,1419
+CMP0453,Sensors Component 0453,Sensors,1212.49,51,30,SUP034,2009
+CMP0454,Thermal Control Component 0454,Thermal Control,1026.5,88,7,SUP010,1153
+CMP0455,Power Systems Component 0455,Power Systems,2008.35,28,27,SUP012,864
+CMP0456,Thermal Control Component 0456,Thermal Control,3156.23,30,43,SUP016,1556
+CMP0457,Electronics Component 0457,Electronics,689.77,24,12,SUP035,784
+CMP0458,Sensors Component 0458,Sensors,4138.43,80,35,SUP040,990
+CMP0459,Communications Component 0459,Communications,1089.55,99,17,SUP022,862
+CMP0460,Sensors Component 0460,Sensors,2996.69,60,21,SUP032,1796
+CMP0461,Thermal Control Component 0461,Thermal Control,3665.64,84,36,SUP027,1201
+CMP0462,Thermal Control Component 0462,Thermal Control,2163.9,74,12,SUP010,850
+CMP0463,Structural Component 0463,Structural,3366.13,20,38,SUP039,1328
+CMP0464,Power Systems Component 0464,Power Systems,2274.29,99,31,SUP002,1370
+CMP0465,Communications Component 0465,Communications,6910.41,37,29,SUP025,2477
+CMP0466,Structural Component 0466,Structural,1065.77,90,37,SUP024,2209
+CMP0467,Communications Component 0467,Communications,6865.86,58,36,SUP025,2405
+CMP0468,Structural Component 0468,Structural,1245.31,82,29,SUP006,1656
+CMP0469,Structural Component 0469,Structural,2920.62,96,23,SUP024,1757
+CMP0470,Propulsion Component 0470,Propulsion,5853.47,77,25,SUP036,1324
+CMP0471,Sensors Component 0471,Sensors,1871.72,86,35,SUP008,1272
+CMP0472,Electronics Component 0472,Electronics,1420.47,52,7,SUP038,1301
+CMP0473,Structural Component 0473,Structural,975.88,62,14,SUP024,1518
+CMP0474,Thermal Control Component 0474,Thermal Control,981.31,91,26,SUP023,1042
+CMP0475,Structural Component 0475,Structural,935.38,84,21,SUP039,2508
+CMP0476,Electronics Component 0476,Electronics,1079.52,97,31,SUP019,1388
+CMP0477,Structural Component 0477,Structural,1907.48,28,10,SUP024,1621
+CMP0478,Sensors Component 0478,Sensors,1167.37,71,41,SUP008,1065
+CMP0479,Thermal Control Component 0479,Thermal Control,1495.82,98,10,SUP027,1406
+CMP0480,Electronics Component 0480,Electronics,1359.19,98,42,SUP005,1324
+CMP0481,Thermal Control Component 0481,Thermal Control,801.17,43,10,SUP010,2401
+CMP0482,Electronics Component 0482,Electronics,153.39,29,45,SUP005,1049
+CMP0483,Electronics Component 0483,Electronics,242.19,62,35,SUP003,1852
+CMP0484,Communications Component 0484,Communications,4527.11,82,41,SUP007,1415
+CMP0485,Structural Component 0485,Structural,1875.23,96,21,SUP024,2147
+CMP0486,Sensors Component 0486,Sensors,2444.73,48,11,SUP032,727
+CMP0487,Structural Component 0487,Structural,986.39,54,35,SUP039,1295
+CMP0488,Propulsion Component 0488,Propulsion,3636.91,88,33,SUP036,1415
+CMP0489,Communications Component 0489,Communications,820.89,91,13,SUP033,1296
+CMP0490,Structural Component 0490,Structural,2442.26,37,42,SUP039,2574
+CMP0491,Electronics Component 0491,Electronics,874.81,40,18,SUP005,1564
+CMP0492,Sensors Component 0492,Sensors,3129.61,70,30,SUP014,1837
+CMP0493,Power Systems Component 0493,Power Systems,4237.86,70,27,SUP002,1922
+CMP0494,Communications Component 0494,Communications,3293.82,25,21,SUP028,1395
+CMP0495,Sensors Component 0495,Sensors,1267.37,46,39,SUP008,972
+CMP0496,Thermal Control Component 0496,Thermal Control,3344.54,39,27,SUP023,1652
+CMP0497,Electronics Component 0497,Electronics,735.21,63,8,SUP035,1258
+CMP0498,Communications Component 0498,Communications,3595.14,95,26,SUP031,1255
+CMP0499,Communications Component 0499,Communications,5241.35,29,21,SUP028,1189
+CMP0500,Sensors Component 0500,Sensors,4624.09,59,25,SUP032,1361

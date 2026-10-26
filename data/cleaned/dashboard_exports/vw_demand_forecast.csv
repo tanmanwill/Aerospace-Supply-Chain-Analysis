@@ -1,0 +1,501 @@
+ComponentID,ComponentName,Category,SupplierID,CurrentStock,SafetyStock,LeadTimeDays,UnitsConsumedLast6Months,ForecastedMonthlyDemand,ReorderPoint,StockAboveReorderPoint,ReplenishmentRecommendation
+CMP0001,Power Systems Component 0001,Power Systems,SUP012,1055,53,18,83,13.83,62,993,Defer Replenishment Review
+CMP0002,Propulsion Component 0002,Propulsion,SUP020,1715,21,34,211,35.17,61,1654,Defer Replenishment Review
+CMP0003,Communications Component 0003,Communications,SUP025,1870,92,43,43,7.17,103,1767,Defer Replenishment Review
+CMP0004,Propulsion Component 0004,Propulsion,SUP020,2211,76,20,86,14.33,86,2125,Defer Replenishment Review
+CMP0005,Propulsion Component 0005,Propulsion,SUP020,1385,69,44,87,14.5,91,1294,Defer Replenishment Review
+CMP0006,Electronics Component 0006,Electronics,SUP019,2272,29,42,0,0.0,29,2243,Defer Replenishment Review
+CMP0007,Sensors Component 0007,Sensors,SUP032,1144,81,15,128,21.33,92,1052,Defer Replenishment Review
+CMP0008,Thermal Control Component 0008,Thermal Control,SUP010,2442,78,16,26,4.33,81,2361,Defer Replenishment Review
+CMP0009,Electronics Component 0009,Electronics,SUP003,2083,30,33,101,16.83,49,2034,Defer Replenishment Review
+CMP0010,Propulsion Component 0010,Propulsion,SUP026,1324,44,12,83,13.83,50,1274,Defer Replenishment Review
+CMP0011,Sensors Component 0011,Sensors,SUP034,1062,59,32,95,15.83,76,986,Defer Replenishment Review
+CMP0012,Sensors Component 0012,Sensors,SUP014,2389,70,31,168,28.0,99,2290,Defer Replenishment Review
+CMP0013,Communications Component 0013,Communications,SUP007,1027,83,12,95,15.83,90,937,Defer Replenishment Review
+CMP0014,Sensors Component 0014,Sensors,SUP009,1000,46,9,112,18.67,52,948,Defer Replenishment Review
+CMP0015,Propulsion Component 0015,Propulsion,SUP026,1660,44,45,86,14.33,66,1594,Defer Replenishment Review
+CMP0016,Communications Component 0016,Communications,SUP025,2021,48,5,3,0.5,49,1972,Defer Replenishment Review
+CMP0017,Propulsion Component 0017,Propulsion,SUP036,1091,57,7,92,15.33,61,1030,Defer Replenishment Review
+CMP0018,Electronics Component 0018,Electronics,SUP005,1624,59,43,62,10.33,74,1550,Defer Replenishment Review
+CMP0019,Propulsion Component 0019,Propulsion,SUP026,1553,85,44,52,8.67,98,1455,Defer Replenishment Review
+CMP0020,Structural Component 0020,Structural,SUP024,1722,62,5,71,11.83,64,1658,Defer Replenishment Review
+CMP0021,Structural Component 0021,Structural,SUP039,1663,63,17,48,8.0,68,1595,Defer Replenishment Review
+CMP0022,Sensors Component 0022,Sensors,SUP014,1457,28,16,142,23.67,41,1416,Defer Replenishment Review
+CMP0023,Propulsion Component 0023,Propulsion,SUP026,2033,96,18,197,32.83,116,1917,Defer Replenishment Review
+CMP0024,Electronics Component 0024,Electronics,SUP030,1372,94,6,47,7.83,96,1276,Defer Replenishment Review
+CMP0025,Electronics Component 0025,Electronics,SUP030,754,45,23,95,15.83,58,696,Defer Replenishment Review
+CMP0026,Thermal Control Component 0026,Thermal Control,SUP037,1613,45,16,9,1.5,46,1567,Defer Replenishment Review
+CMP0027,Communications Component 0027,Communications,SUP028,1181,100,12,146,24.33,110,1071,Defer Replenishment Review
+CMP0028,Propulsion Component 0028,Propulsion,SUP026,2094,23,45,60,10.0,38,2056,Defer Replenishment Review
+CMP0029,Propulsion Component 0029,Propulsion,SUP036,1185,88,14,99,16.5,96,1089,Defer Replenishment Review
+CMP0030,Power Systems Component 0030,Power Systems,SUP002,2820,62,36,80,13.33,78,2742,Defer Replenishment Review
+CMP0031,Structural Component 0031,Structural,SUP024,2454,91,35,31,5.17,98,2356,Defer Replenishment Review
+CMP0032,Thermal Control Component 0032,Thermal Control,SUP011,1904,41,14,67,11.17,47,1857,Defer Replenishment Review
+CMP0033,Electronics Component 0033,Electronics,SUP003,1521,92,35,14,2.33,95,1426,Defer Replenishment Review
+CMP0034,Propulsion Component 0034,Propulsion,SUP020,890,68,13,69,11.5,73,817,Defer Replenishment Review
+CMP0035,Propulsion Component 0035,Propulsion,SUP020,1225,45,25,75,12.5,56,1169,Defer Replenishment Review
+CMP0036,Sensors Component 0036,Sensors,SUP018,1574,31,14,19,3.17,33,1541,Defer Replenishment Review
+CMP0037,Propulsion Component 0037,Propulsion,SUP015,729,98,17,205,34.17,118,611,Defer Replenishment Review
+CMP0038,Sensors Component 0038,Sensors,SUP040,1207,76,13,33,5.5,79,1128,Defer Replenishment Review
+CMP0039,Power Systems Component 0039,Power Systems,SUP012,953,26,38,69,11.5,41,912,Defer Replenishment Review
+CMP0040,Electronics Component 0040,Electronics,SUP019,1863,30,21,50,8.33,36,1827,Defer Replenishment Review
+CMP0041,Power Systems Component 0041,Power Systems,SUP002,1861,61,17,80,13.33,69,1792,Defer Replenishment Review
+CMP0042,Power Systems Component 0042,Power Systems,SUP012,691,43,6,44,7.33,45,646,Defer Replenishment Review
+CMP0043,Communications Component 0043,Communications,SUP028,1058,88,34,70,11.67,102,956,Defer Replenishment Review
+CMP0044,Electronics Component 0044,Electronics,SUP035,837,53,29,46,7.67,61,776,Defer Replenishment Review
+CMP0045,Propulsion Component 0045,Propulsion,SUP036,1998,54,31,67,11.17,66,1932,Defer Replenishment Review
+CMP0046,Thermal Control Component 0046,Thermal Control,SUP027,1300,21,39,77,12.83,38,1262,Defer Replenishment Review
+CMP0047,Propulsion Component 0047,Propulsion,SUP036,1979,47,36,36,6.0,55,1924,Defer Replenishment Review
+CMP0048,Communications Component 0048,Communications,SUP033,1695,90,21,83,13.83,100,1595,Defer Replenishment Review
+CMP0049,Electronics Component 0049,Electronics,SUP019,1192,29,44,46,7.67,41,1151,Defer Replenishment Review
+CMP0050,Power Systems Component 0050,Power Systems,SUP002,1335,56,14,55,9.17,61,1274,Defer Replenishment Review
+CMP0051,Power Systems Component 0051,Power Systems,SUP012,809,97,41,80,13.33,116,693,Defer Replenishment Review
+CMP0052,Electronics Component 0052,Electronics,SUP019,1246,68,38,89,14.83,87,1159,Defer Replenishment Review
+CMP0053,Structural Component 0053,Structural,SUP017,1896,94,29,104,17.33,111,1785,Defer Replenishment Review
+CMP0054,Propulsion Component 0054,Propulsion,SUP015,1124,43,9,137,22.83,50,1074,Defer Replenishment Review
+CMP0055,Sensors Component 0055,Sensors,SUP008,1411,35,39,47,7.83,46,1365,Defer Replenishment Review
+CMP0056,Electronics Component 0056,Electronics,SUP019,2008,67,21,38,6.33,72,1936,Defer Replenishment Review
+CMP0057,Thermal Control Component 0057,Thermal Control,SUP010,1897,79,37,54,9.0,91,1806,Defer Replenishment Review
+CMP0058,Thermal Control Component 0058,Thermal Control,SUP013,1257,23,14,61,10.17,28,1229,Defer Replenishment Review
+CMP0059,Propulsion Component 0059,Propulsion,SUP015,1663,96,16,28,4.67,99,1564,Defer Replenishment Review
+CMP0060,Electronics Component 0060,Electronics,SUP003,2100,50,9,97,16.17,55,2045,Defer Replenishment Review
+CMP0061,Electronics Component 0061,Electronics,SUP038,1051,52,33,83,13.83,68,983,Defer Replenishment Review
+CMP0062,Electronics Component 0062,Electronics,SUP038,1316,88,45,22,3.67,94,1222,Defer Replenishment Review
+CMP0063,Structural Component 0063,Structural,SUP039,1971,70,30,109,18.17,89,1882,Defer Replenishment Review
+CMP0064,Thermal Control Component 0064,Thermal Control,SUP023,763,30,26,50,8.33,38,725,Defer Replenishment Review
+CMP0065,Power Systems Component 0065,Power Systems,SUP012,1466,83,33,0,0.0,83,1383,Defer Replenishment Review
+CMP0066,Communications Component 0066,Communications,SUP022,1579,41,24,78,13.0,52,1527,Defer Replenishment Review
+CMP0067,Propulsion Component 0067,Propulsion,SUP020,706,47,25,127,21.17,65,641,Defer Replenishment Review
+CMP0068,Structural Component 0068,Structural,SUP024,2169,46,33,57,9.5,57,2112,Defer Replenishment Review
+CMP0069,Propulsion Component 0069,Propulsion,SUP020,922,74,40,64,10.67,89,833,Defer Replenishment Review
+CMP0070,Sensors Component 0070,Sensors,SUP032,1079,46,39,81,13.5,64,1015,Defer Replenishment Review
+CMP0071,Sensors Component 0071,Sensors,SUP029,987,64,36,0,0.0,64,923,Defer Replenishment Review
+CMP0072,Communications Component 0072,Communications,SUP007,850,43,13,7,1.17,44,806,Defer Replenishment Review
+CMP0073,Communications Component 0073,Communications,SUP031,1554,94,44,192,32.0,141,1413,Defer Replenishment Review
+CMP0074,Communications Component 0074,Communications,SUP028,814,27,8,178,29.67,35,779,Defer Replenishment Review
+CMP0075,Sensors Component 0075,Sensors,SUP040,1141,97,11,162,27.0,107,1034,Defer Replenishment Review
+CMP0076,Thermal Control Component 0076,Thermal Control,SUP011,1867,68,37,66,11.0,82,1785,Defer Replenishment Review
+CMP0077,Power Systems Component 0077,Power Systems,SUP012,1509,78,7,101,16.83,82,1427,Defer Replenishment Review
+CMP0078,Electronics Component 0078,Electronics,SUP030,622,69,28,23,3.83,73,549,Defer Replenishment Review
+CMP0079,Electronics Component 0079,Electronics,SUP030,1011,75,34,24,4.0,80,931,Defer Replenishment Review
+CMP0080,Thermal Control Component 0080,Thermal Control,SUP037,1282,84,29,92,15.33,99,1183,Defer Replenishment Review
+CMP0081,Electronics Component 0081,Electronics,SUP038,1393,83,34,59,9.83,95,1298,Defer Replenishment Review
+CMP0082,Electronics Component 0082,Electronics,SUP019,1471,73,36,15,2.5,76,1395,Defer Replenishment Review
+CMP0083,Propulsion Component 0083,Propulsion,SUP026,1368,79,38,98,16.33,100,1268,Defer Replenishment Review
+CMP0084,Thermal Control Component 0084,Thermal Control,SUP016,967,41,17,27,4.5,44,923,Defer Replenishment Review
+CMP0085,Structural Component 0085,Structural,SUP006,901,26,27,53,8.83,34,867,Defer Replenishment Review
+CMP0086,Sensors Component 0086,Sensors,SUP032,671,51,27,179,29.83,78,593,Defer Replenishment Review
+CMP0087,Power Systems Component 0087,Power Systems,SUP012,662,69,10,55,9.17,73,589,Defer Replenishment Review
+CMP0088,Structural Component 0088,Structural,SUP024,1617,99,43,55,9.17,113,1504,Defer Replenishment Review
+CMP0089,Structural Component 0089,Structural,SUP006,1700,91,10,97,16.17,97,1603,Defer Replenishment Review
+CMP0090,Electronics Component 0090,Electronics,SUP019,913,67,5,84,14.0,70,843,Defer Replenishment Review
+CMP0091,Electronics Component 0091,Electronics,SUP019,1715,54,44,115,19.17,83,1632,Defer Replenishment Review
+CMP0092,Sensors Component 0092,Sensors,SUP014,1608,55,42,48,8.0,67,1541,Defer Replenishment Review
+CMP0093,Thermal Control Component 0093,Thermal Control,SUP027,1544,51,6,43,7.17,53,1491,Defer Replenishment Review
+CMP0094,Power Systems Component 0094,Power Systems,SUP012,1490,42,9,51,8.5,45,1445,Defer Replenishment Review
+CMP0095,Communications Component 0095,Communications,SUP033,1688,31,30,59,9.83,41,1647,Defer Replenishment Review
+CMP0096,Electronics Component 0096,Electronics,SUP035,961,92,14,139,23.17,103,858,Defer Replenishment Review
+CMP0097,Sensors Component 0097,Sensors,SUP009,992,85,5,62,10.33,87,905,Defer Replenishment Review
+CMP0098,Power Systems Component 0098,Power Systems,SUP002,2643,73,5,57,9.5,75,2568,Defer Replenishment Review
+CMP0099,Propulsion Component 0099,Propulsion,SUP015,1901,99,44,69,11.5,116,1785,Defer Replenishment Review
+CMP0100,Propulsion Component 0100,Propulsion,SUP020,1267,88,37,86,14.33,106,1161,Defer Replenishment Review
+CMP0101,Power Systems Component 0101,Power Systems,SUP012,1540,88,38,25,4.17,94,1446,Defer Replenishment Review
+CMP0102,Thermal Control Component 0102,Thermal Control,SUP013,1421,23,10,67,11.17,27,1394,Defer Replenishment Review
+CMP0103,Communications Component 0103,Communications,SUP028,1778,64,8,35,5.83,66,1712,Defer Replenishment Review
+CMP0104,Thermal Control Component 0104,Thermal Control,SUP013,1690,32,12,0,0.0,32,1658,Defer Replenishment Review
+CMP0105,Electronics Component 0105,Electronics,SUP005,1918,62,35,67,11.17,76,1842,Defer Replenishment Review
+CMP0106,Communications Component 0106,Communications,SUP028,725,24,6,100,16.67,28,697,Defer Replenishment Review
+CMP0107,Propulsion Component 0107,Propulsion,SUP036,1277,53,20,125,20.83,67,1210,Defer Replenishment Review
+CMP0108,Electronics Component 0108,Electronics,SUP035,830,34,23,110,18.33,49,781,Defer Replenishment Review
+CMP0109,Sensors Component 0109,Sensors,SUP034,816,90,23,37,6.17,95,721,Defer Replenishment Review
+CMP0110,Propulsion Component 0110,Propulsion,SUP015,1135,96,28,58,9.67,106,1029,Defer Replenishment Review
+CMP0111,Sensors Component 0111,Sensors,SUP032,1334,55,11,19,3.17,57,1277,Defer Replenishment Review
+CMP0112,Propulsion Component 0112,Propulsion,SUP020,1468,61,24,52,8.67,68,1400,Defer Replenishment Review
+CMP0113,Electronics Component 0113,Electronics,SUP003,1923,96,8,100,16.67,101,1822,Defer Replenishment Review
+CMP0114,Structural Component 0114,Structural,SUP024,1332,54,31,195,32.5,88,1244,Defer Replenishment Review
+CMP0115,Power Systems Component 0115,Power Systems,SUP002,2464,88,43,140,23.33,122,2342,Defer Replenishment Review
+CMP0116,Communications Component 0116,Communications,SUP028,1387,45,22,39,6.5,50,1337,Defer Replenishment Review
+CMP0117,Sensors Component 0117,Sensors,SUP021,1328,27,19,62,10.33,34,1294,Defer Replenishment Review
+CMP0118,Sensors Component 0118,Sensors,SUP029,1328,76,31,64,10.67,88,1240,Defer Replenishment Review
+CMP0119,Communications Component 0119,Communications,SUP022,1437,47,13,102,17.0,55,1382,Defer Replenishment Review
+CMP0120,Sensors Component 0120,Sensors,SUP021,1328,70,26,0,0.0,70,1258,Defer Replenishment Review
+CMP0121,Thermal Control Component 0121,Thermal Control,SUP023,1439,30,39,59,9.83,43,1396,Defer Replenishment Review
+CMP0122,Sensors Component 0122,Sensors,SUP032,1312,62,17,7,1.17,63,1249,Defer Replenishment Review
+CMP0123,Sensors Component 0123,Sensors,SUP034,2092,23,7,82,13.67,27,2065,Defer Replenishment Review
+CMP0124,Electronics Component 0124,Electronics,SUP038,1070,88,16,33,5.5,91,979,Defer Replenishment Review
+CMP0125,Sensors Component 0125,Sensors,SUP018,1077,79,7,45,7.5,81,996,Defer Replenishment Review
+CMP0126,Thermal Control Component 0126,Thermal Control,SUP037,1629,21,40,144,24.0,53,1576,Defer Replenishment Review
+CMP0127,Structural Component 0127,Structural,SUP017,928,39,32,102,17.0,58,870,Defer Replenishment Review
+CMP0128,Electronics Component 0128,Electronics,SUP030,1043,49,45,104,17.33,75,968,Defer Replenishment Review
+CMP0129,Sensors Component 0129,Sensors,SUP032,1512,82,10,67,11.17,86,1426,Defer Replenishment Review
+CMP0130,Communications Component 0130,Communications,SUP031,700,51,5,105,17.5,54,646,Defer Replenishment Review
+CMP0131,Communications Component 0131,Communications,SUP022,1744,57,34,101,16.83,77,1667,Defer Replenishment Review
+CMP0132,Propulsion Component 0132,Propulsion,SUP020,1799,87,27,38,6.33,93,1706,Defer Replenishment Review
+CMP0133,Propulsion Component 0133,Propulsion,SUP036,1151,72,25,79,13.17,83,1068,Defer Replenishment Review
+CMP0134,Sensors Component 0134,Sensors,SUP034,2414,51,35,37,6.17,59,2355,Defer Replenishment Review
+CMP0135,Electronics Component 0135,Electronics,SUP019,1221,94,17,0,0.0,94,1127,Defer Replenishment Review
+CMP0136,Propulsion Component 0136,Propulsion,SUP015,1138,93,14,68,11.33,99,1039,Defer Replenishment Review
+CMP0137,Propulsion Component 0137,Propulsion,SUP020,856,100,34,153,25.5,129,727,Defer Replenishment Review
+CMP0138,Sensors Component 0138,Sensors,SUP008,1967,26,39,52,8.67,38,1929,Defer Replenishment Review
+CMP0139,Thermal Control Component 0139,Thermal Control,SUP016,1169,52,37,80,13.33,69,1100,Defer Replenishment Review
+CMP0140,Thermal Control Component 0140,Thermal Control,SUP016,661,24,27,121,20.17,43,618,Defer Replenishment Review
+CMP0141,Power Systems Component 0141,Power Systems,SUP002,2238,46,26,55,9.17,54,2184,Defer Replenishment Review
+CMP0142,Thermal Control Component 0142,Thermal Control,SUP023,1449,89,42,94,15.67,111,1338,Defer Replenishment Review
+CMP0143,Structural Component 0143,Structural,SUP024,2474,51,28,84,14.0,65,2409,Defer Replenishment Review
+CMP0144,Sensors Component 0144,Sensors,SUP034,1435,63,21,0,0.0,63,1372,Defer Replenishment Review
+CMP0145,Power Systems Component 0145,Power Systems,SUP012,930,51,5,33,5.5,52,878,Defer Replenishment Review
+CMP0146,Structural Component 0146,Structural,SUP017,719,35,43,139,23.17,69,650,Defer Replenishment Review
+CMP0147,Communications Component 0147,Communications,SUP025,2292,31,28,51,8.5,39,2253,Defer Replenishment Review
+CMP0148,Electronics Component 0148,Electronics,SUP019,1515,42,30,99,16.5,59,1456,Defer Replenishment Review
+CMP0149,Communications Component 0149,Communications,SUP033,1249,91,45,89,14.83,114,1135,Defer Replenishment Review
+CMP0150,Thermal Control Component 0150,Thermal Control,SUP016,1204,93,44,33,5.5,102,1102,Defer Replenishment Review
+CMP0151,Communications Component 0151,Communications,SUP031,2369,26,25,52,8.67,34,2335,Defer Replenishment Review
+CMP0152,Thermal Control Component 0152,Thermal Control,SUP027,1631,55,31,43,7.17,63,1568,Defer Replenishment Review
+CMP0153,Structural Component 0153,Structural,SUP039,783,32,38,46,7.67,42,741,Defer Replenishment Review
+CMP0154,Thermal Control Component 0154,Thermal Control,SUP037,1390,80,10,22,3.67,82,1308,Defer Replenishment Review
+CMP0155,Structural Component 0155,Structural,SUP006,895,98,40,67,11.17,113,782,Defer Replenishment Review
+CMP0156,Power Systems Component 0156,Power Systems,SUP012,499,57,21,88,14.67,68,431,Defer Replenishment Review
+CMP0157,Electronics Component 0157,Electronics,SUP035,1032,37,27,49,8.17,45,987,Defer Replenishment Review
+CMP0158,Thermal Control Component 0158,Thermal Control,SUP010,1791,94,6,45,7.5,96,1695,Defer Replenishment Review
+CMP0159,Electronics Component 0159,Electronics,SUP019,879,49,43,93,15.5,72,807,Defer Replenishment Review
+CMP0160,Communications Component 0160,Communications,SUP031,2254,77,40,82,13.67,96,2158,Defer Replenishment Review
+CMP0161,Thermal Control Component 0161,Thermal Control,SUP023,1555,50,42,65,10.83,66,1489,Defer Replenishment Review
+CMP0162,Propulsion Component 0162,Propulsion,SUP015,1567,70,5,79,13.17,73,1494,Defer Replenishment Review
+CMP0163,Power Systems Component 0163,Power Systems,SUP012,852,62,36,145,24.17,91,761,Defer Replenishment Review
+CMP0164,Structural Component 0164,Structural,SUP024,2146,92,14,96,16.0,100,2046,Defer Replenishment Review
+CMP0165,Structural Component 0165,Structural,SUP039,1089,83,42,75,12.5,101,988,Defer Replenishment Review
+CMP0166,Structural Component 0166,Structural,SUP024,1398,67,16,34,5.67,71,1327,Defer Replenishment Review
+CMP0167,Sensors Component 0167,Sensors,SUP034,1647,75,32,49,8.17,84,1563,Defer Replenishment Review
+CMP0168,Structural Component 0168,Structural,SUP017,1486,78,45,61,10.17,94,1392,Defer Replenishment Review
+CMP0169,Communications Component 0169,Communications,SUP022,1386,63,9,63,10.5,67,1319,Defer Replenishment Review
+CMP0170,Communications Component 0170,Communications,SUP022,1058,100,29,155,25.83,125,933,Defer Replenishment Review
+CMP0171,Electronics Component 0171,Electronics,SUP019,1579,37,19,91,15.17,47,1532,Defer Replenishment Review
+CMP0172,Electronics Component 0172,Electronics,SUP003,2227,49,13,44,7.33,53,2174,Defer Replenishment Review
+CMP0173,Sensors Component 0173,Sensors,SUP008,1414,98,41,8,1.33,100,1314,Defer Replenishment Review
+CMP0174,Structural Component 0174,Structural,SUP017,922,54,35,66,11.0,67,855,Defer Replenishment Review
+CMP0175,Sensors Component 0175,Sensors,SUP021,1658,48,20,16,2.67,50,1608,Defer Replenishment Review
+CMP0176,Propulsion Component 0176,Propulsion,SUP026,1730,46,26,107,17.83,62,1668,Defer Replenishment Review
+CMP0177,Power Systems Component 0177,Power Systems,SUP012,1189,70,6,117,19.5,74,1115,Defer Replenishment Review
+CMP0178,Structural Component 0178,Structural,SUP039,2230,39,11,21,3.5,41,2189,Defer Replenishment Review
+CMP0179,Structural Component 0179,Structural,SUP039,2150,24,15,78,13.0,31,2119,Defer Replenishment Review
+CMP0180,Thermal Control Component 0180,Thermal Control,SUP016,1743,83,24,83,13.83,95,1648,Defer Replenishment Review
+CMP0181,Power Systems Component 0181,Power Systems,SUP012,1012,40,32,13,2.17,43,969,Defer Replenishment Review
+CMP0182,Power Systems Component 0182,Power Systems,SUP002,2132,83,28,141,23.5,105,2027,Defer Replenishment Review
+CMP0183,Structural Component 0183,Structural,SUP006,1408,45,36,43,7.17,54,1354,Defer Replenishment Review
+CMP0184,Sensors Component 0184,Sensors,SUP040,912,55,44,39,6.5,65,847,Defer Replenishment Review
+CMP0185,Thermal Control Component 0185,Thermal Control,SUP001,1104,24,28,22,3.67,28,1076,Defer Replenishment Review
+CMP0186,Electronics Component 0186,Electronics,SUP038,1292,56,17,58,9.67,62,1230,Defer Replenishment Review
+CMP0187,Electronics Component 0187,Electronics,SUP003,1627,71,36,42,7.0,80,1547,Defer Replenishment Review
+CMP0188,Electronics Component 0188,Electronics,SUP038,742,76,17,125,20.83,88,654,Defer Replenishment Review
+CMP0189,Sensors Component 0189,Sensors,SUP018,2200,32,16,38,6.33,36,2164,Defer Replenishment Review
+CMP0190,Electronics Component 0190,Electronics,SUP019,397,89,25,101,16.83,104,293,Defer Replenishment Review
+CMP0191,Propulsion Component 0191,Propulsion,SUP020,1278,53,27,141,23.5,75,1203,Defer Replenishment Review
+CMP0192,Thermal Control Component 0192,Thermal Control,SUP013,1453,88,18,30,5.0,91,1362,Defer Replenishment Review
+CMP0193,Communications Component 0193,Communications,SUP022,1433,89,18,85,14.17,98,1335,Defer Replenishment Review
+CMP0194,Propulsion Component 0194,Propulsion,SUP026,1689,46,6,50,8.33,48,1641,Defer Replenishment Review
+CMP0195,Sensors Component 0195,Sensors,SUP021,736,35,29,170,28.33,63,673,Defer Replenishment Review
+CMP0196,Electronics Component 0196,Electronics,SUP005,1067,31,5,37,6.17,33,1034,Defer Replenishment Review
+CMP0197,Power Systems Component 0197,Power Systems,SUP002,1879,32,33,31,5.17,38,1841,Defer Replenishment Review
+CMP0198,Communications Component 0198,Communications,SUP025,1300,39,29,151,25.17,64,1236,Defer Replenishment Review
+CMP0199,Communications Component 0199,Communications,SUP033,1227,42,26,47,7.83,49,1178,Defer Replenishment Review
+CMP0200,Communications Component 0200,Communications,SUP025,1304,33,40,23,3.83,39,1265,Defer Replenishment Review
+CMP0201,Structural Component 0201,Structural,SUP017,1416,65,44,19,3.17,70,1346,Defer Replenishment Review
+CMP0202,Communications Component 0202,Communications,SUP033,1602,99,38,88,14.67,118,1484,Defer Replenishment Review
+CMP0203,Propulsion Component 0203,Propulsion,SUP020,1470,29,17,51,8.5,34,1436,Defer Replenishment Review
+CMP0204,Propulsion Component 0204,Propulsion,SUP026,1791,53,8,143,23.83,60,1731,Defer Replenishment Review
+CMP0205,Power Systems Component 0205,Power Systems,SUP002,2497,51,33,27,4.5,56,2441,Defer Replenishment Review
+CMP0206,Propulsion Component 0206,Propulsion,SUP026,1800,78,35,19,3.17,82,1718,Defer Replenishment Review
+CMP0207,Thermal Control Component 0207,Thermal Control,SUP010,1799,31,14,108,18.0,40,1759,Defer Replenishment Review
+CMP0208,Electronics Component 0208,Electronics,SUP035,935,31,12,93,15.5,38,897,Defer Replenishment Review
+CMP0209,Thermal Control Component 0209,Thermal Control,SUP013,1467,41,42,25,4.17,47,1420,Defer Replenishment Review
+CMP0210,Electronics Component 0210,Electronics,SUP030,1642,100,10,0,0.0,100,1542,Defer Replenishment Review
+CMP0211,Communications Component 0211,Communications,SUP033,1494,53,11,179,29.83,64,1430,Defer Replenishment Review
+CMP0212,Communications Component 0212,Communications,SUP022,1135,42,29,182,30.33,72,1063,Defer Replenishment Review
+CMP0213,Electronics Component 0213,Electronics,SUP005,2416,99,12,27,4.5,101,2315,Defer Replenishment Review
+CMP0214,Electronics Component 0214,Electronics,SUP003,1680,68,40,40,6.67,77,1603,Defer Replenishment Review
+CMP0215,Thermal Control Component 0215,Thermal Control,SUP010,1488,35,26,26,4.33,39,1449,Defer Replenishment Review
+CMP0216,Structural Component 0216,Structural,SUP039,1498,74,28,98,16.33,90,1408,Defer Replenishment Review
+CMP0217,Propulsion Component 0217,Propulsion,SUP036,1253,32,42,197,32.83,78,1175,Defer Replenishment Review
+CMP0218,Sensors Component 0218,Sensors,SUP040,1252,21,26,9,1.5,23,1229,Defer Replenishment Review
+CMP0219,Structural Component 0219,Structural,SUP017,828,82,31,67,11.17,94,734,Defer Replenishment Review
+CMP0220,Structural Component 0220,Structural,SUP006,1467,75,44,205,34.17,126,1341,Defer Replenishment Review
+CMP0221,Propulsion Component 0221,Propulsion,SUP015,1714,94,45,93,15.5,118,1596,Defer Replenishment Review
+CMP0222,Power Systems Component 0222,Power Systems,SUP002,1746,37,35,46,7.67,46,1700,Defer Replenishment Review
+CMP0223,Communications Component 0223,Communications,SUP033,1159,53,8,55,9.17,56,1103,Defer Replenishment Review
+CMP0224,Thermal Control Component 0224,Thermal Control,SUP016,646,79,28,94,15.67,94,552,Defer Replenishment Review
+CMP0225,Sensors Component 0225,Sensors,SUP008,1758,76,40,119,19.83,103,1655,Defer Replenishment Review
+CMP0226,Thermal Control Component 0226,Thermal Control,SUP013,2011,28,35,22,3.67,33,1978,Defer Replenishment Review
+CMP0227,Sensors Component 0227,Sensors,SUP008,1268,100,38,26,4.33,106,1162,Defer Replenishment Review
+CMP0228,Thermal Control Component 0228,Thermal Control,SUP037,1841,91,18,87,14.5,100,1741,Defer Replenishment Review
+CMP0229,Structural Component 0229,Structural,SUP024,1183,51,5,98,16.33,54,1129,Defer Replenishment Review
+CMP0230,Communications Component 0230,Communications,SUP028,1066,95,13,131,21.83,105,961,Defer Replenishment Review
+CMP0231,Structural Component 0231,Structural,SUP017,1176,82,18,83,13.83,91,1085,Defer Replenishment Review
+CMP0232,Propulsion Component 0232,Propulsion,SUP020,1102,75,44,86,14.33,97,1005,Defer Replenishment Review
+CMP0233,Thermal Control Component 0233,Thermal Control,SUP010,1410,58,28,171,28.5,85,1325,Defer Replenishment Review
+CMP0234,Power Systems Component 0234,Power Systems,SUP002,1330,42,12,52,8.67,46,1284,Defer Replenishment Review
+CMP0235,Sensors Component 0235,Sensors,SUP021,1292,56,10,37,6.17,59,1233,Defer Replenishment Review
+CMP0236,Electronics Component 0236,Electronics,SUP003,1199,59,31,7,1.17,61,1138,Defer Replenishment Review
+CMP0237,Communications Component 0237,Communications,SUP025,2640,38,10,0,0.0,38,2602,Defer Replenishment Review
+CMP0238,Structural Component 0238,Structural,SUP017,1353,81,41,84,14.0,101,1252,Defer Replenishment Review
+CMP0239,Electronics Component 0239,Electronics,SUP038,997,48,29,68,11.33,59,938,Defer Replenishment Review
+CMP0240,Electronics Component 0240,Electronics,SUP019,896,31,27,0,0.0,31,865,Defer Replenishment Review
+CMP0241,Structural Component 0241,Structural,SUP006,814,80,21,104,17.33,93,721,Defer Replenishment Review
+CMP0242,Sensors Component 0242,Sensors,SUP021,1458,33,11,34,5.67,36,1422,Defer Replenishment Review
+CMP0243,Electronics Component 0243,Electronics,SUP038,756,62,35,101,16.83,82,674,Defer Replenishment Review
+CMP0244,Structural Component 0244,Structural,SUP039,1416,50,36,83,13.83,67,1349,Defer Replenishment Review
+CMP0245,Electronics Component 0245,Electronics,SUP035,1522,68,21,6,1.0,69,1453,Defer Replenishment Review
+CMP0246,Electronics Component 0246,Electronics,SUP005,1801,92,15,3,0.5,93,1708,Defer Replenishment Review
+CMP0247,Propulsion Component 0247,Propulsion,SUP036,1950,72,7,103,17.17,77,1873,Defer Replenishment Review
+CMP0248,Sensors Component 0248,Sensors,SUP009,1094,39,39,69,11.5,54,1040,Defer Replenishment Review
+CMP0249,Communications Component 0249,Communications,SUP033,1600,63,34,50,8.33,73,1527,Defer Replenishment Review
+CMP0250,Propulsion Component 0250,Propulsion,SUP020,1674,39,43,12,2.0,42,1632,Defer Replenishment Review
+CMP0251,Electronics Component 0251,Electronics,SUP038,874,46,16,132,22.0,58,816,Defer Replenishment Review
+CMP0252,Sensors Component 0252,Sensors,SUP021,1534,62,22,44,7.33,68,1466,Defer Replenishment Review
+CMP0253,Structural Component 0253,Structural,SUP006,1106,34,8,58,9.67,37,1069,Defer Replenishment Review
+CMP0254,Sensors Component 0254,Sensors,SUP034,3123,97,27,0,0.0,97,3026,Defer Replenishment Review
+CMP0255,Power Systems Component 0255,Power Systems,SUP002,1210,90,20,77,12.83,99,1111,Defer Replenishment Review
+CMP0256,Electronics Component 0256,Electronics,SUP003,2221,94,29,83,13.83,108,2113,Defer Replenishment Review
+CMP0257,Electronics Component 0257,Electronics,SUP019,877,62,32,46,7.67,71,806,Defer Replenishment Review
+CMP0258,Propulsion Component 0258,Propulsion,SUP036,1685,100,35,11,1.83,103,1582,Defer Replenishment Review
+CMP0259,Structural Component 0259,Structural,SUP017,1272,87,32,107,17.83,107,1165,Defer Replenishment Review
+CMP0260,Structural Component 0260,Structural,SUP024,2043,24,37,66,11.0,38,2005,Defer Replenishment Review
+CMP0261,Communications Component 0261,Communications,SUP028,1721,71,38,31,5.17,78,1643,Defer Replenishment Review
+CMP0262,Propulsion Component 0262,Propulsion,SUP015,1057,94,31,17,2.83,97,960,Defer Replenishment Review
+CMP0263,Thermal Control Component 0263,Thermal Control,SUP001,1389,42,41,88,14.67,63,1326,Defer Replenishment Review
+CMP0264,Electronics Component 0264,Electronics,SUP019,1837,57,11,0,0.0,57,1780,Defer Replenishment Review
+CMP0265,Thermal Control Component 0265,Thermal Control,SUP016,1233,32,31,69,11.5,44,1189,Defer Replenishment Review
+CMP0266,Structural Component 0266,Structural,SUP017,1796,78,32,29,4.83,84,1712,Defer Replenishment Review
+CMP0267,Communications Component 0267,Communications,SUP028,1189,69,26,74,12.33,80,1109,Defer Replenishment Review
+CMP0268,Structural Component 0268,Structural,SUP024,1682,34,39,29,4.83,41,1641,Defer Replenishment Review
+CMP0269,Communications Component 0269,Communications,SUP007,1528,43,35,88,14.67,61,1467,Defer Replenishment Review
+CMP0270,Thermal Control Component 0270,Thermal Control,SUP010,1837,100,32,31,5.17,106,1731,Defer Replenishment Review
+CMP0271,Propulsion Component 0271,Propulsion,SUP020,1016,77,35,61,10.17,89,927,Defer Replenishment Review
+CMP0272,Thermal Control Component 0272,Thermal Control,SUP011,2249,52,34,125,20.83,76,2173,Defer Replenishment Review
+CMP0273,Communications Component 0273,Communications,SUP028,1262,46,12,8,1.33,47,1215,Defer Replenishment Review
+CMP0274,Communications Component 0274,Communications,SUP025,2432,47,23,0,0.0,47,2385,Defer Replenishment Review
+CMP0275,Propulsion Component 0275,Propulsion,SUP015,1269,46,10,99,16.5,52,1217,Defer Replenishment Review
+CMP0276,Communications Component 0276,Communications,SUP031,1732,73,18,40,6.67,77,1655,Defer Replenishment Review
+CMP0277,Thermal Control Component 0277,Thermal Control,SUP004,1087,96,35,54,9.0,107,980,Defer Replenishment Review
+CMP0278,Propulsion Component 0278,Propulsion,SUP036,1263,74,16,29,4.83,77,1186,Defer Replenishment Review
+CMP0279,Thermal Control Component 0279,Thermal Control,SUP004,1143,42,42,34,5.67,50,1093,Defer Replenishment Review
+CMP0280,Power Systems Component 0280,Power Systems,SUP012,724,36,33,39,6.5,44,680,Defer Replenishment Review
+CMP0281,Thermal Control Component 0281,Thermal Control,SUP037,1821,80,17,88,14.67,89,1732,Defer Replenishment Review
+CMP0282,Communications Component 0282,Communications,SUP007,1111,45,21,106,17.67,58,1053,Defer Replenishment Review
+CMP0283,Sensors Component 0283,Sensors,SUP032,1411,63,33,50,8.33,73,1338,Defer Replenishment Review
+CMP0284,Power Systems Component 0284,Power Systems,SUP012,1057,69,43,80,13.33,89,968,Defer Replenishment Review
+CMP0285,Thermal Control Component 0285,Thermal Control,SUP027,1483,89,33,93,15.5,107,1376,Defer Replenishment Review
+CMP0286,Sensors Component 0286,Sensors,SUP018,600,71,15,8,1.33,72,528,Defer Replenishment Review
+CMP0287,Structural Component 0287,Structural,SUP039,3006,45,43,22,3.67,51,2955,Defer Replenishment Review
+CMP0288,Power Systems Component 0288,Power Systems,SUP002,1205,80,36,66,11.0,94,1111,Defer Replenishment Review
+CMP0289,Electronics Component 0289,Electronics,SUP019,577,76,29,65,10.83,87,490,Defer Replenishment Review
+CMP0290,Communications Component 0290,Communications,SUP028,711,43,29,1,0.17,44,667,Defer Replenishment Review
+CMP0291,Structural Component 0291,Structural,SUP017,1768,73,16,39,6.5,77,1691,Defer Replenishment Review
+CMP0292,Power Systems Component 0292,Power Systems,SUP012,695,33,18,98,16.33,43,652,Defer Replenishment Review
+CMP0293,Sensors Component 0293,Sensors,SUP034,2141,38,33,37,6.17,45,2096,Defer Replenishment Review
+CMP0294,Thermal Control Component 0294,Thermal Control,SUP016,653,29,45,31,5.17,37,616,Defer Replenishment Review
+CMP0295,Structural Component 0295,Structural,SUP006,1236,22,21,48,8.0,28,1208,Defer Replenishment Review
+CMP0296,Communications Component 0296,Communications,SUP033,1343,95,7,74,12.33,98,1245,Defer Replenishment Review
+CMP0297,Power Systems Component 0297,Power Systems,SUP002,1353,40,24,1,0.17,41,1312,Defer Replenishment Review
+CMP0298,Power Systems Component 0298,Power Systems,SUP002,1916,73,39,18,3.0,77,1839,Defer Replenishment Review
+CMP0299,Communications Component 0299,Communications,SUP022,1029,61,14,1,0.17,62,967,Defer Replenishment Review
+CMP0300,Sensors Component 0300,Sensors,SUP014,1915,75,45,109,18.17,103,1812,Defer Replenishment Review
+CMP0301,Electronics Component 0301,Electronics,SUP038,1795,28,33,87,14.5,44,1751,Defer Replenishment Review
+CMP0302,Thermal Control Component 0302,Thermal Control,SUP004,1207,99,23,53,8.83,106,1101,Defer Replenishment Review
+CMP0303,Propulsion Component 0303,Propulsion,SUP020,1352,49,36,213,35.5,92,1260,Defer Replenishment Review
+CMP0304,Structural Component 0304,Structural,SUP017,2075,83,38,73,12.17,99,1976,Defer Replenishment Review
+CMP0305,Power Systems Component 0305,Power Systems,SUP002,1770,39,34,164,27.33,70,1700,Defer Replenishment Review
+CMP0306,Thermal Control Component 0306,Thermal Control,SUP004,1116,59,10,183,30.5,70,1046,Defer Replenishment Review
+CMP0307,Sensors Component 0307,Sensors,SUP034,2012,46,17,24,4.0,49,1963,Defer Replenishment Review
+CMP0308,Sensors Component 0308,Sensors,SUP014,1592,25,5,59,9.83,27,1565,Defer Replenishment Review
+CMP0309,Electronics Component 0309,Electronics,SUP019,853,28,18,68,11.33,35,818,Defer Replenishment Review
+CMP0310,Communications Component 0310,Communications,SUP031,1701,86,11,201,33.5,99,1602,Defer Replenishment Review
+CMP0311,Electronics Component 0311,Electronics,SUP038,973,64,23,54,9.0,71,902,Defer Replenishment Review
+CMP0312,Thermal Control Component 0312,Thermal Control,SUP001,1498,27,35,67,11.17,41,1457,Defer Replenishment Review
+CMP0313,Communications Component 0313,Communications,SUP022,1450,36,27,31,5.17,41,1409,Defer Replenishment Review
+CMP0314,Thermal Control Component 0314,Thermal Control,SUP023,985,57,13,54,9.0,61,924,Defer Replenishment Review
+CMP0315,Communications Component 0315,Communications,SUP022,752,97,36,51,8.5,108,644,Defer Replenishment Review
+CMP0316,Electronics Component 0316,Electronics,SUP019,963,34,38,79,13.17,51,912,Defer Replenishment Review
+CMP0317,Electronics Component 0317,Electronics,SUP019,1436,89,45,38,6.33,99,1337,Defer Replenishment Review
+CMP0318,Communications Component 0318,Communications,SUP022,1553,56,40,70,11.67,72,1481,Defer Replenishment Review
+CMP0319,Power Systems Component 0319,Power Systems,SUP012,1224,56,30,95,15.83,72,1152,Defer Replenishment Review
+CMP0320,Propulsion Component 0320,Propulsion,SUP020,759,73,35,118,19.67,96,663,Defer Replenishment Review
+CMP0321,Electronics Component 0321,Electronics,SUP030,1619,51,20,46,7.67,57,1562,Defer Replenishment Review
+CMP0322,Communications Component 0322,Communications,SUP025,1775,22,29,91,15.17,37,1738,Defer Replenishment Review
+CMP0323,Structural Component 0323,Structural,SUP017,1274,43,15,6,1.0,44,1230,Defer Replenishment Review
+CMP0324,Thermal Control Component 0324,Thermal Control,SUP001,1214,86,20,45,7.5,91,1123,Defer Replenishment Review
+CMP0325,Thermal Control Component 0325,Thermal Control,SUP010,1391,33,23,59,9.83,41,1350,Defer Replenishment Review
+CMP0326,Sensors Component 0326,Sensors,SUP029,1376,74,5,0,0.0,74,1302,Defer Replenishment Review
+CMP0327,Electronics Component 0327,Electronics,SUP005,1645,82,36,35,5.83,89,1556,Defer Replenishment Review
+CMP0328,Propulsion Component 0328,Propulsion,SUP036,1376,92,24,67,11.17,101,1275,Defer Replenishment Review
+CMP0329,Thermal Control Component 0329,Thermal Control,SUP037,1137,47,24,46,7.67,54,1083,Defer Replenishment Review
+CMP0330,Communications Component 0330,Communications,SUP025,1925,35,13,56,9.33,40,1885,Defer Replenishment Review
+CMP0331,Power Systems Component 0331,Power Systems,SUP002,1759,28,26,60,10.0,37,1722,Defer Replenishment Review
+CMP0332,Propulsion Component 0332,Propulsion,SUP015,1283,30,18,32,5.33,34,1249,Defer Replenishment Review
+CMP0333,Structural Component 0333,Structural,SUP017,1062,62,19,107,17.83,74,988,Defer Replenishment Review
+CMP0334,Propulsion Component 0334,Propulsion,SUP036,1459,69,41,60,10.0,83,1376,Defer Replenishment Review
+CMP0335,Electronics Component 0335,Electronics,SUP038,795,81,7,70,11.67,84,711,Defer Replenishment Review
+CMP0336,Electronics Component 0336,Electronics,SUP019,1791,70,39,35,5.83,78,1713,Defer Replenishment Review
+CMP0337,Power Systems Component 0337,Power Systems,SUP012,554,76,10,50,8.33,79,475,Defer Replenishment Review
+CMP0338,Power Systems Component 0338,Power Systems,SUP002,2898,23,18,0,0.0,23,2875,Defer Replenishment Review
+CMP0339,Sensors Component 0339,Sensors,SUP040,913,94,42,167,27.83,133,780,Defer Replenishment Review
+CMP0340,Propulsion Component 0340,Propulsion,SUP036,1700,99,25,97,16.17,113,1587,Defer Replenishment Review
+CMP0341,Structural Component 0341,Structural,SUP039,2330,85,37,77,12.83,101,2229,Defer Replenishment Review
+CMP0342,Communications Component 0342,Communications,SUP025,2525,30,12,15,2.5,31,2494,Defer Replenishment Review
+CMP0343,Power Systems Component 0343,Power Systems,SUP002,1400,22,28,40,6.67,29,1371,Defer Replenishment Review
+CMP0344,Structural Component 0344,Structural,SUP024,2014,53,30,75,12.5,66,1948,Defer Replenishment Review
+CMP0345,Structural Component 0345,Structural,SUP039,2099,79,36,135,22.5,106,1993,Defer Replenishment Review
+CMP0346,Structural Component 0346,Structural,SUP017,1777,56,23,46,7.67,62,1715,Defer Replenishment Review
+CMP0347,Structural Component 0347,Structural,SUP024,1742,49,44,99,16.5,74,1668,Defer Replenishment Review
+CMP0348,Structural Component 0348,Structural,SUP006,1436,50,11,57,9.5,54,1382,Defer Replenishment Review
+CMP0349,Sensors Component 0349,Sensors,SUP032,766,89,37,71,11.83,104,662,Defer Replenishment Review
+CMP0350,Sensors Component 0350,Sensors,SUP032,589,81,38,104,17.33,103,486,Defer Replenishment Review
+CMP0351,Power Systems Component 0351,Power Systems,SUP012,928,28,45,123,20.5,59,869,Defer Replenishment Review
+CMP0352,Electronics Component 0352,Electronics,SUP030,1044,96,42,191,31.83,141,903,Defer Replenishment Review
+CMP0353,Power Systems Component 0353,Power Systems,SUP012,776,69,43,106,17.67,95,681,Defer Replenishment Review
+CMP0354,Communications Component 0354,Communications,SUP033,1392,65,35,99,16.5,85,1307,Defer Replenishment Review
+CMP0355,Propulsion Component 0355,Propulsion,SUP036,1412,36,23,13,2.17,38,1374,Defer Replenishment Review
+CMP0356,Electronics Component 0356,Electronics,SUP030,832,83,41,59,9.83,97,735,Defer Replenishment Review
+CMP0357,Power Systems Component 0357,Power Systems,SUP002,1326,24,32,139,23.17,49,1277,Defer Replenishment Review
+CMP0358,Propulsion Component 0358,Propulsion,SUP020,1220,82,26,6,1.0,83,1137,Defer Replenishment Review
+CMP0359,Propulsion Component 0359,Propulsion,SUP036,2019,84,39,76,12.67,101,1918,Defer Replenishment Review
+CMP0360,Propulsion Component 0360,Propulsion,SUP036,1873,68,20,38,6.33,73,1800,Defer Replenishment Review
+CMP0361,Electronics Component 0361,Electronics,SUP003,2882,60,15,42,7.0,64,2818,Defer Replenishment Review
+CMP0362,Sensors Component 0362,Sensors,SUP029,1089,99,22,103,17.17,112,977,Defer Replenishment Review
+CMP0363,Power Systems Component 0363,Power Systems,SUP002,2013,30,41,116,19.33,57,1956,Defer Replenishment Review
+CMP0364,Thermal Control Component 0364,Thermal Control,SUP004,872,87,17,78,13.0,95,777,Defer Replenishment Review
+CMP0365,Thermal Control Component 0365,Thermal Control,SUP027,1277,96,25,13,2.17,98,1179,Defer Replenishment Review
+CMP0366,Sensors Component 0366,Sensors,SUP018,1320,75,32,70,11.67,88,1232,Defer Replenishment Review
+CMP0367,Electronics Component 0367,Electronics,SUP019,1568,31,28,11,1.83,33,1535,Defer Replenishment Review
+CMP0368,Sensors Component 0368,Sensors,SUP040,1437,62,10,87,14.5,67,1370,Defer Replenishment Review
+CMP0369,Communications Component 0369,Communications,SUP022,1395,35,25,101,16.83,50,1345,Defer Replenishment Review
+CMP0370,Power Systems Component 0370,Power Systems,SUP002,2119,52,44,37,6.17,62,2057,Defer Replenishment Review
+CMP0371,Propulsion Component 0371,Propulsion,SUP015,1152,100,41,75,12.5,118,1034,Defer Replenishment Review
+CMP0372,Communications Component 0372,Communications,SUP025,1467,54,6,149,24.83,59,1408,Defer Replenishment Review
+CMP0373,Propulsion Component 0373,Propulsion,SUP026,1617,58,32,70,11.67,71,1546,Defer Replenishment Review
+CMP0374,Electronics Component 0374,Electronics,SUP005,2306,77,42,11,1.83,80,2226,Defer Replenishment Review
+CMP0375,Structural Component 0375,Structural,SUP006,1472,81,42,67,11.17,97,1375,Defer Replenishment Review
+CMP0376,Electronics Component 0376,Electronics,SUP005,2400,24,11,143,23.83,33,2367,Defer Replenishment Review
+CMP0377,Thermal Control Component 0377,Thermal Control,SUP013,1864,90,34,0,0.0,90,1774,Defer Replenishment Review
+CMP0378,Structural Component 0378,Structural,SUP039,1941,56,44,62,10.33,72,1869,Defer Replenishment Review
+CMP0379,Structural Component 0379,Structural,SUP017,1901,61,13,26,4.33,63,1838,Defer Replenishment Review
+CMP0380,Power Systems Component 0380,Power Systems,SUP002,2171,27,34,131,21.83,52,2119,Defer Replenishment Review
+CMP0381,Sensors Component 0381,Sensors,SUP034,2762,70,19,0,0.0,70,2692,Defer Replenishment Review
+CMP0382,Power Systems Component 0382,Power Systems,SUP012,777,30,27,44,7.33,37,740,Defer Replenishment Review
+CMP0383,Structural Component 0383,Structural,SUP024,599,37,22,93,15.5,49,550,Defer Replenishment Review
+CMP0384,Communications Component 0384,Communications,SUP031,1315,59,20,55,9.17,66,1249,Defer Replenishment Review
+CMP0385,Propulsion Component 0385,Propulsion,SUP020,348,29,34,33,5.5,36,312,Defer Replenishment Review
+CMP0386,Electronics Component 0386,Electronics,SUP030,1381,83,43,10,1.67,86,1295,Defer Replenishment Review
+CMP0387,Thermal Control Component 0387,Thermal Control,SUP016,1236,45,40,31,5.17,52,1184,Defer Replenishment Review
+CMP0388,Propulsion Component 0388,Propulsion,SUP020,730,99,26,130,21.67,118,612,Defer Replenishment Review
+CMP0389,Communications Component 0389,Communications,SUP033,1785,23,28,40,6.67,30,1755,Defer Replenishment Review
+CMP0390,Electronics Component 0390,Electronics,SUP019,1178,32,13,63,10.5,37,1141,Defer Replenishment Review
+CMP0391,Propulsion Component 0391,Propulsion,SUP026,2124,41,32,29,4.83,47,2077,Defer Replenishment Review
+CMP0392,Communications Component 0392,Communications,SUP031,2135,36,30,18,3.0,39,2096,Defer Replenishment Review
+CMP0393,Communications Component 0393,Communications,SUP033,1553,30,9,34,5.67,32,1521,Defer Replenishment Review
+CMP0394,Electronics Component 0394,Electronics,SUP019,1451,38,43,18,3.0,43,1408,Defer Replenishment Review
+CMP0395,Thermal Control Component 0395,Thermal Control,SUP011,2194,30,22,9,1.5,32,2162,Defer Replenishment Review
+CMP0396,Propulsion Component 0396,Propulsion,SUP026,2205,45,32,117,19.5,66,2139,Defer Replenishment Review
+CMP0397,Propulsion Component 0397,Propulsion,SUP020,1873,82,42,11,1.83,85,1788,Defer Replenishment Review
+CMP0398,Propulsion Component 0398,Propulsion,SUP026,1401,95,9,51,8.5,98,1303,Defer Replenishment Review
+CMP0399,Communications Component 0399,Communications,SUP025,1722,22,43,80,13.33,42,1680,Defer Replenishment Review
+CMP0400,Sensors Component 0400,Sensors,SUP014,2282,100,24,65,10.83,109,2173,Defer Replenishment Review
+CMP0401,Power Systems Component 0401,Power Systems,SUP002,1590,79,14,22,3.67,81,1509,Defer Replenishment Review
+CMP0402,Propulsion Component 0402,Propulsion,SUP026,1178,71,45,99,16.5,96,1082,Defer Replenishment Review
+CMP0403,Electronics Component 0403,Electronics,SUP019,1109,42,34,121,20.17,65,1044,Defer Replenishment Review
+CMP0404,Electronics Component 0404,Electronics,SUP035,1236,86,37,19,3.17,90,1146,Defer Replenishment Review
+CMP0405,Power Systems Component 0405,Power Systems,SUP002,2448,35,36,58,9.67,47,2401,Defer Replenishment Review
+CMP0406,Communications Component 0406,Communications,SUP022,1832,48,32,23,3.83,53,1779,Defer Replenishment Review
+CMP0407,Power Systems Component 0407,Power Systems,SUP012,1042,68,30,1,0.17,69,973,Defer Replenishment Review
+CMP0408,Thermal Control Component 0408,Thermal Control,SUP011,2415,60,23,111,18.5,75,2340,Defer Replenishment Review
+CMP0409,Sensors Component 0409,Sensors,SUP009,1091,48,20,85,14.17,58,1033,Defer Replenishment Review
+CMP0410,Propulsion Component 0410,Propulsion,SUP020,1206,70,41,103,17.17,94,1112,Defer Replenishment Review
+CMP0411,Thermal Control Component 0411,Thermal Control,SUP010,2036,28,37,99,16.5,49,1987,Defer Replenishment Review
+CMP0412,Propulsion Component 0412,Propulsion,SUP020,1477,36,26,172,28.67,61,1416,Defer Replenishment Review
+CMP0413,Propulsion Component 0413,Propulsion,SUP036,1180,33,39,37,6.17,42,1138,Defer Replenishment Review
+CMP0414,Propulsion Component 0414,Propulsion,SUP036,1380,48,11,60,10.0,52,1328,Defer Replenishment Review
+CMP0415,Structural Component 0415,Structural,SUP017,1770,50,33,127,21.17,74,1696,Defer Replenishment Review
+CMP0416,Sensors Component 0416,Sensors,SUP034,1645,77,24,56,9.33,85,1560,Defer Replenishment Review
+CMP0417,Propulsion Component 0417,Propulsion,SUP036,1444,28,13,87,14.5,35,1409,Defer Replenishment Review
+CMP0418,Sensors Component 0418,Sensors,SUP018,1395,86,19,21,3.5,89,1306,Defer Replenishment Review
+CMP0419,Propulsion Component 0419,Propulsion,SUP015,782,47,34,200,33.33,85,697,Defer Replenishment Review
+CMP0420,Propulsion Component 0420,Propulsion,SUP036,1237,80,16,11,1.83,81,1156,Defer Replenishment Review
+CMP0421,Structural Component 0421,Structural,SUP006,1917,76,40,28,4.67,83,1834,Defer Replenishment Review
+CMP0422,Structural Component 0422,Structural,SUP039,2867,39,43,12,2.0,42,2825,Defer Replenishment Review
+CMP0423,Structural Component 0423,Structural,SUP017,1344,21,30,76,12.67,34,1310,Defer Replenishment Review
+CMP0424,Power Systems Component 0424,Power Systems,SUP002,1286,69,42,61,10.17,84,1202,Defer Replenishment Review
+CMP0425,Sensors Component 0425,Sensors,SUP034,1772,81,34,39,6.5,89,1683,Defer Replenishment Review
+CMP0426,Electronics Component 0426,Electronics,SUP030,1674,58,21,88,14.67,69,1605,Defer Replenishment Review
+CMP0427,Sensors Component 0427,Sensors,SUP029,930,72,45,24,4.0,78,852,Defer Replenishment Review
+CMP0428,Electronics Component 0428,Electronics,SUP035,941,38,39,46,7.67,48,893,Defer Replenishment Review
+CMP0429,Thermal Control Component 0429,Thermal Control,SUP037,1394,29,11,1,0.17,30,1364,Defer Replenishment Review
+CMP0430,Structural Component 0430,Structural,SUP006,1438,52,29,124,20.67,72,1366,Defer Replenishment Review
+CMP0431,Communications Component 0431,Communications,SUP033,1298,100,30,47,7.83,108,1190,Defer Replenishment Review
+CMP0432,Structural Component 0432,Structural,SUP006,1903,33,7,66,11.0,36,1867,Defer Replenishment Review
+CMP0433,Communications Component 0433,Communications,SUP033,948,24,5,30,5.0,25,923,Defer Replenishment Review
+CMP0434,Communications Component 0434,Communications,SUP031,1363,35,38,22,3.67,40,1323,Defer Replenishment Review
+CMP0435,Power Systems Component 0435,Power Systems,SUP002,2415,82,17,57,9.5,88,2327,Defer Replenishment Review
+CMP0436,Communications Component 0436,Communications,SUP033,1448,85,16,63,10.5,91,1357,Defer Replenishment Review
+CMP0437,Structural Component 0437,Structural,SUP039,1878,20,45,59,9.83,35,1843,Defer Replenishment Review
+CMP0438,Sensors Component 0438,Sensors,SUP032,1025,40,36,90,15.0,58,967,Defer Replenishment Review
+CMP0439,Communications Component 0439,Communications,SUP025,1831,88,32,47,7.83,97,1734,Defer Replenishment Review
+CMP0440,Electronics Component 0440,Electronics,SUP030,1232,66,6,42,7.0,68,1164,Defer Replenishment Review
+CMP0441,Propulsion Component 0441,Propulsion,SUP015,807,79,36,127,21.17,105,702,Defer Replenishment Review
+CMP0442,Electronics Component 0442,Electronics,SUP003,995,52,20,94,15.67,63,932,Defer Replenishment Review
+CMP0443,Propulsion Component 0443,Propulsion,SUP015,1187,65,22,77,12.83,75,1112,Defer Replenishment Review
+CMP0444,Sensors Component 0444,Sensors,SUP032,1862,89,33,58,9.67,100,1762,Defer Replenishment Review
+CMP0445,Electronics Component 0445,Electronics,SUP038,1339,72,14,34,5.67,75,1264,Defer Replenishment Review
+CMP0446,Power Systems Component 0446,Power Systems,SUP002,1802,39,35,21,3.5,44,1758,Defer Replenishment Review
+CMP0447,Power Systems Component 0447,Power Systems,SUP002,1053,30,12,152,25.33,41,1012,Defer Replenishment Review
+CMP0448,Propulsion Component 0448,Propulsion,SUP020,1813,57,37,126,21.0,83,1730,Defer Replenishment Review
+CMP0449,Propulsion Component 0449,Propulsion,SUP036,1097,71,29,108,18.0,89,1008,Defer Replenishment Review
+CMP0450,Propulsion Component 0450,Propulsion,SUP015,1739,40,43,21,3.5,46,1693,Defer Replenishment Review
+CMP0451,Sensors Component 0451,Sensors,SUP018,1623,52,30,149,24.83,77,1546,Defer Replenishment Review
+CMP0452,Structural Component 0452,Structural,SUP017,1419,22,31,22,3.67,26,1393,Defer Replenishment Review
+CMP0453,Sensors Component 0453,Sensors,SUP034,2009,51,30,37,6.17,58,1951,Defer Replenishment Review
+CMP0454,Thermal Control Component 0454,Thermal Control,SUP010,1153,88,7,113,18.83,93,1060,Defer Replenishment Review
+CMP0455,Power Systems Component 0455,Power Systems,SUP012,864,28,27,27,4.5,33,831,Defer Replenishment Review
+CMP0456,Thermal Control Component 0456,Thermal Control,SUP016,1556,30,43,27,4.5,37,1519,Defer Replenishment Review
+CMP0457,Electronics Component 0457,Electronics,SUP035,784,24,12,51,8.5,28,756,Defer Replenishment Review
+CMP0458,Sensors Component 0458,Sensors,SUP040,990,80,35,46,7.67,89,901,Defer Replenishment Review
+CMP0459,Communications Component 0459,Communications,SUP022,862,99,17,103,17.17,109,753,Defer Replenishment Review
+CMP0460,Sensors Component 0460,Sensors,SUP032,1796,60,21,29,4.83,64,1732,Defer Replenishment Review
+CMP0461,Thermal Control Component 0461,Thermal Control,SUP027,1201,84,36,61,10.17,97,1104,Defer Replenishment Review
+CMP0462,Thermal Control Component 0462,Thermal Control,SUP010,850,74,12,61,10.17,79,771,Defer Replenishment Review
+CMP0463,Structural Component 0463,Structural,SUP039,1328,20,38,12,2.0,23,1305,Defer Replenishment Review
+CMP0464,Power Systems Component 0464,Power Systems,SUP002,1370,99,31,92,15.33,115,1255,Defer Replenishment Review
+CMP0465,Communications Component 0465,Communications,SUP025,2477,37,29,39,6.5,44,2433,Defer Replenishment Review
+CMP0466,Structural Component 0466,Structural,SUP024,2209,90,37,17,2.83,94,2115,Defer Replenishment Review
+CMP0467,Communications Component 0467,Communications,SUP025,2405,58,36,0,0.0,58,2347,Defer Replenishment Review
+CMP0468,Structural Component 0468,Structural,SUP006,1656,82,29,31,5.17,87,1569,Defer Replenishment Review
+CMP0469,Structural Component 0469,Structural,SUP024,1757,96,23,45,7.5,102,1655,Defer Replenishment Review
+CMP0470,Propulsion Component 0470,Propulsion,SUP036,1324,77,25,43,7.17,83,1241,Defer Replenishment Review
+CMP0471,Sensors Component 0471,Sensors,SUP008,1272,86,35,110,18.33,108,1164,Defer Replenishment Review
+CMP0472,Electronics Component 0472,Electronics,SUP038,1301,52,7,47,7.83,54,1247,Defer Replenishment Review
+CMP0473,Structural Component 0473,Structural,SUP024,1518,62,14,23,3.83,64,1454,Defer Replenishment Review
+CMP0474,Thermal Control Component 0474,Thermal Control,SUP023,1042,91,26,14,2.33,94,948,Defer Replenishment Review
+CMP0475,Structural Component 0475,Structural,SUP039,2508,84,21,69,11.5,93,2415,Defer Replenishment Review
+CMP0476,Electronics Component 0476,Electronics,SUP019,1388,97,31,52,8.67,106,1282,Defer Replenishment Review
+CMP0477,Structural Component 0477,Structural,SUP024,1621,28,10,40,6.67,31,1590,Defer Replenishment Review
+CMP0478,Sensors Component 0478,Sensors,SUP008,1065,71,41,25,4.17,77,988,Defer Replenishment Review
+CMP0479,Thermal Control Component 0479,Thermal Control,SUP027,1406,98,10,121,20.17,105,1301,Defer Replenishment Review
+CMP0480,Electronics Component 0480,Electronics,SUP005,1324,98,42,13,2.17,102,1222,Defer Replenishment Review
+CMP0481,Thermal Control Component 0481,Thermal Control,SUP010,2401,43,10,84,14.0,48,2353,Defer Replenishment Review
+CMP0482,Electronics Component 0482,Electronics,SUP005,1049,29,45,93,15.5,53,996,Defer Replenishment Review
+CMP0483,Electronics Component 0483,Electronics,SUP003,1852,62,35,83,13.83,79,1773,Defer Replenishment Review
+CMP0484,Communications Component 0484,Communications,SUP007,1415,82,41,101,16.83,106,1309,Defer Replenishment Review
+CMP0485,Structural Component 0485,Structural,SUP024,2147,96,21,67,11.17,104,2043,Defer Replenishment Review
+CMP0486,Sensors Component 0486,Sensors,SUP032,727,48,11,88,14.67,54,673,Defer Replenishment Review
+CMP0487,Structural Component 0487,Structural,SUP039,1295,54,35,105,17.5,75,1220,Defer Replenishment Review
+CMP0488,Propulsion Component 0488,Propulsion,SUP036,1415,88,33,25,4.17,93,1322,Defer Replenishment Review
+CMP0489,Communications Component 0489,Communications,SUP033,1296,91,13,36,6.0,94,1202,Defer Replenishment Review
+CMP0490,Structural Component 0490,Structural,SUP039,2574,37,42,107,17.83,62,2512,Defer Replenishment Review
+CMP0491,Electronics Component 0491,Electronics,SUP005,1564,40,18,29,4.83,43,1521,Defer Replenishment Review
+CMP0492,Sensors Component 0492,Sensors,SUP014,1837,70,30,53,8.83,79,1758,Defer Replenishment Review
+CMP0493,Power Systems Component 0493,Power Systems,SUP002,1922,70,27,108,18.0,87,1835,Defer Replenishment Review
+CMP0494,Communications Component 0494,Communications,SUP028,1395,25,21,112,18.67,39,1356,Defer Replenishment Review
+CMP0495,Sensors Component 0495,Sensors,SUP008,972,46,39,165,27.5,82,890,Defer Replenishment Review
+CMP0496,Thermal Control Component 0496,Thermal Control,SUP023,1652,39,27,32,5.33,44,1608,Defer Replenishment Review
+CMP0497,Electronics Component 0497,Electronics,SUP035,1258,63,8,77,12.83,67,1191,Defer Replenishment Review
+CMP0498,Communications Component 0498,Communications,SUP031,1255,95,26,98,16.33,110,1145,Defer Replenishment Review
+CMP0499,Communications Component 0499,Communications,SUP028,1189,29,21,50,8.33,35,1154,Defer Replenishment Review
+CMP0500,Sensors Component 0500,Sensors,SUP032,1361,59,25,5,0.83,60,1301,Defer Replenishment Review

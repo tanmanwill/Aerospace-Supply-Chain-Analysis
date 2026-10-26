@@ -1,0 +1,41 @@
+SupplierID,SupplierName,Location,SupplierCategory,ReliabilityRating
+SUP001,Aerospace Supplier 01,"Houston, TX",Thermal Control,79.92
+SUP002,Aerospace Supplier 02,"Los Angeles, CA",Power Systems,88.71
+SUP003,Aerospace Supplier 03,"Austin, TX",Electronics,98.17
+SUP004,Aerospace Supplier 04,"Denver, CO",Thermal Control,91.73
+SUP005,Aerospace Supplier 05,"Seattle, WA",Electronics,80.31
+SUP006,Aerospace Supplier 06,"Seattle, WA",Structural,96.51
+SUP007,Aerospace Supplier 07,"Phoenix, AZ",Communications,92.97
+SUP008,Aerospace Supplier 08,"Seattle, WA",Sensors,72.73
+SUP009,Aerospace Supplier 09,"Houston, TX",Sensors,67.17
+SUP010,Aerospace Supplier 10,"Phoenix, AZ",Thermal Control,86.48
+SUP011,Aerospace Supplier 11,"Austin, TX",Thermal Control,77.05
+SUP012,Aerospace Supplier 12,"Houston, TX",Power Systems,95.37
+SUP013,Aerospace Supplier 13,"Denver, CO",Thermal Control,71.62
+SUP014,Aerospace Supplier 14,"Dallas, TX",Sensors,66.49
+SUP015,Aerospace Supplier 15,"Seattle, WA",Propulsion,88.22
+SUP016,Aerospace Supplier 16,"Hunstville, AL",Thermal Control,97.9
+SUP017,Aerospace Supplier 17,"Los Angeles, CA",Structural,77.6
+SUP018,Aerospace Supplier 18,"Houston, TX",Sensors,71.44
+SUP019,Aerospace Supplier 19,"Los Angeles, CA",Electronics,81.17
+SUP020,Aerospace Supplier 20,"Dallas, TX",Propulsion,87.77
+SUP021,Aerospace Supplier 21,"Hunstville, AL",Sensors,93.31
+SUP022,Aerospace Supplier 22,"Denver, CO",Communications,75.62
+SUP023,Aerospace Supplier 23,"Phoenix, AZ",Thermal Control,92.36
+SUP024,Aerospace Supplier 24,"Phoenix, AZ",Structural,74.8
+SUP025,Aerospace Supplier 25,"Austin, TX",Communications,69.75
+SUP026,Aerospace Supplier 26,"Phoenix, AZ",Propulsion,65.25
+SUP027,Aerospace Supplier 27,"Phoenix, AZ",Thermal Control,87.6
+SUP028,Aerospace Supplier 28,"Los Angeles, CA",Communications,91.54
+SUP029,Aerospace Supplier 29,"Seattle, WA",Sensors,84.34
+SUP030,Aerospace Supplier 30,"Houston, TX",Electronics,68.89
+SUP031,Aerospace Supplier 31,"Los Angeles, CA",Communications,81.02
+SUP032,Aerospace Supplier 32,"Phoenix, AZ",Sensors,91.01
+SUP033,Aerospace Supplier 33,"Seattle, WA",Communications,83.82
+SUP034,Aerospace Supplier 34,"Houston, TX",Sensors,75.33
+SUP035,Aerospace Supplier 35,"Seattle, WA",Electronics,79.85
+SUP036,Aerospace Supplier 36,"Hunstville, AL",Propulsion,78.89
+SUP037,Aerospace Supplier 37,"Hunstville, AL",Thermal Control,72.95
+SUP038,Aerospace Supplier 38,"Phoenix, AZ",Electronics,74.57
+SUP039,Aerospace Supplier 39,"Hunstville, AL",Structural,87.51
+SUP040,Aerospace Supplier 40,"Austin, TX",Sensors,91.65

@@ -1,0 +1,501 @@
+ComponentID,ComponentName,Category,SupplierID,SupplierName,UnitCost,CurrentStock,SafetyStock,LeadTimeDays,InventoryValue,StockAboveSafetyStock,SafetyStockStatus
+CMP0001,Power Systems Component 0001,Power Systems,SUP012,Aerospace Supplier 12,2586.72,1055,53,18,2728989.6,1002,Above Safety Stock
+CMP0002,Propulsion Component 0002,Propulsion,SUP020,Aerospace Supplier 20,1355.45,1715,21,34,2324596.75,1694,Above Safety Stock
+CMP0003,Communications Component 0003,Communications,SUP025,Aerospace Supplier 25,1380.52,1870,92,43,2581572.4,1778,Above Safety Stock
+CMP0004,Propulsion Component 0004,Propulsion,SUP020,Aerospace Supplier 20,4738.48,2211,76,20,10476779.28,2135,Above Safety Stock
+CMP0005,Propulsion Component 0005,Propulsion,SUP020,Aerospace Supplier 20,6487.68,1385,69,44,8985436.8,1316,Above Safety Stock
+CMP0006,Electronics Component 0006,Electronics,SUP019,Aerospace Supplier 19,1444.75,2272,29,42,3282472.0,2243,Above Safety Stock
+CMP0007,Sensors Component 0007,Sensors,SUP032,Aerospace Supplier 32,1476.18,1144,81,15,1688749.92,1063,Above Safety Stock
+CMP0008,Thermal Control Component 0008,Thermal Control,SUP010,Aerospace Supplier 10,1880.04,2442,78,16,4591057.68,2364,Above Safety Stock
+CMP0009,Electronics Component 0009,Electronics,SUP003,Aerospace Supplier 03,1358.77,2083,30,33,2830317.91,2053,Above Safety Stock
+CMP0010,Propulsion Component 0010,Propulsion,SUP026,Aerospace Supplier 26,6002.59,1324,44,12,7947429.16,1280,Above Safety Stock
+CMP0011,Sensors Component 0011,Sensors,SUP034,Aerospace Supplier 34,3840.89,1062,59,32,4079025.18,1003,Above Safety Stock
+CMP0012,Sensors Component 0012,Sensors,SUP014,Aerospace Supplier 14,3003.67,2389,70,31,7175767.63,2319,Above Safety Stock
+CMP0013,Communications Component 0013,Communications,SUP007,Aerospace Supplier 07,3085.91,1027,83,12,3169229.57,944,Above Safety Stock
+CMP0014,Sensors Component 0014,Sensors,SUP009,Aerospace Supplier 09,893.72,1000,46,9,893720.0,954,Above Safety Stock
+CMP0015,Propulsion Component 0015,Propulsion,SUP026,Aerospace Supplier 26,2120.63,1660,44,45,3520245.8,1616,Above Safety Stock
+CMP0016,Communications Component 0016,Communications,SUP025,Aerospace Supplier 25,4259.13,2021,48,5,8607701.73,1973,Above Safety Stock
+CMP0017,Propulsion Component 0017,Propulsion,SUP036,Aerospace Supplier 36,5081.88,1091,57,7,5544331.08,1034,Above Safety Stock
+CMP0018,Electronics Component 0018,Electronics,SUP005,Aerospace Supplier 05,761.53,1624,59,43,1236724.72,1565,Above Safety Stock
+CMP0019,Propulsion Component 0019,Propulsion,SUP026,Aerospace Supplier 26,4998.15,1553,85,44,7762126.95,1468,Above Safety Stock
+CMP0020,Structural Component 0020,Structural,SUP024,Aerospace Supplier 24,1592.3,1722,62,5,2741940.6,1660,Above Safety Stock
+CMP0021,Structural Component 0021,Structural,SUP039,Aerospace Supplier 39,3146.95,1663,63,17,5233377.85,1600,Above Safety Stock
+CMP0022,Sensors Component 0022,Sensors,SUP014,Aerospace Supplier 14,3426.75,1457,28,16,4992774.75,1429,Above Safety Stock
+CMP0023,Propulsion Component 0023,Propulsion,SUP026,Aerospace Supplier 26,7406.45,2033,96,18,15057312.85,1937,Above Safety Stock
+CMP0024,Electronics Component 0024,Electronics,SUP030,Aerospace Supplier 30,383.81,1372,94,6,526587.32,1278,Above Safety Stock
+CMP0025,Electronics Component 0025,Electronics,SUP030,Aerospace Supplier 30,587.84,754,45,23,443231.36,709,Above Safety Stock
+CMP0026,Thermal Control Component 0026,Thermal Control,SUP037,Aerospace Supplier 37,3818.66,1613,45,16,6159498.58,1568,Above Safety Stock
+CMP0027,Communications Component 0027,Communications,SUP028,Aerospace Supplier 28,2014.97,1181,100,12,2379679.57,1081,Above Safety Stock
+CMP0028,Propulsion Component 0028,Propulsion,SUP026,Aerospace Supplier 26,4633.42,2094,23,45,9702381.48,2071,Above Safety Stock
+CMP0029,Propulsion Component 0029,Propulsion,SUP036,Aerospace Supplier 36,7611.78,1185,88,14,9019959.3,1097,Above Safety Stock
+CMP0030,Power Systems Component 0030,Power Systems,SUP002,Aerospace Supplier 02,2066.59,2820,62,36,5827783.8,2758,Above Safety Stock
+CMP0031,Structural Component 0031,Structural,SUP024,Aerospace Supplier 24,1370.44,2454,91,35,3363059.76,2363,Above Safety Stock
+CMP0032,Thermal Control Component 0032,Thermal Control,SUP011,Aerospace Supplier 11,3756.73,1904,41,14,7152813.92,1863,Above Safety Stock
+CMP0033,Electronics Component 0033,Electronics,SUP003,Aerospace Supplier 03,1255.11,1521,92,35,1909022.31,1429,Above Safety Stock
+CMP0034,Propulsion Component 0034,Propulsion,SUP020,Aerospace Supplier 20,8808.34,890,68,13,7839422.6,822,Above Safety Stock
+CMP0035,Propulsion Component 0035,Propulsion,SUP020,Aerospace Supplier 20,7885.35,1225,45,25,9659553.75,1180,Above Safety Stock
+CMP0036,Sensors Component 0036,Sensors,SUP018,Aerospace Supplier 18,266.89,1574,31,14,420084.86,1543,Above Safety Stock
+CMP0037,Propulsion Component 0037,Propulsion,SUP015,Aerospace Supplier 15,6937.76,729,98,17,5057627.04,631,Above Safety Stock
+CMP0038,Sensors Component 0038,Sensors,SUP040,Aerospace Supplier 40,2989.36,1207,76,13,3608157.52,1131,Above Safety Stock
+CMP0039,Power Systems Component 0039,Power Systems,SUP012,Aerospace Supplier 12,4363.59,953,26,38,4158501.27,927,Above Safety Stock
+CMP0040,Electronics Component 0040,Electronics,SUP019,Aerospace Supplier 19,1394.97,1863,30,21,2598829.11,1833,Above Safety Stock
+CMP0041,Power Systems Component 0041,Power Systems,SUP002,Aerospace Supplier 02,3059.36,1861,61,17,5693468.96,1800,Above Safety Stock
+CMP0042,Power Systems Component 0042,Power Systems,SUP012,Aerospace Supplier 12,5567.65,691,43,6,3847246.15,648,Above Safety Stock
+CMP0043,Communications Component 0043,Communications,SUP028,Aerospace Supplier 28,4547.63,1058,88,34,4811392.54,970,Above Safety Stock
+CMP0044,Electronics Component 0044,Electronics,SUP035,Aerospace Supplier 35,1451.04,837,53,29,1214520.48,784,Above Safety Stock
+CMP0045,Propulsion Component 0045,Propulsion,SUP036,Aerospace Supplier 36,8141.43,1998,54,31,16266577.14,1944,Above Safety Stock
+CMP0046,Thermal Control Component 0046,Thermal Control,SUP027,Aerospace Supplier 27,570.2,1300,21,39,741260.0,1279,Above Safety Stock
+CMP0047,Propulsion Component 0047,Propulsion,SUP036,Aerospace Supplier 36,2710.09,1979,47,36,5363268.11,1932,Above Safety Stock
+CMP0048,Communications Component 0048,Communications,SUP033,Aerospace Supplier 33,4340.82,1695,90,21,7357689.9,1605,Above Safety Stock
+CMP0049,Electronics Component 0049,Electronics,SUP019,Aerospace Supplier 19,667.53,1192,29,44,795695.76,1163,Above Safety Stock
+CMP0050,Power Systems Component 0050,Power Systems,SUP002,Aerospace Supplier 02,1675.08,1335,56,14,2236231.8,1279,Above Safety Stock
+CMP0051,Power Systems Component 0051,Power Systems,SUP012,Aerospace Supplier 12,4945.27,809,97,41,4000723.43,712,Above Safety Stock
+CMP0052,Electronics Component 0052,Electronics,SUP019,Aerospace Supplier 19,261.95,1246,68,38,326389.7,1178,Above Safety Stock
+CMP0053,Structural Component 0053,Structural,SUP017,Aerospace Supplier 17,589.16,1896,94,29,1117047.36,1802,Above Safety Stock
+CMP0054,Propulsion Component 0054,Propulsion,SUP015,Aerospace Supplier 15,1959.33,1124,43,9,2202286.92,1081,Above Safety Stock
+CMP0055,Sensors Component 0055,Sensors,SUP008,Aerospace Supplier 08,465.9,1411,35,39,657384.9,1376,Above Safety Stock
+CMP0056,Electronics Component 0056,Electronics,SUP019,Aerospace Supplier 19,1037.04,2008,67,21,2082376.32,1941,Above Safety Stock
+CMP0057,Thermal Control Component 0057,Thermal Control,SUP010,Aerospace Supplier 10,2092.43,1897,79,37,3969339.71,1818,Above Safety Stock
+CMP0058,Thermal Control Component 0058,Thermal Control,SUP013,Aerospace Supplier 13,848.77,1257,23,14,1066903.89,1234,Above Safety Stock
+CMP0059,Propulsion Component 0059,Propulsion,SUP015,Aerospace Supplier 15,5926.71,1663,96,16,9856118.73,1567,Above Safety Stock
+CMP0060,Electronics Component 0060,Electronics,SUP003,Aerospace Supplier 03,809.44,2100,50,9,1699824.0,2050,Above Safety Stock
+CMP0061,Electronics Component 0061,Electronics,SUP038,Aerospace Supplier 38,125.34,1051,52,33,131732.34,999,Above Safety Stock
+CMP0062,Electronics Component 0062,Electronics,SUP038,Aerospace Supplier 38,1358.85,1316,88,45,1788246.6,1228,Above Safety Stock
+CMP0063,Structural Component 0063,Structural,SUP039,Aerospace Supplier 39,2750.22,1971,70,30,5420683.62,1901,Above Safety Stock
+CMP0064,Thermal Control Component 0064,Thermal Control,SUP023,Aerospace Supplier 23,2213.86,763,30,26,1689175.18,733,Above Safety Stock
+CMP0065,Power Systems Component 0065,Power Systems,SUP012,Aerospace Supplier 12,2911.1,1466,83,33,4267672.6,1383,Above Safety Stock
+CMP0066,Communications Component 0066,Communications,SUP022,Aerospace Supplier 22,1236.45,1579,41,24,1952354.55,1538,Above Safety Stock
+CMP0067,Propulsion Component 0067,Propulsion,SUP020,Aerospace Supplier 20,2709.41,706,47,25,1912843.46,659,Above Safety Stock
+CMP0068,Structural Component 0068,Structural,SUP024,Aerospace Supplier 24,1390.18,2169,46,33,3015300.42,2123,Above Safety Stock
+CMP0069,Propulsion Component 0069,Propulsion,SUP020,Aerospace Supplier 20,9514.15,922,74,40,8772046.3,848,Above Safety Stock
+CMP0070,Sensors Component 0070,Sensors,SUP032,Aerospace Supplier 32,2770.09,1079,46,39,2988927.11,1033,Above Safety Stock
+CMP0071,Sensors Component 0071,Sensors,SUP029,Aerospace Supplier 29,4061.08,987,64,36,4008285.96,923,Above Safety Stock
+CMP0072,Communications Component 0072,Communications,SUP007,Aerospace Supplier 07,5223.78,850,43,13,4440213.0,807,Above Safety Stock
+CMP0073,Communications Component 0073,Communications,SUP031,Aerospace Supplier 31,6066.82,1554,94,44,9427838.28,1460,Above Safety Stock
+CMP0074,Communications Component 0074,Communications,SUP028,Aerospace Supplier 28,5162.29,814,27,8,4202104.06,787,Above Safety Stock
+CMP0075,Sensors Component 0075,Sensors,SUP040,Aerospace Supplier 40,859.56,1141,97,11,980757.96,1044,Above Safety Stock
+CMP0076,Thermal Control Component 0076,Thermal Control,SUP011,Aerospace Supplier 11,3163.1,1867,68,37,5905507.7,1799,Above Safety Stock
+CMP0077,Power Systems Component 0077,Power Systems,SUP012,Aerospace Supplier 12,1706.95,1509,78,7,2575787.55,1431,Above Safety Stock
+CMP0078,Electronics Component 0078,Electronics,SUP030,Aerospace Supplier 30,298.37,622,69,28,185586.14,553,Above Safety Stock
+CMP0079,Electronics Component 0079,Electronics,SUP030,Aerospace Supplier 30,725.68,1011,75,34,733662.48,936,Above Safety Stock
+CMP0080,Thermal Control Component 0080,Thermal Control,SUP037,Aerospace Supplier 37,2044.79,1282,84,29,2621420.78,1198,Above Safety Stock
+CMP0081,Electronics Component 0081,Electronics,SUP038,Aerospace Supplier 38,223.61,1393,83,34,311488.73,1310,Above Safety Stock
+CMP0082,Electronics Component 0082,Electronics,SUP019,Aerospace Supplier 19,656.98,1471,73,36,966417.58,1398,Above Safety Stock
+CMP0083,Propulsion Component 0083,Propulsion,SUP026,Aerospace Supplier 26,3669.56,1368,79,38,5019958.08,1289,Above Safety Stock
+CMP0084,Thermal Control Component 0084,Thermal Control,SUP016,Aerospace Supplier 16,1552.14,967,41,17,1500919.38,926,Above Safety Stock
+CMP0085,Structural Component 0085,Structural,SUP006,Aerospace Supplier 06,602.46,901,26,27,542816.46,875,Above Safety Stock
+CMP0086,Sensors Component 0086,Sensors,SUP032,Aerospace Supplier 32,3702.49,671,51,27,2484370.79,620,Above Safety Stock
+CMP0087,Power Systems Component 0087,Power Systems,SUP012,Aerospace Supplier 12,4736.73,662,69,10,3135715.26,593,Above Safety Stock
+CMP0088,Structural Component 0088,Structural,SUP024,Aerospace Supplier 24,2540.38,1617,99,43,4107794.46,1518,Above Safety Stock
+CMP0089,Structural Component 0089,Structural,SUP006,Aerospace Supplier 06,2991.81,1700,91,10,5086077.0,1609,Above Safety Stock
+CMP0090,Electronics Component 0090,Electronics,SUP019,Aerospace Supplier 19,1044.84,913,67,5,953938.92,846,Above Safety Stock
+CMP0091,Electronics Component 0091,Electronics,SUP019,Aerospace Supplier 19,1246.83,1715,54,44,2138313.45,1661,Above Safety Stock
+CMP0092,Sensors Component 0092,Sensors,SUP014,Aerospace Supplier 14,1649.25,1608,55,42,2651994.0,1553,Above Safety Stock
+CMP0093,Thermal Control Component 0093,Thermal Control,SUP027,Aerospace Supplier 27,575.77,1544,51,6,888988.88,1493,Above Safety Stock
+CMP0094,Power Systems Component 0094,Power Systems,SUP012,Aerospace Supplier 12,5062.16,1490,42,9,7542618.4,1448,Above Safety Stock
+CMP0095,Communications Component 0095,Communications,SUP033,Aerospace Supplier 33,4760.09,1688,31,30,8035031.92,1657,Above Safety Stock
+CMP0096,Electronics Component 0096,Electronics,SUP035,Aerospace Supplier 35,92.05,961,92,14,88460.05,869,Above Safety Stock
+CMP0097,Sensors Component 0097,Sensors,SUP009,Aerospace Supplier 09,3928.49,992,85,5,3897062.08,907,Above Safety Stock
+CMP0098,Power Systems Component 0098,Power Systems,SUP002,Aerospace Supplier 02,457.94,2643,73,5,1210335.42,2570,Above Safety Stock
+CMP0099,Propulsion Component 0099,Propulsion,SUP015,Aerospace Supplier 15,6256.29,1901,99,44,11893207.29,1802,Above Safety Stock
+CMP0100,Propulsion Component 0100,Propulsion,SUP020,Aerospace Supplier 20,1043.7,1267,88,37,1322367.9,1179,Above Safety Stock
+CMP0101,Power Systems Component 0101,Power Systems,SUP012,Aerospace Supplier 12,4689.62,1540,88,38,7222014.8,1452,Above Safety Stock
+CMP0102,Thermal Control Component 0102,Thermal Control,SUP013,Aerospace Supplier 13,926.86,1421,23,10,1317068.06,1398,Above Safety Stock
+CMP0103,Communications Component 0103,Communications,SUP028,Aerospace Supplier 28,5292.76,1778,64,8,9410527.28,1714,Above Safety Stock
+CMP0104,Thermal Control Component 0104,Thermal Control,SUP013,Aerospace Supplier 13,2978.29,1690,32,12,5033310.1,1658,Above Safety Stock
+CMP0105,Electronics Component 0105,Electronics,SUP005,Aerospace Supplier 05,1079.36,1918,62,35,2070212.48,1856,Above Safety Stock
+CMP0106,Communications Component 0106,Communications,SUP028,Aerospace Supplier 28,4429.27,725,24,6,3211220.75,701,Above Safety Stock
+CMP0107,Propulsion Component 0107,Propulsion,SUP036,Aerospace Supplier 36,7240.99,1277,53,20,9246744.23,1224,Above Safety Stock
+CMP0108,Electronics Component 0108,Electronics,SUP035,Aerospace Supplier 35,1471.04,830,34,23,1220963.2,796,Above Safety Stock
+CMP0109,Sensors Component 0109,Sensors,SUP034,Aerospace Supplier 34,3254.76,816,90,23,2655884.16,726,Above Safety Stock
+CMP0110,Propulsion Component 0110,Propulsion,SUP015,Aerospace Supplier 15,3362.76,1135,96,28,3816732.6,1039,Above Safety Stock
+CMP0111,Sensors Component 0111,Sensors,SUP032,Aerospace Supplier 32,3316.32,1334,55,11,4423970.88,1279,Above Safety Stock
+CMP0112,Propulsion Component 0112,Propulsion,SUP020,Aerospace Supplier 20,4338.33,1468,61,24,6368668.44,1407,Above Safety Stock
+CMP0113,Electronics Component 0113,Electronics,SUP003,Aerospace Supplier 03,244.44,1923,96,8,470058.12,1827,Above Safety Stock
+CMP0114,Structural Component 0114,Structural,SUP024,Aerospace Supplier 24,2177.36,1332,54,31,2900243.52,1278,Above Safety Stock
+CMP0115,Power Systems Component 0115,Power Systems,SUP002,Aerospace Supplier 02,2600.5,2464,88,43,6407632.0,2376,Above Safety Stock
+CMP0116,Communications Component 0116,Communications,SUP028,Aerospace Supplier 28,541.6,1387,45,22,751199.2,1342,Above Safety Stock
+CMP0117,Sensors Component 0117,Sensors,SUP021,Aerospace Supplier 21,1282.85,1328,27,19,1703624.8,1301,Above Safety Stock
+CMP0118,Sensors Component 0118,Sensors,SUP029,Aerospace Supplier 29,3310.15,1328,76,31,4395879.2,1252,Above Safety Stock
+CMP0119,Communications Component 0119,Communications,SUP022,Aerospace Supplier 22,5575.8,1437,47,13,8012424.6,1390,Above Safety Stock
+CMP0120,Sensors Component 0120,Sensors,SUP021,Aerospace Supplier 21,1931.16,1328,70,26,2564580.48,1258,Above Safety Stock
+CMP0121,Thermal Control Component 0121,Thermal Control,SUP023,Aerospace Supplier 23,3562.65,1439,30,39,5126653.35,1409,Above Safety Stock
+CMP0122,Sensors Component 0122,Sensors,SUP032,Aerospace Supplier 32,4039.38,1312,62,17,5299666.56,1250,Above Safety Stock
+CMP0123,Sensors Component 0123,Sensors,SUP034,Aerospace Supplier 34,2571.88,2092,23,7,5380372.96,2069,Above Safety Stock
+CMP0124,Electronics Component 0124,Electronics,SUP038,Aerospace Supplier 38,130.57,1070,88,16,139709.9,982,Above Safety Stock
+CMP0125,Sensors Component 0125,Sensors,SUP018,Aerospace Supplier 18,1030.37,1077,79,7,1109708.49,998,Above Safety Stock
+CMP0126,Thermal Control Component 0126,Thermal Control,SUP037,Aerospace Supplier 37,3334.62,1629,21,40,5432095.98,1608,Above Safety Stock
+CMP0127,Structural Component 0127,Structural,SUP017,Aerospace Supplier 17,622.28,928,39,32,577475.84,889,Above Safety Stock
+CMP0128,Electronics Component 0128,Electronics,SUP030,Aerospace Supplier 30,1439.72,1043,49,45,1501627.96,994,Above Safety Stock
+CMP0129,Sensors Component 0129,Sensors,SUP032,Aerospace Supplier 32,1692.62,1512,82,10,2559241.44,1430,Above Safety Stock
+CMP0130,Communications Component 0130,Communications,SUP031,Aerospace Supplier 31,4593.95,700,51,5,3215765.0,649,Above Safety Stock
+CMP0131,Communications Component 0131,Communications,SUP022,Aerospace Supplier 22,3818.09,1744,57,34,6658748.96,1687,Above Safety Stock
+CMP0132,Propulsion Component 0132,Propulsion,SUP020,Aerospace Supplier 20,9896.76,1799,87,27,17804271.24,1712,Above Safety Stock
+CMP0133,Propulsion Component 0133,Propulsion,SUP036,Aerospace Supplier 36,9908.06,1151,72,25,11404177.06,1079,Above Safety Stock
+CMP0134,Sensors Component 0134,Sensors,SUP034,Aerospace Supplier 34,584.24,2414,51,35,1410355.36,2363,Above Safety Stock
+CMP0135,Electronics Component 0135,Electronics,SUP019,Aerospace Supplier 19,730.52,1221,94,17,891964.92,1127,Above Safety Stock
+CMP0136,Propulsion Component 0136,Propulsion,SUP015,Aerospace Supplier 15,924.17,1138,93,14,1051705.46,1045,Above Safety Stock
+CMP0137,Propulsion Component 0137,Propulsion,SUP020,Aerospace Supplier 20,5156.88,856,100,34,4414289.28,756,Above Safety Stock
+CMP0138,Sensors Component 0138,Sensors,SUP008,Aerospace Supplier 08,1369.6,1967,26,39,2694003.2,1941,Above Safety Stock
+CMP0139,Thermal Control Component 0139,Thermal Control,SUP016,Aerospace Supplier 16,2649.22,1169,52,37,3096938.18,1117,Above Safety Stock
+CMP0140,Thermal Control Component 0140,Thermal Control,SUP016,Aerospace Supplier 16,1561.44,661,24,27,1032111.84,637,Above Safety Stock
+CMP0141,Power Systems Component 0141,Power Systems,SUP002,Aerospace Supplier 02,5105.75,2238,46,26,11426668.5,2192,Above Safety Stock
+CMP0142,Thermal Control Component 0142,Thermal Control,SUP023,Aerospace Supplier 23,2093.45,1449,89,42,3033409.05,1360,Above Safety Stock
+CMP0143,Structural Component 0143,Structural,SUP024,Aerospace Supplier 24,2990.93,2474,51,28,7399560.82,2423,Above Safety Stock
+CMP0144,Sensors Component 0144,Sensors,SUP034,Aerospace Supplier 34,703.9,1435,63,21,1010096.5,1372,Above Safety Stock
+CMP0145,Power Systems Component 0145,Power Systems,SUP012,Aerospace Supplier 12,3877.29,930,51,5,3605879.7,879,Above Safety Stock
+CMP0146,Structural Component 0146,Structural,SUP017,Aerospace Supplier 17,184.4,719,35,43,132583.6,684,Above Safety Stock
+CMP0147,Communications Component 0147,Communications,SUP025,Aerospace Supplier 25,2360.48,2292,31,28,5410220.16,2261,Above Safety Stock
+CMP0148,Electronics Component 0148,Electronics,SUP019,Aerospace Supplier 19,1069.4,1515,42,30,1620141.0,1473,Above Safety Stock
+CMP0149,Communications Component 0149,Communications,SUP033,Aerospace Supplier 33,4456.4,1249,91,45,5566043.6,1158,Above Safety Stock
+CMP0150,Thermal Control Component 0150,Thermal Control,SUP016,Aerospace Supplier 16,2924.68,1204,93,44,3521314.72,1111,Above Safety Stock
+CMP0151,Communications Component 0151,Communications,SUP031,Aerospace Supplier 31,6107.57,2369,26,25,14468833.33,2343,Above Safety Stock
+CMP0152,Thermal Control Component 0152,Thermal Control,SUP027,Aerospace Supplier 27,2279.45,1631,55,31,3717782.95,1576,Above Safety Stock
+CMP0153,Structural Component 0153,Structural,SUP039,Aerospace Supplier 39,3447.57,783,32,38,2699447.31,751,Above Safety Stock
+CMP0154,Thermal Control Component 0154,Thermal Control,SUP037,Aerospace Supplier 37,1484.0,1390,80,10,2062760.0,1310,Above Safety Stock
+CMP0155,Structural Component 0155,Structural,SUP006,Aerospace Supplier 06,2742.97,895,98,40,2454958.15,797,Above Safety Stock
+CMP0156,Power Systems Component 0156,Power Systems,SUP012,Aerospace Supplier 12,5873.02,499,57,21,2930636.98,442,Above Safety Stock
+CMP0157,Electronics Component 0157,Electronics,SUP035,Aerospace Supplier 35,172.99,1032,37,27,178525.68,995,Above Safety Stock
+CMP0158,Thermal Control Component 0158,Thermal Control,SUP010,Aerospace Supplier 10,3316.94,1791,94,6,5940639.54,1697,Above Safety Stock
+CMP0159,Electronics Component 0159,Electronics,SUP019,Aerospace Supplier 19,120.61,879,49,43,106016.19,830,Above Safety Stock
+CMP0160,Communications Component 0160,Communications,SUP031,Aerospace Supplier 31,5483.93,2254,77,40,12360778.22,2177,Above Safety Stock
+CMP0161,Thermal Control Component 0161,Thermal Control,SUP023,Aerospace Supplier 23,3233.36,1555,50,42,5027874.8,1505,Above Safety Stock
+CMP0162,Propulsion Component 0162,Propulsion,SUP015,Aerospace Supplier 15,8652.19,1567,70,5,13557981.73,1497,Above Safety Stock
+CMP0163,Power Systems Component 0163,Power Systems,SUP012,Aerospace Supplier 12,4144.4,852,62,36,3531028.8,790,Above Safety Stock
+CMP0164,Structural Component 0164,Structural,SUP024,Aerospace Supplier 24,2383.48,2146,92,14,5114948.08,2054,Above Safety Stock
+CMP0165,Structural Component 0165,Structural,SUP039,Aerospace Supplier 39,1283.31,1089,83,42,1397524.59,1006,Above Safety Stock
+CMP0166,Structural Component 0166,Structural,SUP024,Aerospace Supplier 24,1449.6,1398,67,16,2026540.8,1331,Above Safety Stock
+CMP0167,Sensors Component 0167,Sensors,SUP034,Aerospace Supplier 34,1100.45,1647,75,32,1812441.15,1572,Above Safety Stock
+CMP0168,Structural Component 0168,Structural,SUP017,Aerospace Supplier 17,2845.27,1486,78,45,4228071.22,1408,Above Safety Stock
+CMP0169,Communications Component 0169,Communications,SUP022,Aerospace Supplier 22,3033.21,1386,63,9,4204029.06,1323,Above Safety Stock
+CMP0170,Communications Component 0170,Communications,SUP022,Aerospace Supplier 22,4995.9,1058,100,29,5285662.2,958,Above Safety Stock
+CMP0171,Electronics Component 0171,Electronics,SUP019,Aerospace Supplier 19,1377.18,1579,37,19,2174567.22,1542,Above Safety Stock
+CMP0172,Electronics Component 0172,Electronics,SUP003,Aerospace Supplier 03,147.39,2227,49,13,328237.53,2178,Above Safety Stock
+CMP0173,Sensors Component 0173,Sensors,SUP008,Aerospace Supplier 08,2375.74,1414,98,41,3359296.36,1316,Above Safety Stock
+CMP0174,Structural Component 0174,Structural,SUP017,Aerospace Supplier 17,3361.31,922,54,35,3099127.82,868,Above Safety Stock
+CMP0175,Sensors Component 0175,Sensors,SUP021,Aerospace Supplier 21,1565.8,1658,48,20,2596096.4,1610,Above Safety Stock
+CMP0176,Propulsion Component 0176,Propulsion,SUP026,Aerospace Supplier 26,9136.12,1730,46,26,15805487.6,1684,Above Safety Stock
+CMP0177,Power Systems Component 0177,Power Systems,SUP012,Aerospace Supplier 12,3646.78,1189,70,6,4336021.42,1119,Above Safety Stock
+CMP0178,Structural Component 0178,Structural,SUP039,Aerospace Supplier 39,1196.47,2230,39,11,2668128.1,2191,Above Safety Stock
+CMP0179,Structural Component 0179,Structural,SUP039,Aerospace Supplier 39,1063.04,2150,24,15,2285536.0,2126,Above Safety Stock
+CMP0180,Thermal Control Component 0180,Thermal Control,SUP016,Aerospace Supplier 16,1837.79,1743,83,24,3203267.97,1660,Above Safety Stock
+CMP0181,Power Systems Component 0181,Power Systems,SUP012,Aerospace Supplier 12,4128.94,1012,40,32,4178487.28,972,Above Safety Stock
+CMP0182,Power Systems Component 0182,Power Systems,SUP002,Aerospace Supplier 02,1314.78,2132,83,28,2803110.96,2049,Above Safety Stock
+CMP0183,Structural Component 0183,Structural,SUP006,Aerospace Supplier 06,2319.94,1408,45,36,3266475.52,1363,Above Safety Stock
+CMP0184,Sensors Component 0184,Sensors,SUP040,Aerospace Supplier 40,372.05,912,55,44,339309.6,857,Above Safety Stock
+CMP0185,Thermal Control Component 0185,Thermal Control,SUP001,Aerospace Supplier 01,308.15,1104,24,28,340197.6,1080,Above Safety Stock
+CMP0186,Electronics Component 0186,Electronics,SUP038,Aerospace Supplier 38,798.33,1292,56,17,1031442.36,1236,Above Safety Stock
+CMP0187,Electronics Component 0187,Electronics,SUP003,Aerospace Supplier 03,211.82,1627,71,36,344631.14,1556,Above Safety Stock
+CMP0188,Electronics Component 0188,Electronics,SUP038,Aerospace Supplier 38,350.18,742,76,17,259833.56,666,Above Safety Stock
+CMP0189,Sensors Component 0189,Sensors,SUP018,Aerospace Supplier 18,2199.73,2200,32,16,4839406.0,2168,Above Safety Stock
+CMP0190,Electronics Component 0190,Electronics,SUP019,Aerospace Supplier 19,51.79,397,89,25,20560.63,308,Above Safety Stock
+CMP0191,Propulsion Component 0191,Propulsion,SUP020,Aerospace Supplier 20,3664.39,1278,53,27,4683090.42,1225,Above Safety Stock
+CMP0192,Thermal Control Component 0192,Thermal Control,SUP013,Aerospace Supplier 13,1152.34,1453,88,18,1674350.02,1365,Above Safety Stock
+CMP0193,Communications Component 0193,Communications,SUP022,Aerospace Supplier 22,3515.08,1433,89,18,5037109.64,1344,Above Safety Stock
+CMP0194,Propulsion Component 0194,Propulsion,SUP026,Aerospace Supplier 26,9338.65,1689,46,6,15772979.85,1643,Above Safety Stock
+CMP0195,Sensors Component 0195,Sensors,SUP021,Aerospace Supplier 21,3615.48,736,35,29,2660993.28,701,Above Safety Stock
+CMP0196,Electronics Component 0196,Electronics,SUP005,Aerospace Supplier 05,1382.29,1067,31,5,1474903.43,1036,Above Safety Stock
+CMP0197,Power Systems Component 0197,Power Systems,SUP002,Aerospace Supplier 02,429.88,1879,32,33,807744.52,1847,Above Safety Stock
+CMP0198,Communications Component 0198,Communications,SUP025,Aerospace Supplier 25,4113.72,1300,39,29,5347836.0,1261,Above Safety Stock
+CMP0199,Communications Component 0199,Communications,SUP033,Aerospace Supplier 33,331.77,1227,42,26,407081.79,1185,Above Safety Stock
+CMP0200,Communications Component 0200,Communications,SUP025,Aerospace Supplier 25,5478.68,1304,33,40,7144198.72,1271,Above Safety Stock
+CMP0201,Structural Component 0201,Structural,SUP017,Aerospace Supplier 17,3223.9,1416,65,44,4565042.4,1351,Above Safety Stock
+CMP0202,Communications Component 0202,Communications,SUP033,Aerospace Supplier 33,2722.29,1602,99,38,4361108.58,1503,Above Safety Stock
+CMP0203,Propulsion Component 0203,Propulsion,SUP020,Aerospace Supplier 20,8092.53,1470,29,17,11896019.1,1441,Above Safety Stock
+CMP0204,Propulsion Component 0204,Propulsion,SUP026,Aerospace Supplier 26,3517.54,1791,53,8,6299914.14,1738,Above Safety Stock
+CMP0205,Power Systems Component 0205,Power Systems,SUP002,Aerospace Supplier 02,2242.25,2497,51,33,5598898.25,2446,Above Safety Stock
+CMP0206,Propulsion Component 0206,Propulsion,SUP026,Aerospace Supplier 26,7226.87,1800,78,35,13008366.0,1722,Above Safety Stock
+CMP0207,Thermal Control Component 0207,Thermal Control,SUP010,Aerospace Supplier 10,3576.57,1799,31,14,6434249.43,1768,Above Safety Stock
+CMP0208,Electronics Component 0208,Electronics,SUP035,Aerospace Supplier 35,1054.99,935,31,12,986415.65,904,Above Safety Stock
+CMP0209,Thermal Control Component 0209,Thermal Control,SUP013,Aerospace Supplier 13,3968.33,1467,41,42,5821540.11,1426,Above Safety Stock
+CMP0210,Electronics Component 0210,Electronics,SUP030,Aerospace Supplier 30,897.73,1642,100,10,1474072.66,1542,Above Safety Stock
+CMP0211,Communications Component 0211,Communications,SUP033,Aerospace Supplier 33,6198.55,1494,53,11,9260633.7,1441,Above Safety Stock
+CMP0212,Communications Component 0212,Communications,SUP022,Aerospace Supplier 22,638.48,1135,42,29,724674.8,1093,Above Safety Stock
+CMP0213,Electronics Component 0213,Electronics,SUP005,Aerospace Supplier 05,1012.25,2416,99,12,2445596.0,2317,Above Safety Stock
+CMP0214,Electronics Component 0214,Electronics,SUP003,Aerospace Supplier 03,385.36,1680,68,40,647404.8,1612,Above Safety Stock
+CMP0215,Thermal Control Component 0215,Thermal Control,SUP010,Aerospace Supplier 10,2501.47,1488,35,26,3722187.36,1453,Above Safety Stock
+CMP0216,Structural Component 0216,Structural,SUP039,Aerospace Supplier 39,2567.62,1498,74,28,3846294.76,1424,Above Safety Stock
+CMP0217,Propulsion Component 0217,Propulsion,SUP036,Aerospace Supplier 36,9842.46,1253,32,42,12332602.38,1221,Above Safety Stock
+CMP0218,Sensors Component 0218,Sensors,SUP040,Aerospace Supplier 40,4020.94,1252,21,26,5034216.88,1231,Above Safety Stock
+CMP0219,Structural Component 0219,Structural,SUP017,Aerospace Supplier 17,419.84,828,82,31,347627.52,746,Above Safety Stock
+CMP0220,Structural Component 0220,Structural,SUP006,Aerospace Supplier 06,607.87,1467,75,44,891745.29,1392,Above Safety Stock
+CMP0221,Propulsion Component 0221,Propulsion,SUP015,Aerospace Supplier 15,2395.65,1714,94,45,4106144.1,1620,Above Safety Stock
+CMP0222,Power Systems Component 0222,Power Systems,SUP002,Aerospace Supplier 02,2951.36,1746,37,35,5153074.56,1709,Above Safety Stock
+CMP0223,Communications Component 0223,Communications,SUP033,Aerospace Supplier 33,2839.65,1159,53,8,3291154.35,1106,Above Safety Stock
+CMP0224,Thermal Control Component 0224,Thermal Control,SUP016,Aerospace Supplier 16,3164.4,646,79,28,2044202.4,567,Above Safety Stock
+CMP0225,Sensors Component 0225,Sensors,SUP008,Aerospace Supplier 08,4539.07,1758,76,40,7979685.06,1682,Above Safety Stock
+CMP0226,Thermal Control Component 0226,Thermal Control,SUP013,Aerospace Supplier 13,936.93,2011,28,35,1884166.23,1983,Above Safety Stock
+CMP0227,Sensors Component 0227,Sensors,SUP008,Aerospace Supplier 08,4900.28,1268,100,38,6213555.04,1168,Above Safety Stock
+CMP0228,Thermal Control Component 0228,Thermal Control,SUP037,Aerospace Supplier 37,1669.33,1841,91,18,3073236.53,1750,Above Safety Stock
+CMP0229,Structural Component 0229,Structural,SUP024,Aerospace Supplier 24,2075.36,1183,51,5,2455150.88,1132,Above Safety Stock
+CMP0230,Communications Component 0230,Communications,SUP028,Aerospace Supplier 28,3433.19,1066,95,13,3659780.54,971,Above Safety Stock
+CMP0231,Structural Component 0231,Structural,SUP017,Aerospace Supplier 17,1439.96,1176,82,18,1693392.96,1094,Above Safety Stock
+CMP0232,Propulsion Component 0232,Propulsion,SUP020,Aerospace Supplier 20,3725.04,1102,75,44,4104994.08,1027,Above Safety Stock
+CMP0233,Thermal Control Component 0233,Thermal Control,SUP010,Aerospace Supplier 10,530.86,1410,58,28,748512.6,1352,Above Safety Stock
+CMP0234,Power Systems Component 0234,Power Systems,SUP002,Aerospace Supplier 02,1412.01,1330,42,12,1877973.3,1288,Above Safety Stock
+CMP0235,Sensors Component 0235,Sensors,SUP021,Aerospace Supplier 21,2448.4,1292,56,10,3163332.8,1236,Above Safety Stock
+CMP0236,Electronics Component 0236,Electronics,SUP003,Aerospace Supplier 03,1441.03,1199,59,31,1727794.97,1140,Above Safety Stock
+CMP0237,Communications Component 0237,Communications,SUP025,Aerospace Supplier 25,1041.64,2640,38,10,2749929.6,2602,Above Safety Stock
+CMP0238,Structural Component 0238,Structural,SUP017,Aerospace Supplier 17,3080.82,1353,81,41,4168349.46,1272,Above Safety Stock
+CMP0239,Electronics Component 0239,Electronics,SUP038,Aerospace Supplier 38,1474.43,997,48,29,1470006.71,949,Above Safety Stock
+CMP0240,Electronics Component 0240,Electronics,SUP019,Aerospace Supplier 19,491.48,896,31,27,440366.08,865,Above Safety Stock
+CMP0241,Structural Component 0241,Structural,SUP006,Aerospace Supplier 06,2975.71,814,80,21,2422227.94,734,Above Safety Stock
+CMP0242,Sensors Component 0242,Sensors,SUP021,Aerospace Supplier 21,1415.63,1458,33,11,2063988.54,1425,Above Safety Stock
+CMP0243,Electronics Component 0243,Electronics,SUP038,Aerospace Supplier 38,897.13,756,62,35,678230.28,694,Above Safety Stock
+CMP0244,Structural Component 0244,Structural,SUP039,Aerospace Supplier 39,1476.51,1416,50,36,2090738.16,1366,Above Safety Stock
+CMP0245,Electronics Component 0245,Electronics,SUP035,Aerospace Supplier 35,349.88,1522,68,21,532517.36,1454,Above Safety Stock
+CMP0246,Electronics Component 0246,Electronics,SUP005,Aerospace Supplier 05,195.57,1801,92,15,352221.57,1709,Above Safety Stock
+CMP0247,Propulsion Component 0247,Propulsion,SUP036,Aerospace Supplier 36,2205.17,1950,72,7,4300081.5,1878,Above Safety Stock
+CMP0248,Sensors Component 0248,Sensors,SUP009,Aerospace Supplier 09,3609.18,1094,39,39,3948442.92,1055,Above Safety Stock
+CMP0249,Communications Component 0249,Communications,SUP033,Aerospace Supplier 33,2573.46,1600,63,34,4117536.0,1537,Above Safety Stock
+CMP0250,Propulsion Component 0250,Propulsion,SUP020,Aerospace Supplier 20,2031.91,1674,39,43,3401417.34,1635,Above Safety Stock
+CMP0251,Electronics Component 0251,Electronics,SUP038,Aerospace Supplier 38,1177.17,874,46,16,1028846.58,828,Above Safety Stock
+CMP0252,Sensors Component 0252,Sensors,SUP021,Aerospace Supplier 21,2775.53,1534,62,22,4257663.02,1472,Above Safety Stock
+CMP0253,Structural Component 0253,Structural,SUP006,Aerospace Supplier 06,527.26,1106,34,8,583149.56,1072,Above Safety Stock
+CMP0254,Sensors Component 0254,Sensors,SUP034,Aerospace Supplier 34,985.17,3123,97,27,3076685.91,3026,Above Safety Stock
+CMP0255,Power Systems Component 0255,Power Systems,SUP002,Aerospace Supplier 02,1705.81,1210,90,20,2064030.1,1120,Above Safety Stock
+CMP0256,Electronics Component 0256,Electronics,SUP003,Aerospace Supplier 03,516.22,2221,94,29,1146524.62,2127,Above Safety Stock
+CMP0257,Electronics Component 0257,Electronics,SUP019,Aerospace Supplier 19,630.65,877,62,32,553080.05,815,Above Safety Stock
+CMP0258,Propulsion Component 0258,Propulsion,SUP036,Aerospace Supplier 36,8273.92,1685,100,35,13941555.2,1585,Above Safety Stock
+CMP0259,Structural Component 0259,Structural,SUP017,Aerospace Supplier 17,619.78,1272,87,32,788360.16,1185,Above Safety Stock
+CMP0260,Structural Component 0260,Structural,SUP024,Aerospace Supplier 24,1264.17,2043,24,37,2582699.31,2019,Above Safety Stock
+CMP0261,Communications Component 0261,Communications,SUP028,Aerospace Supplier 28,5330.62,1721,71,38,9173997.02,1650,Above Safety Stock
+CMP0262,Propulsion Component 0262,Propulsion,SUP015,Aerospace Supplier 15,4660.9,1057,94,31,4926571.3,963,Above Safety Stock
+CMP0263,Thermal Control Component 0263,Thermal Control,SUP001,Aerospace Supplier 01,3974.47,1389,42,41,5520538.83,1347,Above Safety Stock
+CMP0264,Electronics Component 0264,Electronics,SUP019,Aerospace Supplier 19,237.09,1837,57,11,435534.33,1780,Above Safety Stock
+CMP0265,Thermal Control Component 0265,Thermal Control,SUP016,Aerospace Supplier 16,1662.77,1233,32,31,2050195.41,1201,Above Safety Stock
+CMP0266,Structural Component 0266,Structural,SUP017,Aerospace Supplier 17,1667.74,1796,78,32,2995261.04,1718,Above Safety Stock
+CMP0267,Communications Component 0267,Communications,SUP028,Aerospace Supplier 28,3467.65,1189,69,26,4123035.85,1120,Above Safety Stock
+CMP0268,Structural Component 0268,Structural,SUP024,Aerospace Supplier 24,2405.52,1682,34,39,4046084.64,1648,Above Safety Stock
+CMP0269,Communications Component 0269,Communications,SUP007,Aerospace Supplier 07,3312.54,1528,43,35,5061561.12,1485,Above Safety Stock
+CMP0270,Thermal Control Component 0270,Thermal Control,SUP010,Aerospace Supplier 10,2195.94,1837,100,32,4033941.78,1737,Above Safety Stock
+CMP0271,Propulsion Component 0271,Propulsion,SUP020,Aerospace Supplier 20,9501.59,1016,77,35,9653615.44,939,Above Safety Stock
+CMP0272,Thermal Control Component 0272,Thermal Control,SUP011,Aerospace Supplier 11,2313.0,2249,52,34,5201937.0,2197,Above Safety Stock
+CMP0273,Communications Component 0273,Communications,SUP028,Aerospace Supplier 28,6377.48,1262,46,12,8048379.76,1216,Above Safety Stock
+CMP0274,Communications Component 0274,Communications,SUP025,Aerospace Supplier 25,3034.65,2432,47,23,7380268.8,2385,Above Safety Stock
+CMP0275,Propulsion Component 0275,Propulsion,SUP015,Aerospace Supplier 15,1371.37,1269,46,10,1740268.53,1223,Above Safety Stock
+CMP0276,Communications Component 0276,Communications,SUP031,Aerospace Supplier 31,432.44,1732,73,18,748986.08,1659,Above Safety Stock
+CMP0277,Thermal Control Component 0277,Thermal Control,SUP004,Aerospace Supplier 04,3145.88,1087,96,35,3419571.56,991,Above Safety Stock
+CMP0278,Propulsion Component 0278,Propulsion,SUP036,Aerospace Supplier 36,1728.95,1263,74,16,2183663.85,1189,Above Safety Stock
+CMP0279,Thermal Control Component 0279,Thermal Control,SUP004,Aerospace Supplier 04,1241.55,1143,42,42,1419091.65,1101,Above Safety Stock
+CMP0280,Power Systems Component 0280,Power Systems,SUP012,Aerospace Supplier 12,3366.95,724,36,33,2437671.8,688,Above Safety Stock
+CMP0281,Thermal Control Component 0281,Thermal Control,SUP037,Aerospace Supplier 37,2498.73,1821,80,17,4550187.33,1741,Above Safety Stock
+CMP0282,Communications Component 0282,Communications,SUP007,Aerospace Supplier 07,6840.06,1111,45,21,7599306.66,1066,Above Safety Stock
+CMP0283,Sensors Component 0283,Sensors,SUP032,Aerospace Supplier 32,311.49,1411,63,33,439512.39,1348,Above Safety Stock
+CMP0284,Power Systems Component 0284,Power Systems,SUP012,Aerospace Supplier 12,2802.67,1057,69,43,2962422.19,988,Above Safety Stock
+CMP0285,Thermal Control Component 0285,Thermal Control,SUP027,Aerospace Supplier 27,1390.53,1483,89,33,2062155.99,1394,Above Safety Stock
+CMP0286,Sensors Component 0286,Sensors,SUP018,Aerospace Supplier 18,1803.73,600,71,15,1082238.0,529,Above Safety Stock
+CMP0287,Structural Component 0287,Structural,SUP039,Aerospace Supplier 39,3241.17,3006,45,43,9742957.02,2961,Above Safety Stock
+CMP0288,Power Systems Component 0288,Power Systems,SUP002,Aerospace Supplier 02,4646.84,1205,80,36,5599442.2,1125,Above Safety Stock
+CMP0289,Electronics Component 0289,Electronics,SUP019,Aerospace Supplier 19,711.86,577,76,29,410743.22,501,Above Safety Stock
+CMP0290,Communications Component 0290,Communications,SUP028,Aerospace Supplier 28,2027.32,711,43,29,1441424.52,668,Above Safety Stock
+CMP0291,Structural Component 0291,Structural,SUP017,Aerospace Supplier 17,844.11,1768,73,16,1492386.48,1695,Above Safety Stock
+CMP0292,Power Systems Component 0292,Power Systems,SUP012,Aerospace Supplier 12,293.17,695,33,18,203753.15,662,Above Safety Stock
+CMP0293,Sensors Component 0293,Sensors,SUP034,Aerospace Supplier 34,4228.03,2141,38,33,9052212.23,2103,Above Safety Stock
+CMP0294,Thermal Control Component 0294,Thermal Control,SUP016,Aerospace Supplier 16,1651.74,653,29,45,1078586.22,624,Above Safety Stock
+CMP0295,Structural Component 0295,Structural,SUP006,Aerospace Supplier 06,623.48,1236,22,21,770621.28,1214,Above Safety Stock
+CMP0296,Communications Component 0296,Communications,SUP033,Aerospace Supplier 33,6871.5,1343,95,7,9228424.5,1248,Above Safety Stock
+CMP0297,Power Systems Component 0297,Power Systems,SUP002,Aerospace Supplier 02,4796.74,1353,40,24,6489989.22,1313,Above Safety Stock
+CMP0298,Power Systems Component 0298,Power Systems,SUP002,Aerospace Supplier 02,893.11,1916,73,39,1711198.76,1843,Above Safety Stock
+CMP0299,Communications Component 0299,Communications,SUP022,Aerospace Supplier 22,3137.42,1029,61,14,3228405.18,968,Above Safety Stock
+CMP0300,Sensors Component 0300,Sensors,SUP014,Aerospace Supplier 14,3332.9,1915,75,45,6382503.5,1840,Above Safety Stock
+CMP0301,Electronics Component 0301,Electronics,SUP038,Aerospace Supplier 38,798.87,1795,28,33,1433971.65,1767,Above Safety Stock
+CMP0302,Thermal Control Component 0302,Thermal Control,SUP004,Aerospace Supplier 04,1375.56,1207,99,23,1660300.92,1108,Above Safety Stock
+CMP0303,Propulsion Component 0303,Propulsion,SUP020,Aerospace Supplier 20,988.48,1352,49,36,1336424.96,1303,Above Safety Stock
+CMP0304,Structural Component 0304,Structural,SUP017,Aerospace Supplier 17,2929.21,2075,83,38,6078110.75,1992,Above Safety Stock
+CMP0305,Power Systems Component 0305,Power Systems,SUP002,Aerospace Supplier 02,2098.89,1770,39,34,3715035.3,1731,Above Safety Stock
+CMP0306,Thermal Control Component 0306,Thermal Control,SUP004,Aerospace Supplier 04,3588.17,1116,59,10,4004397.72,1057,Above Safety Stock
+CMP0307,Sensors Component 0307,Sensors,SUP034,Aerospace Supplier 34,661.26,2012,46,17,1330455.12,1966,Above Safety Stock
+CMP0308,Sensors Component 0308,Sensors,SUP014,Aerospace Supplier 14,453.47,1592,25,5,721924.24,1567,Above Safety Stock
+CMP0309,Electronics Component 0309,Electronics,SUP019,Aerospace Supplier 19,1173.2,853,28,18,1000739.6,825,Above Safety Stock
+CMP0310,Communications Component 0310,Communications,SUP031,Aerospace Supplier 31,1425.61,1701,86,11,2424962.61,1615,Above Safety Stock
+CMP0311,Electronics Component 0311,Electronics,SUP038,Aerospace Supplier 38,1243.53,973,64,23,1209954.69,909,Above Safety Stock
+CMP0312,Thermal Control Component 0312,Thermal Control,SUP001,Aerospace Supplier 01,1668.75,1498,27,35,2499787.5,1471,Above Safety Stock
+CMP0313,Communications Component 0313,Communications,SUP022,Aerospace Supplier 22,5340.6,1450,36,27,7743870.0,1414,Above Safety Stock
+CMP0314,Thermal Control Component 0314,Thermal Control,SUP023,Aerospace Supplier 23,1566.43,985,57,13,1542933.55,928,Above Safety Stock
+CMP0315,Communications Component 0315,Communications,SUP022,Aerospace Supplier 22,5334.99,752,97,36,4011912.48,655,Above Safety Stock
+CMP0316,Electronics Component 0316,Electronics,SUP019,Aerospace Supplier 19,304.25,963,34,38,292992.75,929,Above Safety Stock
+CMP0317,Electronics Component 0317,Electronics,SUP019,Aerospace Supplier 19,1486.06,1436,89,45,2133982.16,1347,Above Safety Stock
+CMP0318,Communications Component 0318,Communications,SUP022,Aerospace Supplier 22,2932.55,1553,56,40,4554250.15,1497,Above Safety Stock
+CMP0319,Power Systems Component 0319,Power Systems,SUP012,Aerospace Supplier 12,5268.94,1224,56,30,6449182.56,1168,Above Safety Stock
+CMP0320,Propulsion Component 0320,Propulsion,SUP020,Aerospace Supplier 20,3246.29,759,73,35,2463934.11,686,Above Safety Stock
+CMP0321,Electronics Component 0321,Electronics,SUP030,Aerospace Supplier 30,848.82,1619,51,20,1374239.58,1568,Above Safety Stock
+CMP0322,Communications Component 0322,Communications,SUP025,Aerospace Supplier 25,631.38,1775,22,29,1120699.5,1753,Above Safety Stock
+CMP0323,Structural Component 0323,Structural,SUP017,Aerospace Supplier 17,984.63,1274,43,15,1254418.62,1231,Above Safety Stock
+CMP0324,Thermal Control Component 0324,Thermal Control,SUP001,Aerospace Supplier 01,2310.71,1214,86,20,2805201.94,1128,Above Safety Stock
+CMP0325,Thermal Control Component 0325,Thermal Control,SUP010,Aerospace Supplier 10,2159.39,1391,33,23,3003711.49,1358,Above Safety Stock
+CMP0326,Sensors Component 0326,Sensors,SUP029,Aerospace Supplier 29,517.18,1376,74,5,711639.68,1302,Above Safety Stock
+CMP0327,Electronics Component 0327,Electronics,SUP005,Aerospace Supplier 05,1347.04,1645,82,36,2215880.8,1563,Above Safety Stock
+CMP0328,Propulsion Component 0328,Propulsion,SUP036,Aerospace Supplier 36,4964.58,1376,92,24,6831262.08,1284,Above Safety Stock
+CMP0329,Thermal Control Component 0329,Thermal Control,SUP037,Aerospace Supplier 37,379.02,1137,47,24,430945.74,1090,Above Safety Stock
+CMP0330,Communications Component 0330,Communications,SUP025,Aerospace Supplier 25,4852.83,1925,35,13,9341697.75,1890,Above Safety Stock
+CMP0331,Power Systems Component 0331,Power Systems,SUP002,Aerospace Supplier 02,1440.16,1759,28,26,2533241.44,1731,Above Safety Stock
+CMP0332,Propulsion Component 0332,Propulsion,SUP015,Aerospace Supplier 15,8672.68,1283,30,18,11127048.44,1253,Above Safety Stock
+CMP0333,Structural Component 0333,Structural,SUP017,Aerospace Supplier 17,287.92,1062,62,19,305771.04,1000,Above Safety Stock
+CMP0334,Propulsion Component 0334,Propulsion,SUP036,Aerospace Supplier 36,2451.21,1459,69,41,3576315.39,1390,Above Safety Stock
+CMP0335,Electronics Component 0335,Electronics,SUP038,Aerospace Supplier 38,194.76,795,81,7,154834.2,714,Above Safety Stock
+CMP0336,Electronics Component 0336,Electronics,SUP019,Aerospace Supplier 19,226.85,1791,70,39,406288.35,1721,Above Safety Stock
+CMP0337,Power Systems Component 0337,Power Systems,SUP012,Aerospace Supplier 12,4963.9,554,76,10,2750000.6,478,Above Safety Stock
+CMP0338,Power Systems Component 0338,Power Systems,SUP002,Aerospace Supplier 02,2557.27,2898,23,18,7410968.46,2875,Above Safety Stock
+CMP0339,Sensors Component 0339,Sensors,SUP040,Aerospace Supplier 40,2968.93,913,94,42,2710633.09,819,Above Safety Stock
+CMP0340,Propulsion Component 0340,Propulsion,SUP036,Aerospace Supplier 36,5237.08,1700,99,25,8903036.0,1601,Above Safety Stock
+CMP0341,Structural Component 0341,Structural,SUP039,Aerospace Supplier 39,1394.49,2330,85,37,3249161.7,2245,Above Safety Stock
+CMP0342,Communications Component 0342,Communications,SUP025,Aerospace Supplier 25,2451.27,2525,30,12,6189456.75,2495,Above Safety Stock
+CMP0343,Power Systems Component 0343,Power Systems,SUP002,Aerospace Supplier 02,5230.33,1400,22,28,7322462.0,1378,Above Safety Stock
+CMP0344,Structural Component 0344,Structural,SUP024,Aerospace Supplier 24,1567.16,2014,53,30,3156260.24,1961,Above Safety Stock
+CMP0345,Structural Component 0345,Structural,SUP039,Aerospace Supplier 39,3271.45,2099,79,36,6866773.55,2020,Above Safety Stock
+CMP0346,Structural Component 0346,Structural,SUP017,Aerospace Supplier 17,2030.98,1777,56,23,3609051.46,1721,Above Safety Stock
+CMP0347,Structural Component 0347,Structural,SUP024,Aerospace Supplier 24,1984.96,1742,49,44,3457800.32,1693,Above Safety Stock
+CMP0348,Structural Component 0348,Structural,SUP006,Aerospace Supplier 06,421.78,1436,50,11,605676.08,1386,Above Safety Stock
+CMP0349,Sensors Component 0349,Sensors,SUP032,Aerospace Supplier 32,2067.66,766,89,37,1583827.56,677,Above Safety Stock
+CMP0350,Sensors Component 0350,Sensors,SUP032,Aerospace Supplier 32,1435.63,589,81,38,845586.07,508,Above Safety Stock
+CMP0351,Power Systems Component 0351,Power Systems,SUP012,Aerospace Supplier 12,3685.02,928,28,45,3419698.56,900,Above Safety Stock
+CMP0352,Electronics Component 0352,Electronics,SUP030,Aerospace Supplier 30,619.1,1044,96,42,646340.4,948,Above Safety Stock
+CMP0353,Power Systems Component 0353,Power Systems,SUP012,Aerospace Supplier 12,276.56,776,69,43,214610.56,707,Above Safety Stock
+CMP0354,Communications Component 0354,Communications,SUP033,Aerospace Supplier 33,477.77,1392,65,35,665055.84,1327,Above Safety Stock
+CMP0355,Propulsion Component 0355,Propulsion,SUP036,Aerospace Supplier 36,5215.97,1412,36,23,7364949.64,1376,Above Safety Stock
+CMP0356,Electronics Component 0356,Electronics,SUP030,Aerospace Supplier 30,529.54,832,83,41,440577.28,749,Above Safety Stock
+CMP0357,Power Systems Component 0357,Power Systems,SUP002,Aerospace Supplier 02,3499.2,1326,24,32,4639939.2,1302,Above Safety Stock
+CMP0358,Propulsion Component 0358,Propulsion,SUP020,Aerospace Supplier 20,5217.61,1220,82,26,6365484.2,1138,Above Safety Stock
+CMP0359,Propulsion Component 0359,Propulsion,SUP036,Aerospace Supplier 36,9654.01,2019,84,39,19491446.19,1935,Above Safety Stock
+CMP0360,Propulsion Component 0360,Propulsion,SUP036,Aerospace Supplier 36,8842.4,1873,68,20,16561815.2,1805,Above Safety Stock
+CMP0361,Electronics Component 0361,Electronics,SUP003,Aerospace Supplier 03,1225.9,2882,60,15,3533043.8,2822,Above Safety Stock
+CMP0362,Sensors Component 0362,Sensors,SUP029,Aerospace Supplier 29,3114.61,1089,99,22,3391810.29,990,Above Safety Stock
+CMP0363,Power Systems Component 0363,Power Systems,SUP002,Aerospace Supplier 02,2651.31,2013,30,41,5337087.03,1983,Above Safety Stock
+CMP0364,Thermal Control Component 0364,Thermal Control,SUP004,Aerospace Supplier 04,1244.93,872,87,17,1085578.96,785,Above Safety Stock
+CMP0365,Thermal Control Component 0365,Thermal Control,SUP027,Aerospace Supplier 27,242.29,1277,96,25,309404.33,1181,Above Safety Stock
+CMP0366,Sensors Component 0366,Sensors,SUP018,Aerospace Supplier 18,984.28,1320,75,32,1299249.6,1245,Above Safety Stock
+CMP0367,Electronics Component 0367,Electronics,SUP019,Aerospace Supplier 19,947.14,1568,31,28,1485115.52,1537,Above Safety Stock
+CMP0368,Sensors Component 0368,Sensors,SUP040,Aerospace Supplier 40,1228.77,1437,62,10,1765742.49,1375,Above Safety Stock
+CMP0369,Communications Component 0369,Communications,SUP022,Aerospace Supplier 22,2605.75,1395,35,25,3635021.25,1360,Above Safety Stock
+CMP0370,Power Systems Component 0370,Power Systems,SUP002,Aerospace Supplier 02,4901.58,2119,52,44,10386448.02,2067,Above Safety Stock
+CMP0371,Propulsion Component 0371,Propulsion,SUP015,Aerospace Supplier 15,6690.86,1152,100,41,7707870.72,1052,Above Safety Stock
+CMP0372,Communications Component 0372,Communications,SUP025,Aerospace Supplier 25,3188.21,1467,54,6,4677104.07,1413,Above Safety Stock
+CMP0373,Propulsion Component 0373,Propulsion,SUP026,Aerospace Supplier 26,9938.66,1617,58,32,16070813.22,1559,Above Safety Stock
+CMP0374,Electronics Component 0374,Electronics,SUP005,Aerospace Supplier 05,487.56,2306,77,42,1124313.36,2229,Above Safety Stock
+CMP0375,Structural Component 0375,Structural,SUP006,Aerospace Supplier 06,3281.97,1472,81,42,4831059.84,1391,Above Safety Stock
+CMP0376,Electronics Component 0376,Electronics,SUP005,Aerospace Supplier 05,1260.33,2400,24,11,3024792.0,2376,Above Safety Stock
+CMP0377,Thermal Control Component 0377,Thermal Control,SUP013,Aerospace Supplier 13,3675.62,1864,90,34,6851355.68,1774,Above Safety Stock
+CMP0378,Structural Component 0378,Structural,SUP039,Aerospace Supplier 39,314.6,1941,56,44,610638.6,1885,Above Safety Stock
+CMP0379,Structural Component 0379,Structural,SUP017,Aerospace Supplier 17,743.84,1901,61,13,1414039.84,1840,Above Safety Stock
+CMP0380,Power Systems Component 0380,Power Systems,SUP002,Aerospace Supplier 02,5236.99,2171,27,34,11369505.29,2144,Above Safety Stock
+CMP0381,Sensors Component 0381,Sensors,SUP034,Aerospace Supplier 34,4884.31,2762,70,19,13490464.22,2692,Above Safety Stock
+CMP0382,Power Systems Component 0382,Power Systems,SUP012,Aerospace Supplier 12,4825.78,777,30,27,3749631.06,747,Above Safety Stock
+CMP0383,Structural Component 0383,Structural,SUP024,Aerospace Supplier 24,3156.33,599,37,22,1890641.67,562,Above Safety Stock
+CMP0384,Communications Component 0384,Communications,SUP031,Aerospace Supplier 31,3357.91,1315,59,20,4415651.65,1256,Above Safety Stock
+CMP0385,Propulsion Component 0385,Propulsion,SUP020,Aerospace Supplier 20,4219.31,348,29,34,1468319.88,319,Above Safety Stock
+CMP0386,Electronics Component 0386,Electronics,SUP030,Aerospace Supplier 30,696.81,1381,83,43,962294.61,1298,Above Safety Stock
+CMP0387,Thermal Control Component 0387,Thermal Control,SUP016,Aerospace Supplier 16,285.43,1236,45,40,352791.48,1191,Above Safety Stock
+CMP0388,Propulsion Component 0388,Propulsion,SUP020,Aerospace Supplier 20,2577.69,730,99,26,1881713.7,631,Above Safety Stock
+CMP0389,Communications Component 0389,Communications,SUP033,Aerospace Supplier 33,6847.19,1785,23,28,12222234.15,1762,Above Safety Stock
+CMP0390,Electronics Component 0390,Electronics,SUP019,Aerospace Supplier 19,141.83,1178,32,13,167075.74,1146,Above Safety Stock
+CMP0391,Propulsion Component 0391,Propulsion,SUP026,Aerospace Supplier 26,9168.26,2124,41,32,19473384.24,2083,Above Safety Stock
+CMP0392,Communications Component 0392,Communications,SUP031,Aerospace Supplier 31,5663.91,2135,36,30,12092447.85,2099,Above Safety Stock
+CMP0393,Communications Component 0393,Communications,SUP033,Aerospace Supplier 33,6657.25,1553,30,9,10338709.25,1523,Above Safety Stock
+CMP0394,Electronics Component 0394,Electronics,SUP019,Aerospace Supplier 19,684.87,1451,38,43,993746.37,1413,Above Safety Stock
+CMP0395,Thermal Control Component 0395,Thermal Control,SUP011,Aerospace Supplier 11,3117.48,2194,30,22,6839751.12,2164,Above Safety Stock
+CMP0396,Propulsion Component 0396,Propulsion,SUP026,Aerospace Supplier 26,6705.32,2205,45,32,14785230.6,2160,Above Safety Stock
+CMP0397,Propulsion Component 0397,Propulsion,SUP020,Aerospace Supplier 20,2672.13,1873,82,42,5004899.49,1791,Above Safety Stock
+CMP0398,Propulsion Component 0398,Propulsion,SUP026,Aerospace Supplier 26,2285.08,1401,95,9,3201397.08,1306,Above Safety Stock
+CMP0399,Communications Component 0399,Communications,SUP025,Aerospace Supplier 25,3780.98,1722,22,43,6510847.56,1700,Above Safety Stock
+CMP0400,Sensors Component 0400,Sensors,SUP014,Aerospace Supplier 14,2534.15,2282,100,24,5782930.3,2182,Above Safety Stock
+CMP0401,Power Systems Component 0401,Power Systems,SUP002,Aerospace Supplier 02,634.25,1590,79,14,1008457.5,1511,Above Safety Stock
+CMP0402,Propulsion Component 0402,Propulsion,SUP026,Aerospace Supplier 26,982.92,1178,71,45,1157879.76,1107,Above Safety Stock
+CMP0403,Electronics Component 0403,Electronics,SUP019,Aerospace Supplier 19,1350.3,1109,42,34,1497482.7,1067,Above Safety Stock
+CMP0404,Electronics Component 0404,Electronics,SUP035,Aerospace Supplier 35,989.87,1236,86,37,1223479.32,1150,Above Safety Stock
+CMP0405,Power Systems Component 0405,Power Systems,SUP002,Aerospace Supplier 02,3918.14,2448,35,36,9591606.72,2413,Above Safety Stock
+CMP0406,Communications Component 0406,Communications,SUP022,Aerospace Supplier 22,4738.95,1832,48,32,8681756.4,1784,Above Safety Stock
+CMP0407,Power Systems Component 0407,Power Systems,SUP012,Aerospace Supplier 12,2382.75,1042,68,30,2482825.5,974,Above Safety Stock
+CMP0408,Thermal Control Component 0408,Thermal Control,SUP011,Aerospace Supplier 11,2985.81,2415,60,23,7210731.15,2355,Above Safety Stock
+CMP0409,Sensors Component 0409,Sensors,SUP009,Aerospace Supplier 09,3776.98,1091,48,20,4120685.18,1043,Above Safety Stock
+CMP0410,Propulsion Component 0410,Propulsion,SUP020,Aerospace Supplier 20,7599.06,1206,70,41,9164466.36,1136,Above Safety Stock
+CMP0411,Thermal Control Component 0411,Thermal Control,SUP010,Aerospace Supplier 10,576.29,2036,28,37,1173326.44,2008,Above Safety Stock
+CMP0412,Propulsion Component 0412,Propulsion,SUP020,Aerospace Supplier 20,3267.63,1477,36,26,4826289.51,1441,Above Safety Stock
+CMP0413,Propulsion Component 0413,Propulsion,SUP036,Aerospace Supplier 36,7725.19,1180,33,39,9115724.2,1147,Above Safety Stock
+CMP0414,Propulsion Component 0414,Propulsion,SUP036,Aerospace Supplier 36,5044.85,1380,48,11,6961893.0,1332,Above Safety Stock
+CMP0415,Structural Component 0415,Structural,SUP017,Aerospace Supplier 17,1148.33,1770,50,33,2032544.1,1720,Above Safety Stock
+CMP0416,Sensors Component 0416,Sensors,SUP034,Aerospace Supplier 34,535.67,1645,77,24,881177.15,1568,Above Safety Stock
+CMP0417,Propulsion Component 0417,Propulsion,SUP036,Aerospace Supplier 36,7605.91,1444,28,13,10982934.04,1416,Above Safety Stock
+CMP0418,Sensors Component 0418,Sensors,SUP018,Aerospace Supplier 18,1355.61,1395,86,19,1891075.95,1309,Above Safety Stock
+CMP0419,Propulsion Component 0419,Propulsion,SUP015,Aerospace Supplier 15,4941.1,782,47,34,3863940.2,735,Above Safety Stock
+CMP0420,Propulsion Component 0420,Propulsion,SUP036,Aerospace Supplier 36,3481.54,1237,80,16,4306664.98,1157,Above Safety Stock
+CMP0421,Structural Component 0421,Structural,SUP006,Aerospace Supplier 06,1591.99,1917,76,40,3051844.83,1841,Above Safety Stock
+CMP0422,Structural Component 0422,Structural,SUP039,Aerospace Supplier 39,2694.73,2867,39,43,7725790.91,2828,Above Safety Stock
+CMP0423,Structural Component 0423,Structural,SUP017,Aerospace Supplier 17,2286.19,1344,21,30,3072639.36,1323,Above Safety Stock
+CMP0424,Power Systems Component 0424,Power Systems,SUP002,Aerospace Supplier 02,5366.23,1286,69,42,6900971.78,1217,Above Safety Stock
+CMP0425,Sensors Component 0425,Sensors,SUP034,Aerospace Supplier 34,2412.47,1772,81,34,4274896.84,1691,Above Safety Stock
+CMP0426,Electronics Component 0426,Electronics,SUP030,Aerospace Supplier 30,766.76,1674,58,21,1283556.24,1616,Above Safety Stock
+CMP0427,Sensors Component 0427,Sensors,SUP029,Aerospace Supplier 29,2850.38,930,72,45,2650853.4,858,Above Safety Stock
+CMP0428,Electronics Component 0428,Electronics,SUP035,Aerospace Supplier 35,1199.86,941,38,39,1129068.26,903,Above Safety Stock
+CMP0429,Thermal Control Component 0429,Thermal Control,SUP037,Aerospace Supplier 37,3510.71,1394,29,11,4893929.74,1365,Above Safety Stock
+CMP0430,Structural Component 0430,Structural,SUP006,Aerospace Supplier 06,1011.49,1438,52,29,1454522.62,1386,Above Safety Stock
+CMP0431,Communications Component 0431,Communications,SUP033,Aerospace Supplier 33,2609.09,1298,100,30,3386598.82,1198,Above Safety Stock
+CMP0432,Structural Component 0432,Structural,SUP006,Aerospace Supplier 06,763.63,1903,33,7,1453187.89,1870,Above Safety Stock
+CMP0433,Communications Component 0433,Communications,SUP033,Aerospace Supplier 33,2999.29,948,24,5,2843326.92,924,Above Safety Stock
+CMP0434,Communications Component 0434,Communications,SUP031,Aerospace Supplier 31,1475.6,1363,35,38,2011242.8,1328,Above Safety Stock
+CMP0435,Power Systems Component 0435,Power Systems,SUP002,Aerospace Supplier 02,5501.39,2415,82,17,13285856.85,2333,Above Safety Stock
+CMP0436,Communications Component 0436,Communications,SUP033,Aerospace Supplier 33,1876.22,1448,85,16,2716766.56,1363,Above Safety Stock
+CMP0437,Structural Component 0437,Structural,SUP039,Aerospace Supplier 39,999.63,1878,20,45,1877305.14,1858,Above Safety Stock
+CMP0438,Sensors Component 0438,Sensors,SUP032,Aerospace Supplier 32,3923.8,1025,40,36,4021895.0,985,Above Safety Stock
+CMP0439,Communications Component 0439,Communications,SUP025,Aerospace Supplier 25,5895.34,1831,88,32,10794367.54,1743,Above Safety Stock
+CMP0440,Electronics Component 0440,Electronics,SUP030,Aerospace Supplier 30,1491.41,1232,66,6,1837417.12,1166,Above Safety Stock
+CMP0441,Propulsion Component 0441,Propulsion,SUP015,Aerospace Supplier 15,5429.69,807,79,36,4381759.83,728,Above Safety Stock
+CMP0442,Electronics Component 0442,Electronics,SUP003,Aerospace Supplier 03,1133.26,995,52,20,1127593.7,943,Above Safety Stock
+CMP0443,Propulsion Component 0443,Propulsion,SUP015,Aerospace Supplier 15,2357.21,1187,65,22,2798008.27,1122,Above Safety Stock
+CMP0444,Sensors Component 0444,Sensors,SUP032,Aerospace Supplier 32,3282.81,1862,89,33,6112592.22,1773,Above Safety Stock
+CMP0445,Electronics Component 0445,Electronics,SUP038,Aerospace Supplier 38,647.17,1339,72,14,866560.63,1267,Above Safety Stock
+CMP0446,Power Systems Component 0446,Power Systems,SUP002,Aerospace Supplier 02,4446.44,1802,39,35,8012484.88,1763,Above Safety Stock
+CMP0447,Power Systems Component 0447,Power Systems,SUP002,Aerospace Supplier 02,2942.33,1053,30,12,3098273.49,1023,Above Safety Stock
+CMP0448,Propulsion Component 0448,Propulsion,SUP020,Aerospace Supplier 20,3249.58,1813,57,37,5891488.54,1756,Above Safety Stock
+CMP0449,Propulsion Component 0449,Propulsion,SUP036,Aerospace Supplier 36,8125.85,1097,71,29,8914057.45,1026,Above Safety Stock
+CMP0450,Propulsion Component 0450,Propulsion,SUP015,Aerospace Supplier 15,1782.86,1739,40,43,3100393.54,1699,Above Safety Stock
+CMP0451,Sensors Component 0451,Sensors,SUP018,Aerospace Supplier 18,1278.51,1623,52,30,2075021.73,1571,Above Safety Stock
+CMP0452,Structural Component 0452,Structural,SUP017,Aerospace Supplier 17,650.6,1419,22,31,923201.4,1397,Above Safety Stock
+CMP0453,Sensors Component 0453,Sensors,SUP034,Aerospace Supplier 34,1212.49,2009,51,30,2435892.41,1958,Above Safety Stock
+CMP0454,Thermal Control Component 0454,Thermal Control,SUP010,Aerospace Supplier 10,1026.5,1153,88,7,1183554.5,1065,Above Safety Stock
+CMP0455,Power Systems Component 0455,Power Systems,SUP012,Aerospace Supplier 12,2008.35,864,28,27,1735214.4,836,Above Safety Stock
+CMP0456,Thermal Control Component 0456,Thermal Control,SUP016,Aerospace Supplier 16,3156.23,1556,30,43,4911093.88,1526,Above Safety Stock
+CMP0457,Electronics Component 0457,Electronics,SUP035,Aerospace Supplier 35,689.77,784,24,12,540779.68,760,Above Safety Stock
+CMP0458,Sensors Component 0458,Sensors,SUP040,Aerospace Supplier 40,4138.43,990,80,35,4097045.7,910,Above Safety Stock
+CMP0459,Communications Component 0459,Communications,SUP022,Aerospace Supplier 22,1089.55,862,99,17,939192.1,763,Above Safety Stock
+CMP0460,Sensors Component 0460,Sensors,SUP032,Aerospace Supplier 32,2996.69,1796,60,21,5382055.24,1736,Above Safety Stock
+CMP0461,Thermal Control Component 0461,Thermal Control,SUP027,Aerospace Supplier 27,3665.64,1201,84,36,4402433.64,1117,Above Safety Stock
+CMP0462,Thermal Control Component 0462,Thermal Control,SUP010,Aerospace Supplier 10,2163.9,850,74,12,1839315.0,776,Above Safety Stock
+CMP0463,Structural Component 0463,Structural,SUP039,Aerospace Supplier 39,3366.13,1328,20,38,4470220.64,1308,Above Safety Stock
+CMP0464,Power Systems Component 0464,Power Systems,SUP002,Aerospace Supplier 02,2274.29,1370,99,31,3115777.3,1271,Above Safety Stock
+CMP0465,Communications Component 0465,Communications,SUP025,Aerospace Supplier 25,6910.41,2477,37,29,17117085.57,2440,Above Safety Stock
+CMP0466,Structural Component 0466,Structural,SUP024,Aerospace Supplier 24,1065.77,2209,90,37,2354285.93,2119,Above Safety Stock
+CMP0467,Communications Component 0467,Communications,SUP025,Aerospace Supplier 25,6865.86,2405,58,36,16512393.3,2347,Above Safety Stock
+CMP0468,Structural Component 0468,Structural,SUP006,Aerospace Supplier 06,1245.31,1656,82,29,2062233.36,1574,Above Safety Stock
+CMP0469,Structural Component 0469,Structural,SUP024,Aerospace Supplier 24,2920.62,1757,96,23,5131529.34,1661,Above Safety Stock
+CMP0470,Propulsion Component 0470,Propulsion,SUP036,Aerospace Supplier 36,5853.47,1324,77,25,7749994.28,1247,Above Safety Stock
+CMP0471,Sensors Component 0471,Sensors,SUP008,Aerospace Supplier 08,1871.72,1272,86,35,2380827.84,1186,Above Safety Stock
+CMP0472,Electronics Component 0472,Electronics,SUP038,Aerospace Supplier 38,1420.47,1301,52,7,1848031.47,1249,Above Safety Stock
+CMP0473,Structural Component 0473,Structural,SUP024,Aerospace Supplier 24,975.88,1518,62,14,1481385.84,1456,Above Safety Stock
+CMP0474,Thermal Control Component 0474,Thermal Control,SUP023,Aerospace Supplier 23,981.31,1042,91,26,1022525.02,951,Above Safety Stock
+CMP0475,Structural Component 0475,Structural,SUP039,Aerospace Supplier 39,935.38,2508,84,21,2345933.04,2424,Above Safety Stock
+CMP0476,Electronics Component 0476,Electronics,SUP019,Aerospace Supplier 19,1079.52,1388,97,31,1498373.76,1291,Above Safety Stock
+CMP0477,Structural Component 0477,Structural,SUP024,Aerospace Supplier 24,1907.48,1621,28,10,3092025.08,1593,Above Safety Stock
+CMP0478,Sensors Component 0478,Sensors,SUP008,Aerospace Supplier 08,1167.37,1065,71,41,1243249.05,994,Above Safety Stock
+CMP0479,Thermal Control Component 0479,Thermal Control,SUP027,Aerospace Supplier 27,1495.82,1406,98,10,2103122.92,1308,Above Safety Stock
+CMP0480,Electronics Component 0480,Electronics,SUP005,Aerospace Supplier 05,1359.19,1324,98,42,1799567.56,1226,Above Safety Stock
+CMP0481,Thermal Control Component 0481,Thermal Control,SUP010,Aerospace Supplier 10,801.17,2401,43,10,1923609.17,2358,Above Safety Stock
+CMP0482,Electronics Component 0482,Electronics,SUP005,Aerospace Supplier 05,153.39,1049,29,45,160906.11,1020,Above Safety Stock
+CMP0483,Electronics Component 0483,Electronics,SUP003,Aerospace Supplier 03,242.19,1852,62,35,448535.88,1790,Above Safety Stock
+CMP0484,Communications Component 0484,Communications,SUP007,Aerospace Supplier 07,4527.11,1415,82,41,6405860.65,1333,Above Safety Stock
+CMP0485,Structural Component 0485,Structural,SUP024,Aerospace Supplier 24,1875.23,2147,96,21,4026118.81,2051,Above Safety Stock
+CMP0486,Sensors Component 0486,Sensors,SUP032,Aerospace Supplier 32,2444.73,727,48,11,1777318.71,679,Above Safety Stock
+CMP0487,Structural Component 0487,Structural,SUP039,Aerospace Supplier 39,986.39,1295,54,35,1277375.05,1241,Above Safety Stock
+CMP0488,Propulsion Component 0488,Propulsion,SUP036,Aerospace Supplier 36,3636.91,1415,88,33,5146227.65,1327,Above Safety Stock
+CMP0489,Communications Component 0489,Communications,SUP033,Aerospace Supplier 33,820.89,1296,91,13,1063873.44,1205,Above Safety Stock
+CMP0490,Structural Component 0490,Structural,SUP039,Aerospace Supplier 39,2442.26,2574,37,42,6286377.24,2537,Above Safety Stock
+CMP0491,Electronics Component 0491,Electronics,SUP005,Aerospace Supplier 05,874.81,1564,40,18,1368202.84,1524,Above Safety Stock
+CMP0492,Sensors Component 0492,Sensors,SUP014,Aerospace Supplier 14,3129.61,1837,70,30,5749093.57,1767,Above Safety Stock
+CMP0493,Power Systems Component 0493,Power Systems,SUP002,Aerospace Supplier 02,4237.86,1922,70,27,8145166.92,1852,Above Safety Stock
+CMP0494,Communications Component 0494,Communications,SUP028,Aerospace Supplier 28,3293.82,1395,25,21,4594878.9,1370,Above Safety Stock
+CMP0495,Sensors Component 0495,Sensors,SUP008,Aerospace Supplier 08,1267.37,972,46,39,1231883.64,926,Above Safety Stock
+CMP0496,Thermal Control Component 0496,Thermal Control,SUP023,Aerospace Supplier 23,3344.54,1652,39,27,5525180.08,1613,Above Safety Stock
+CMP0497,Electronics Component 0497,Electronics,SUP035,Aerospace Supplier 35,735.21,1258,63,8,924894.18,1195,Above Safety Stock
+CMP0498,Communications Component 0498,Communications,SUP031,Aerospace Supplier 31,3595.14,1255,95,26,4511900.7,1160,Above Safety Stock
+CMP0499,Communications Component 0499,Communications,SUP028,Aerospace Supplier 28,5241.35,1189,29,21,6231965.15,1160,Above Safety Stock
+CMP0500,Sensors Component 0500,Sensors,SUP032,Aerospace Supplier 32,4624.09,1361,59,25,6293386.49,1302,Above Safety Stock

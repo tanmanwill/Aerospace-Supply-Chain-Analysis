@@ -1,0 +1,41 @@
+SupplierID,SupplierName,SupplierCategory,Location,ReliabilityRating,TotalShipments,OnTimeShipments,OnTimeDeliveryRate,TotalUnitsReceived,TotalDefectiveUnits,DefectRate,RiskCategory
+SUP001,Aerospace Supplier 01,Thermal Control,"Houston, TX",79.92,69,50,72.46,7301,2445,33.49,Moderate Risk
+SUP002,Aerospace Supplier 02,Power Systems,"Los Angeles, CA",88.71,587,509,86.71,61968,1208,1.95,Low Risk
+SUP003,Aerospace Supplier 03,Electronics,"Austin, TX",98.17,242,181,74.79,24512,1080,4.41,Moderate Risk
+SUP004,Aerospace Supplier 04,Thermal Control,"Denver, CO",91.73,96,73,76.04,9575,4174,43.59,Moderate Risk
+SUP005,Aerospace Supplier 05,Electronics,"Seattle, WA",80.31,222,172,77.48,24154,4766,19.73,Moderate Risk
+SUP006,Aerospace Supplier 06,Structural,"Seattle, WA",96.51,245,201,82.04,25585,5434,21.24,Moderate Risk
+SUP007,Aerospace Supplier 07,Communications,"Phoenix, AZ",92.97,99,66,66.67,10375,4383,42.25,High Risk
+SUP008,Aerospace Supplier 08,Sensors,"Seattle, WA",72.73,139,104,74.82,14814,3060,20.66,Moderate Risk
+SUP009,Aerospace Supplier 09,Sensors,"Houston, TX",67.17,70,62,88.57,7435,3565,47.95,Moderate Risk
+SUP010,Aerospace Supplier 10,Thermal Control,"Phoenix, AZ",86.48,236,179,75.85,26440,4655,17.61,Moderate Risk
+SUP011,Aerospace Supplier 11,Thermal Control,"Austin, TX",77.05,106,79,74.53,11657,525,4.5,Moderate Risk
+SUP012,Aerospace Supplier 12,Power Systems,"Houston, TX",95.37,454,368,81.06,46283,21646,46.77,Moderate Risk
+SUP013,Aerospace Supplier 13,Thermal Control,"Denver, CO",71.62,130,115,88.46,13345,1610,12.06,Low Risk
+SUP014,Aerospace Supplier 14,Sensors,"Dallas, TX",66.49,136,113,83.09,15204,1890,12.43,Low Risk
+SUP015,Aerospace Supplier 15,Propulsion,"Seattle, WA",88.22,305,172,56.39,33882,12057,35.59,High Risk
+SUP016,Aerospace Supplier 16,Thermal Control,"Hunstville, AL",97.9,191,115,60.21,19575,8441,43.12,High Risk
+SUP017,Aerospace Supplier 17,Structural,"Los Angeles, CA",77.6,386,261,67.62,39666,11122,28.04,Moderate Risk
+SUP018,Aerospace Supplier 18,Sensors,"Houston, TX",71.44,140,104,74.29,15316,5358,34.98,Moderate Risk
+SUP019,Aerospace Supplier 19,Electronics,"Los Angeles, CA",81.17,511,348,68.1,52838,16190,30.64,High Risk
+SUP020,Aerospace Supplier 20,Propulsion,"Dallas, TX",87.77,498,358,71.89,52202,17728,33.96,Moderate Risk
+SUP021,Aerospace Supplier 21,Sensors,"Hunstville, AL",93.31,136,117,86.03,13960,3932,28.17,Moderate Risk
+SUP022,Aerospace Supplier 22,Communications,"Denver, CO",75.62,281,205,72.95,27771,7534,27.13,Moderate Risk
+SUP023,Aerospace Supplier 23,Thermal Control,"Phoenix, AZ",92.36,140,98,70.0,14370,5451,37.93,Moderate Risk
+SUP024,Aerospace Supplier 24,Structural,"Phoenix, AZ",74.8,403,252,62.53,40748,6781,16.64,Moderate Risk
+SUP025,Aerospace Supplier 25,Communications,"Austin, TX",69.75,307,230,74.92,31127,420,1.35,Moderate Risk
+SUP026,Aerospace Supplier 26,Propulsion,"Phoenix, AZ",65.25,309,261,84.47,31524,4179,13.26,Low Risk
+SUP027,Aerospace Supplier 27,Thermal Control,"Phoenix, AZ",87.6,149,91,61.07,15707,6200,39.47,High Risk
+SUP028,Aerospace Supplier 28,Communications,"Los Angeles, CA",91.54,280,227,81.07,28809,12678,44.01,Moderate Risk
+SUP029,Aerospace Supplier 29,Sensors,"Seattle, WA",84.34,93,65,69.89,10073,4043,40.14,High Risk
+SUP030,Aerospace Supplier 30,Electronics,"Houston, TX",68.89,233,176,75.54,23569,8514,36.12,Moderate Risk
+SUP031,Aerospace Supplier 31,Communications,"Los Angeles, CA",81.02,176,135,76.7,18623,722,3.88,Moderate Risk
+SUP032,Aerospace Supplier 32,Sensors,"Phoenix, AZ",91.01,251,198,78.88,26553,9278,34.94,Moderate Risk
+SUP033,Aerospace Supplier 33,Communications,"Seattle, WA",83.82,320,188,58.75,33939,10859,32.0,High Risk
+SUP034,Aerospace Supplier 34,Sensors,"Houston, TX",75.33,250,159,63.6,26083,283,1.08,Moderate Risk
+SUP035,Aerospace Supplier 35,Electronics,"Seattle, WA",79.85,180,120,66.67,18401,7656,41.61,High Risk
+SUP036,Aerospace Supplier 36,Propulsion,"Hunstville, AL",78.89,452,357,78.98,46783,11690,24.99,Moderate Risk
+SUP037,Aerospace Supplier 37,Thermal Control,"Hunstville, AL",72.95,159,143,89.94,14585,1377,9.44,Low Risk
+SUP038,Aerospace Supplier 38,Electronics,"Phoenix, AZ",74.57,246,216,87.8,25663,9480,36.94,Moderate Risk
+SUP039,Aerospace Supplier 39,Structural,"Hunstville, AL",87.51,364,231,63.46,37981,2257,5.94,Moderate Risk
+SUP040,Aerospace Supplier 40,Sensors,"Austin, TX",91.65,140,90,64.29,14447,6062,41.96,High Risk
